@@ -1,0 +1,104 @@
+{
+  "last_updated": "2026-07-20T09:00:01.239894+00:00",
+  "total_tracked": 134,
+  "leaderboard": [
+    {
+      "name": "GPT-5.6 Sol",
+      "company": "OpenAI",
+      "type": "Proprietary",
+      "score": 94.2,
+      "trend": "up"
+    },
+    {
+      "name": "Claude Mythos 5",
+      "company": "Anthropic",
+      "type": "Proprietary",
+      "score": 93.1,
+      "trend": "up"
+    },
+    {
+      "name": "Grok 4.5",
+      "company": "xAI",
+      "type": "Proprietary",
+      "score": 91.8,
+      "trend": "up"
+    },
+    {
+      "name": "Kimi K3",
+      "company": "Moonshot",
+      "type": "Proprietary",
+      "score": 89.5,
+      "trend": "up"
+    },
+    {
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
+      "type": "Open Source",
+      "score": 85.0,
+      "trend": "up"
+    },
+    {
+      "name": "Bonsai-27B-gguf",
+      "company": "prism-ml",
+      "type": "Open Source",
+      "score": 84.5,
+      "trend": "up"
+    },
+    {
+      "name": "GLM-5.2",
+      "company": "zai-org",
+      "type": "Open Source",
+      "score": 84.0,
+      "trend": "up"
+    },
+    {
+      "name": "Hy3-GGUF",
+      "company": "AngelSlim",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "company": "GnLOLot",
+      "type": "Open Source",
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Bonsai-27B-mlx-1bit",
+      "company": "prism-ml",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "company": "GnLOLot",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "company": "prism-ml",
+      "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "Hy3",
+      "company": "tencent",
+      "type": "Open Source",
+      "score": 81.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Agents-A1",
+      "company": "InternScience",
+      "type": "Open Source",
+      "score": 80.5,
+      "trend": "flat"
+    }
+  ]
+}
