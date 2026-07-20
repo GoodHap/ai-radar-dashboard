@@ -1,9 +1,8 @@
-name: Hourly AI News Updater
+name: Hourly AI Ecosystem Updater (Pro)
 
 on:
   schedule:
-    # 修改为每小时运行一次
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # 每小时运行
   workflow_dispatch:
 
 permissions:
@@ -26,12 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Python Scraper
+      - name: Run Full Ecosystem Scraper
         run: python scraper.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push all data files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: update AI industry data (hourly)" && git push)
+          git add news.json models.json market.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: synchronize AI ecosystem data (News, Models, Market)" && git push)
