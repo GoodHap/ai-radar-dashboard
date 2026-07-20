@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T16:39:24.506949+00:00",
+  "last_updated": "2026-07-20T18:59:36.689250+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-      "company": "GnLOLot",
+      "name": "Bonsai-27B-mlx-1bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Bonsai-27B-mlx-1bit",
-      "company": "prism-ml",
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "company": "GnLOLot",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
