@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "source": "Hugging Face",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T15:58:51+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T15:23:06+00:00",
+    "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "title": "What to watch for after Jensen Huang’s Japan visit",
     "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
@@ -69,7 +87,7 @@
     "source": "TechCrunch AI",
     "date": "2026-07-17",
     "timestamp": "2026-07-17T22:12:56+00:00",
-    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
   },
   {
     "id": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
@@ -106,15 +124,6 @@
     "date": "2026-07-17",
     "timestamp": "2026-07-17T17:45:46+00:00",
     "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "source": "Hugging Face",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T15:57:54+00:00",
-    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
@@ -187,15 +196,6 @@
     "date": "2026-07-16",
     "timestamp": "2026-07-16T16:00:00+00:00",
     "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "title": "Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T15:38:55+00:00",
-    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar"
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
