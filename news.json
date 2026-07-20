@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T21:21:15+00:00",
+    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T20:50:40+00:00",
+    "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that le"
+  },
+  {
     "id": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "title": "X relaunches a rebuilt Android app after year-long effort",
     "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -169,24 +187,6 @@
     "date": "2026-07-17",
     "timestamp": "2026-07-17T14:00:00+00:00",
     "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T12:00:00+00:00",
-    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "title": "Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T18:32:54+00:00",
-    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
