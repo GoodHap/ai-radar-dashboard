@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T19:37:39+00:00",
+    "summary": "X says the rebuilt version of its Android app is now available globally."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T19:33:25+00:00",
+    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "title": "Introducing Cosmos 3 Edge",
     "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
@@ -7,6 +25,15 @@
     "date": "2026-07-20",
     "timestamp": "2026-07-20T15:58:51+00:00",
     "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "title": "Adobe camera app’s new feature will critique your photos using AI",
+    "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T15:45:00+00:00",
+    "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
   },
   {
     "id": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
@@ -162,15 +189,6 @@
     "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
   },
   {
-    "id": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T18:22:06+00:00",
-    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
     "title": "Connect more of your apps to Search",
     "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -187,15 +205,6 @@
     "date": "2026-07-16",
     "timestamp": "2026-07-16T16:00:00+00:00",
     "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T16:00:00+00:00",
-    "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
