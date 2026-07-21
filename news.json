@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T20:56:55+00:00",
+    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "Hugging Face",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T20:00:27+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T19:43:41+00:00",
+    "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
     "title": "AI and the rise of the universal entertainment app",
     "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
@@ -117,15 +144,6 @@
     "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "title": "Introducing Cosmos 3 Edge",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "source": "Hugging Face",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T15:58:51+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "title": "Adobe camera app’s new feature will critique your photos using AI",
     "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
@@ -178,24 +196,6 @@
     "date": "2026-07-19",
     "timestamp": "2026-07-19T14:00:00+00:00",
     "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "title": "Kimi: Threat or menace?",
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-18",
-    "timestamp": "2026-07-18T18:51:07+00:00",
-    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-18",
-    "timestamp": "2026-07-18T04:47:25+00:00",
-    "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
