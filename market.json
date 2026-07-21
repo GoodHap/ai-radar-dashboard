@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-21",
+      "company": "Gritt",
+      "amount": "$34 MILLION",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
+    },
+    {
+      "date": "2026-07-21",
       "company": "Anthropic’s",
       "amount": "$1.5B",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",

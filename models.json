@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T07:37:51.850843+00:00",
+  "last_updated": "2026-07-21T10:31:54.426296+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Hy3-GGUF",
-      "company": "AngelSlim",
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "company": "GnLOLot",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-      "company": "GnLOLot",
+      "name": "Hy3-GGUF",
+      "company": "AngelSlim",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Hy3",
-      "company": "tencent",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Agents-A1",
-      "company": "InternScience",
+      "name": "Hy3",
+      "company": "tencent",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

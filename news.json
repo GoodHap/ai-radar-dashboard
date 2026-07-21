@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T10:00:00+00:00",
+    "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
@@ -7,6 +16,15 @@
     "date": "2026-07-21",
     "timestamp": "2026-07-21T00:12:24+00:00",
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+  },
+  {
+    "id": "https://huggingface.co/blog/grabette",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "source": "Hugging Face",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
@@ -178,15 +196,6 @@
     "date": "2026-07-17",
     "timestamp": "2026-07-17T20:09:27+00:00",
     "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
-  },
-  {
-    "id": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T17:45:46+00:00",
-    "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
