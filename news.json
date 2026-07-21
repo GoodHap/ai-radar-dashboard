@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T17:11:50+00:00",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T15:37:05+00:00",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
@@ -180,24 +198,6 @@
     "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
   },
   {
-    "id": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T21:20:47+00:00",
-    "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T20:19:49+00:00",
-    "summary": "Agility is opening a new training center for its Digit robots in Fremont, California."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
     "title": "Connect more of your apps to Search",
     "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -339,15 +339,6 @@
     "source": "Hugging Face",
     "date": "2026-07-07",
     "timestamp": "2026-07-07T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "title": "PRX Part 4: Our Data Strategy",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "source": "Hugging Face",
-    "date": "2026-07-06",
-    "timestamp": "2026-07-06T15:30:55+00:00",
     "summary": ""
   }
 ]
