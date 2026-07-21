@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "title": "AI and the rise of the universal entertainment app",
+    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T19:39:30+00:00",
+    "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T18:06:38+00:00",
+    "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
     "title": "Google releases three new Gemini models — but no 3.5 Pro",
     "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
@@ -178,24 +196,6 @@
     "date": "2026-07-18",
     "timestamp": "2026-07-18T04:47:25+00:00",
     "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T22:55:09+00:00",
-    "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-17",
-    "timestamp": "2026-07-17T22:12:56+00:00",
-    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",

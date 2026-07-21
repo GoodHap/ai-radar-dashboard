@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T17:38:13.758680+00:00",
+  "last_updated": "2026-07-21T19:43:29.827656+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Hy3-GGUF",
-      "company": "AngelSlim",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Hy3-GGUF",
+      "company": "AngelSlim",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Hy3",
-      "company": "tencent",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
