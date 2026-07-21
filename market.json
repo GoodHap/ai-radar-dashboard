@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-21",
+      "company": "Anthropic’s",
+      "amount": "$1.5B",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+    },
+    {
       "date": "2026-07-17",
       "company": "Databricks",
       "amount": "$188B",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T00:04:01.898017+00:00",
+  "last_updated": "2026-07-21T04:21:02.443699+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Hy3-GGUF",
-      "company": "AngelSlim",
+      "name": "Bonsai-27B-mlx-1bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Bonsai-27B-mlx-1bit",
-      "company": "prism-ml",
+      "name": "Hy3-GGUF",
+      "company": "AngelSlim",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
