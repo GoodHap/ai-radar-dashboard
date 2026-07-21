@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:41:24.413412+00:00",
+  "last_updated": "2026-07-21T15:09:53.587847+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,22 +66,22 @@
       "trend": "flat"
     },
     {
-      "name": "Hy3-GGUF",
-      "company": "AngelSlim",
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "company": "GnLOLot",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "company": "GnLOLot",
+      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "Hy3-GGUF",
+      "company": "AngelSlim",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
