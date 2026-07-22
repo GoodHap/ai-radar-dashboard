@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T06:37:52.897140+00:00",
+  "last_updated": "2026-07-22T09:32:50.395483+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "company": "GnLOLot",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "company": "GnLOLot",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
