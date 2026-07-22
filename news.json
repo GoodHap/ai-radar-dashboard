@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T22:01:52+00:00",
+    "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T20:49:03+00:00",
+    "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
     "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
     "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
@@ -180,24 +198,6 @@
     "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
   },
   {
-    "id": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "title": "Google releases three new Gemini models — but no 3.5 Pro",
-    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T17:11:50+00:00",
-    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "title": "US threatens sanctions against Chinese AI models over IP theft",
-    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T15:37:05+00:00",
-    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
-  },
-  {
     "id": "https://huggingface.co/blog/grabette",
     "title": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
@@ -303,15 +303,6 @@
     "source": "Hugging Face",
     "date": "2026-07-08",
     "timestamp": "2026-07-08T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "source": "Hugging Face",
-    "date": "2026-07-07",
-    "timestamp": "2026-07-07T21:15:33+00:00",
     "summary": ""
   }
 ]
