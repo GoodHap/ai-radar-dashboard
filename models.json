@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T03:31:00.301216+00:00",
+  "last_updated": "2026-07-22T06:37:52.897140+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,8 +59,8 @@
       "trend": "flat"
     },
     {
-      "name": "Bonsai-27B-mlx-1bit",
-      "company": "prism-ml",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "name": "Bonsai-27B-mlx-1bit",
       "company": "prism-ml",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
