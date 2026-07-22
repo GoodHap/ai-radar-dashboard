@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-22",
+      "company": "Glow",
+      "amount": "$1.2B",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
+    },
+    {
       "date": "2026-07-21",
       "company": "Gritt",
       "amount": "$32 MILLION",
