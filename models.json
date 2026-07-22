@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T11:55:11.051159+00:00",
+  "last_updated": "2026-07-22T14:14:48.519979+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Bonsai-27B-mlx-1bit",
-      "company": "prism-ml",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "name": "Bonsai-27B-mlx-1bit",
       "company": "prism-ml",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-NVFP4",
-      "company": "poolside",
+      "name": "Ternary-Bonsai-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
