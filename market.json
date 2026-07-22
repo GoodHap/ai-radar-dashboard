@@ -3,10 +3,24 @@
   "funding_events": [
     {
       "date": "2026-07-22",
+      "company": "Yope",
+      "amount": "$12.3M",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
+    },
+    {
+      "date": "2026-07-22",
       "company": "OpenAI’s",
       "amount": "$750B",
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
       "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+    },
+    {
+      "date": "2026-07-22",
+      "company": "Menlo",
+      "amount": "$47 BILLION",
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/"
     },
     {
       "date": "2026-07-22",
@@ -28,13 +42,6 @@
       "amount": "$32 MILLION",
       "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
       "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
-    },
-    {
-      "date": "2026-07-21",
-      "company": "Anthropic’s",
-      "amount": "$1.5B",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
     }
   ]
 }

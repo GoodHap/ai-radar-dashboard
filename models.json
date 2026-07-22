@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T16:26:56.713707+00:00",
+  "last_updated": "2026-07-22T18:14:53.284732+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"

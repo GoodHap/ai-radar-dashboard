@@ -1,12 +1,30 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T18:13:58+00:00",
+    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T17:54:14+00:00",
+    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
     "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
     "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
     "source": "TechCrunch AI",
     "date": "2026-07-22",
     "timestamp": "2026-07-22T16:24:08+00:00",
-    "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch."
+    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
   },
   {
     "id": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
@@ -25,6 +43,15 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T16:13:30+00:00",
     "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T14:00:00+00:00",
+    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16"
   },
   {
     "id": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -171,15 +198,6 @@
     "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
   },
   {
-    "id": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T00:12:24+00:00",
-    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
-  },
-  {
     "id": "https://huggingface.co/blog/grabette",
     "title": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
@@ -187,24 +205,6 @@
     "date": "2026-07-21",
     "timestamp": "2026-07-21T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "title": "Trump’s latest AI czar has already resigned",
-    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T22:21:04+00:00",
-    "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T21:21:15+00:00",
-    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
