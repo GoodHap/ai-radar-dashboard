@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T19:11:46+00:00",
+    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T18:50:44+00:00",
+    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
     "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
     "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
@@ -178,24 +196,6 @@
     "date": "2026-07-21",
     "timestamp": "2026-07-21T15:37:05+00:00",
     "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-    "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T13:27:42+00:00",
-    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T10:00:00+00:00",
-    "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
   },
   {
     "id": "https://huggingface.co/blog/grabette",

@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-22",
+      "company": "Travis",
+      "amount": "$1.7B",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "date": "2026-07-22",
       "company": "Yope",
       "amount": "$12.3M",
       "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
@@ -35,13 +42,6 @@
       "amount": "$1.2B",
       "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
       "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
-    },
-    {
-      "date": "2026-07-21",
-      "company": "Gritt",
-      "amount": "$32 MILLION",
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
     }
   ]
 }
