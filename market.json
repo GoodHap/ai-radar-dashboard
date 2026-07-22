@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-22",
+      "company": "OpenAI’s",
+      "amount": "$750B",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+    },
+    {
+      "date": "2026-07-22",
       "company": "Passionfroot",
       "amount": "$15M",
       "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",

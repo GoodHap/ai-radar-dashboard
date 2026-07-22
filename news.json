@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T16:24:08+00:00",
+    "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T16:23:09+00:00",
+    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T16:13:30+00:00",
+    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -180,33 +207,6 @@
     "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
   },
   {
-    "id": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "title": "AI’s most important protocol is getting a little bit easier to use",
-    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T20:50:40+00:00",
-    "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T19:37:39+00:00",
-    "summary": "X says the rebuilt version of its Android app is now available globally."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-20",
-    "timestamp": "2026-07-20T19:33:25+00:00",
-    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
     "title": "Connect more of your apps to Search",
     "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
@@ -312,15 +312,6 @@
     "source": "Hugging Face",
     "date": "2026-07-07",
     "timestamp": "2026-07-07T21:15:33+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "source": "Hugging Face",
-    "date": "2026-07-07",
-    "timestamp": "2026-07-07T15:20:06+00:00",
     "summary": ""
   }
 ]
