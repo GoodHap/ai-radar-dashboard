@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T23:47:54+00:00",
+    "summary": "After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
     "title": "Google justifies its massive AI spending with a booming cloud business",
     "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
@@ -189,15 +198,6 @@
     "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
   },
   {
-    "id": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-    "title": "Data centers expected to use 4x more electricity by 2035",
-    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T18:06:38+00:00",
-    "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
-  },
-  {
     "id": "https://huggingface.co/blog/grabette",
     "title": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
@@ -294,15 +294,6 @@
     "source": "Hugging Face",
     "date": "2026-07-10",
     "timestamp": "2026-07-10T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "title": "Native-speed vLLM transformers modeling backend",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "source": "Hugging Face",
-    "date": "2026-07-08",
-    "timestamp": "2026-07-08T00:00:00+00:00",
     "summary": ""
   }
 ]
