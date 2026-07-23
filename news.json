@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T15:00:00+00:00",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "title": "Nvidia is sending GPUs to the Moon",
+    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T15:00:00+00:00",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "title": "Google closes in on another billion- user product with Gemini",
+    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T14:52:44+00:00",
+    "summary": "Gemini had over 750 million monthly users in February."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
     "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
     "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
@@ -169,33 +196,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T08:00:00+00:00",
     "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T03:20:57+00:00",
-    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T23:55:10+00:00",
-    "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T20:56:55+00:00",
-    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",

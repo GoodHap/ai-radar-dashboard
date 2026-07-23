@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-23",
+      "company": "AI",
+      "amount": "$10.3B",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+    },
+    {
+      "date": "2026-07-23",
       "company": "ServiceNow",
       "amount": "$40 MILLION",
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
