@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T17:07:35+00:00",
+    "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, "
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T17:00:00+00:00",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T16:28:50+00:00",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "title": "Nvidia is sending GPUs to the moon",
+    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T15:00:00+00:00",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
     "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
@@ -9,17 +45,8 @@
     "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
   },
   {
-    "id": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "title": "Nvidia is sending GPUs to the Moon",
-    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T15:00:00+00:00",
-    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
-  },
-  {
     "id": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "title": "Google closes in on another billion- user product with Gemini",
+    "title": "Google’s Gemini nears billion-user milestone",
     "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
     "source": "TechCrunch AI",
     "date": "2026-07-23",
@@ -169,33 +196,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T13:00:00+00:00",
     "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T13:00:00+00:00",
-    "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T10:00:00+00:00",
-    "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T08:00:00+00:00",
-    "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
