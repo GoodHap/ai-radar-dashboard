@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T00:09:05.824627+00:00",
+  "last_updated": "2026-07-23T04:22:01.575433+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "company": "GnLOLot",
+      "name": "Laguna-S-2.1-NVFP4",
+      "company": "poolside",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
