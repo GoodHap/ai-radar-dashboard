@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T20:33:02+00:00",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "title": "Anthropic updates Claude voice mode with more capable models",
     "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "source": "TechCrunch AI",
     "date": "2026-07-23",
     "timestamp": "2026-07-23T19:00:00+00:00",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email"
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
   },
   {
     "id": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
@@ -178,15 +187,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T16:23:09+00:00",
     "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T16:13:30+00:00",
-    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
   },
   {
     "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
