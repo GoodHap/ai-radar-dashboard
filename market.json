@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-23",
+      "company": "AegisAI,",
+      "amount": "$36M",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
+    {
+      "date": "2026-07-23",
       "company": "AI",
       "amount": "$10.3B",
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
@@ -35,13 +42,6 @@
       "amount": "$750B",
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
       "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
-    },
-    {
-      "date": "2026-07-22",
-      "company": "Menlo",
-      "amount": "$47 BILLION",
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/"
     }
   ]
 }

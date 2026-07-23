@@ -1,16 +1,34 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T19:00:00+00:00",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T18:38:34+00:00",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "title": "Runway launches AI model router as generative media gets crowded",
     "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "source": "TechCrunch AI",
     "date": "2026-07-23",
     "timestamp": "2026-07-23T17:07:35+00:00",
-    "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, "
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
   },
   {
     "id": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
     "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
     "source": "TechCrunch AI",
     "date": "2026-07-23",
@@ -169,24 +187,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T16:13:30+00:00",
     "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-    "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T14:00:00+00:00",
-    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T13:20:35+00:00",
-    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
   },
   {
     "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
