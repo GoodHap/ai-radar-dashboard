@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T04:22:01.575433+00:00",
+  "last_updated": "2026-07-23T07:39:40.203507+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,29 +31,29 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"

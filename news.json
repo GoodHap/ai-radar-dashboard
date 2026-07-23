@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T06:09:13+00:00",
+    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
+  },
+  {
+    "id": "https://huggingface.co/blog/nunchaku-diffusers",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "Hugging Face",
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
     "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
     "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
@@ -187,15 +205,6 @@
     "date": "2026-07-21",
     "timestamp": "2026-07-21T19:43:41+00:00",
     "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "title": "AI and the rise of the universal entertainment app",
-    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T19:39:30+00:00",
-    "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
   },
   {
     "id": "https://huggingface.co/blog/grabette",

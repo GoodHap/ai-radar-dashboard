@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-23",
+      "company": "ServiceNow",
+      "amount": "$40 MILLION",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+    },
+    {
       "date": "2026-07-22",
       "company": "Travis",
       "amount": "$1.7B",
