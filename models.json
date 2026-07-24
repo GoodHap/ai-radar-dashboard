@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T23:04:51.973883+00:00",
+  "last_updated": "2026-07-24T03:32:15.552989+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"

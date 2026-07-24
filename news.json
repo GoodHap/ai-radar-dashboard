@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24",
+    "timestamp": "2026-07-24T01:00:00+00:00",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
@@ -178,15 +187,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T16:24:08+00:00",
     "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T16:23:09+00:00",
-    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
   },
   {
     "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
