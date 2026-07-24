@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T20:25:48.587743+00:00",
+  "last_updated": "2026-07-24T22:12:24.221761+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-NVFP4",
-      "company": "poolside",
+      "name": "antares-1b",
+      "company": "fdtn-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "antares-1b",
-      "company": "fdtn-ai",
+      "name": "Laguna-S-2.1-NVFP4",
+      "company": "poolside",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
