@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T19:20:26.618503+00:00",
+  "last_updated": "2026-07-25T21:02:20.956071+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,22 +66,22 @@
       "trend": "flat"
     },
     {
-      "name": "Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Laguna-S-2.1-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-GGUF",
-      "company": "unsloth",
+      "name": "Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
