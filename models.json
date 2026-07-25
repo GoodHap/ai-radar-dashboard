@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T07:23:24.855036+00:00",
+  "last_updated": "2026-07-25T09:56:34.052950+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "antares-1b",
-      "company": "fdtn-ai",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-NVFP4",
-      "company": "poolside",
+      "name": "antares-1b",
+      "company": "fdtn-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
