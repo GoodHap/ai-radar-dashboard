@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24",
+    "timestamp": "2026-07-24T22:25:58+00:00",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "source": "TechCrunch AI",
     "date": "2026-07-24",
     "timestamp": "2026-07-24T18:07:32+00:00",
-    "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in"
+    "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
   },
   {
     "id": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
@@ -180,15 +189,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T23:47:54+00:00",
-    "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "title": "3 Google updates from Galaxy Unpacked 2026",
     "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -295,14 +295,5 @@
     "date": "2026-07-14",
     "timestamp": "2026-07-14T16:00:00+00:00",
     "summary": "Google Images logo surrounded by illustrations of people searching for different images"
-  },
-  {
-    "id": "https://huggingface.co/blog/torch-attention-profile",
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "source": "Hugging Face",
-    "date": "2026-07-10",
-    "timestamp": "2026-07-10T00:00:00+00:00",
-    "summary": ""
   }
 ]
