@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-25",
+    "timestamp": "2026-07-25T16:00:00+00:00",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
@@ -169,15 +178,6 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T15:00:00+00:00",
     "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "title": "Google’s Gemini nears billion-user milestone",
-    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T14:52:44+00:00",
-    "summary": "Gemini had over 750 million monthly users in February."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
