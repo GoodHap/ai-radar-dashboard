@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T17:10:39.400576+00:00",
+  "last_updated": "2026-07-26T19:23:10.112608+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
