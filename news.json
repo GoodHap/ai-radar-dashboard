@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-26",
+    "timestamp": "2026-07-26T19:40:57+00:00",
+    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
@@ -169,15 +178,6 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T17:00:00+00:00",
     "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T16:28:50+00:00",
-    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
