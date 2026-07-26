@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-26",
+    "timestamp": "2026-07-26T16:33:13+00:00",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+  },
+  {
     "id": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -169,15 +178,6 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T16:28:50+00:00",
     "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "title": "Nvidia is sending GPUs to the moon",
-    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T15:00:00+00:00",
-    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
