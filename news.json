@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T00:19:14+00:00",
+    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "title": "Making sense of the panic over Chinese AI",
     "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -169,15 +178,6 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T17:07:35+00:00",
     "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T17:00:00+00:00",
-    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
