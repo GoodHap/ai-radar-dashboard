@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T17:04:35.687736+00:00",
+  "last_updated": "2026-07-27T19:46:43.660841+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "Laguna-S-2.1-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-GGUF",
-      "company": "unsloth",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
