@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "Hugging Face",
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T09:32:20+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
     "title": "Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
@@ -196,15 +205,6 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T13:00:00+00:00",
     "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "source": "Hugging Face",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T20:00:27+00:00",
-    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/grabette",
