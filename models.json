@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T11:34:11.543136+00:00",
+  "last_updated": "2026-07-27T14:54:09.441262+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "KAT-Coder-V2.5-Dev",
-      "company": "Kwaipilot",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"

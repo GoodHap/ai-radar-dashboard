@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-27",
+      "company": "Enigma",
+      "amount": "$70M",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+    },
+    {
       "date": "2026-07-24",
       "company": "Prentis,",
       "amount": "$100M",

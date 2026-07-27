@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T13:00:00+00:00",
+    "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -178,15 +187,6 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T18:38:34+00:00",
     "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T17:07:35+00:00",
-    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
