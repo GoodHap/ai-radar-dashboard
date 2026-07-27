@@ -3,9 +3,16 @@
   "funding_events": [
     {
       "date": "2026-07-27",
+      "company": "This",
+      "amount": "$9 N",
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
+    },
+    {
+      "date": "2026-07-27",
       "company": "Enigma",
-      "amount": "$70M",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "amount": "$71M",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
     },
     {
@@ -14,13 +21,6 @@
       "amount": "$100M",
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
-    },
-    {
-      "date": "2026-07-23",
-      "company": "AegisAI,",
-      "amount": "$36M",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
     }
   ]
 }
