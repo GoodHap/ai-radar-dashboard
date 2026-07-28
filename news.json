@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T21:29:34+00:00",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
     "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
@@ -232,15 +241,6 @@
     "date": "2026-07-26",
     "timestamp": "2026-07-26T19:40:57+00:00",
     "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-26",
-    "timestamp": "2026-07-26T16:33:13+00:00",
-    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",

@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-28",
+      "company": "Bot-detection",
+      "amount": "$200M",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    },
+    {
+      "date": "2026-07-28",
       "company": "Fish",
       "amount": "$52M",
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
