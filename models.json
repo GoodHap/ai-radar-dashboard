@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T03:23:42.396764+00:00",
+  "last_updated": "2026-07-28T06:35:00.606923+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "antares-1b",
+      "company": "fdtn-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "antares-1b",
-      "company": "fdtn-ai",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Motif-3-Beta",
-      "company": "Motif-Technologies",
+      "name": "Laguna-S-2.1-NVFP4",
+      "company": "poolside",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-NVFP4",
-      "company": "poolside",
+      "name": "Motif-3-Beta",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

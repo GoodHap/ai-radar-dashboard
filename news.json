@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T04:30:00+00:00",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -178,15 +187,6 @@
     "date": "2026-07-24",
     "timestamp": "2026-07-24T22:25:58+00:00",
     "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-24",
-    "timestamp": "2026-07-24T18:07:32+00:00",
-    "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
