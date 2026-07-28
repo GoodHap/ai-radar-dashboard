@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T00:13:33+00:00",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
@@ -178,15 +187,6 @@
     "date": "2026-07-24",
     "timestamp": "2026-07-24T18:07:32+00:00",
     "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "title": "Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-24",
-    "timestamp": "2026-07-24T17:00:00+00:00",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
