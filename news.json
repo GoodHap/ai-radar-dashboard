@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T20:45:12+00:00",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T20:17:08+00:00",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -198,6 +216,15 @@
     "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
   },
   {
+    "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "source": "Hugging Face",
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "title": "Making sense of the panic over Chinese AI",
     "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -214,24 +241,6 @@
     "date": "2026-07-26",
     "timestamp": "2026-07-26T16:33:13+00:00",
     "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-26",
-    "timestamp": "2026-07-26T01:30:00+00:00",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-25",
-    "timestamp": "2026-07-25T16:00:00+00:00",
-    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
