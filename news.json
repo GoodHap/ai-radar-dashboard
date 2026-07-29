@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T00:09:05+00:00",
+    "summary": "The deal is Cyera's third acquisition this year."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "title": "Bot-detection startup Spur nabs $200M from Insight",
     "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
@@ -232,15 +241,6 @@
     "date": "2026-07-27",
     "timestamp": "2026-07-27T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-26",
-    "timestamp": "2026-07-26T19:40:57+00:00",
-    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
   },
   {
     "id": "https://huggingface.co/blog/nunchaku-diffusers",
