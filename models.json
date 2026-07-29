@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T21:05:13.286700+00:00",
+  "last_updated": "2026-07-29T23:04:54.752185+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"

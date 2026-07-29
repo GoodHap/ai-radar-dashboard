@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T23:00:11+00:00",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T22:46:03+00:00",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T22:23:12+00:00",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T21:16:39+00:00",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T21:07:48+00:00",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
     "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
     "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
@@ -178,51 +223,6 @@
     "date": "2026-07-27",
     "timestamp": "2026-07-27T21:17:11+00:00",
     "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T20:19:42+00:00",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T18:32:11+00:00",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T17:28:42+00:00",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T16:45:24+00:00",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T15:57:12+00:00",
-    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
