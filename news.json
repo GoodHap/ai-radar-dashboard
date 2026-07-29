@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T15:35:09+00:00",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing"
+  },
+  {
     "id": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
     "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "source": "TechCrunch AI",
     "date": "2026-07-29",
     "timestamp": "2026-07-29T14:41:06+00:00",
-    "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
   },
   {
     "id": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
@@ -216,15 +225,6 @@
     "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
   },
   {
-    "id": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T15:01:50+00:00",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -331,14 +331,5 @@
     "date": "2026-07-15",
     "timestamp": "2026-07-15T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "title": "Celebrating 25 years of visual search innovation",
-    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "source": "Google AI",
-    "date": "2026-07-14",
-    "timestamp": "2026-07-14T16:00:00+00:00",
-    "summary": "Google Images logo surrounded by illustrations of people searching for different images"
   }
 ]
