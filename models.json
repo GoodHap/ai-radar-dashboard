@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T03:26:02.282246+00:00",
+  "last_updated": "2026-07-29T06:39:48.577602+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-NVFP4",
-      "company": "poolside",
+      "name": "Solar-Open2-250B-Nota-NVFP4",
+      "company": "nota-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
