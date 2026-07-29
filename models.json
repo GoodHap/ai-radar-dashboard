@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T06:39:48.577602+00:00",
+  "last_updated": "2026-07-29T09:44:16.678871+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1-GGUF",
-      "company": "unsloth",
+      "name": "antares-1b",
+      "company": "fdtn-ai",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "antares-1b",
-      "company": "fdtn-ai",
+      "name": "Laguna-S-2.1-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
