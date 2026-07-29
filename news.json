@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T14:41:06+00:00",
+    "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
@@ -214,15 +223,6 @@
     "date": "2026-07-27",
     "timestamp": "2026-07-27T15:01:50+00:00",
     "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T13:00:00+00:00",
-    "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",

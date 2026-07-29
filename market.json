@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-29",
+      "company": "Encore",
+      "amount": "$30M",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
+    },
+    {
+      "date": "2026-07-29",
       "company": "As",
       "amount": "$9M",
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -42,13 +49,6 @@
       "amount": "$9 N",
       "title": "This $9 key physically locks your most addictive apps",
       "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
-    },
-    {
-      "date": "2026-07-27",
-      "company": "Enigma",
-      "amount": "$71M",
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
     }
   ]
 }
