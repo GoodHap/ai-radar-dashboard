@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T11:00:00+00:00",
+    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -223,15 +232,6 @@
     "date": "2026-07-27",
     "timestamp": "2026-07-27T09:32:20+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T00:19:14+00:00",
-    "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
   },
   {
     "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",

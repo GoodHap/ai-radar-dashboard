@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-29",
+      "company": "As",
+      "amount": "$9M",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
+    {
+      "date": "2026-07-29",
       "company": "Cyera",
       "amount": "$1B",
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
