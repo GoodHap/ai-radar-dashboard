@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T18:23:22.100335+00:00",
+  "last_updated": "2026-07-30T20:19:52.349191+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "antares-1b",
-      "company": "fdtn-ai",
+      "name": "Ternary-Bonsai-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-27B-gguf",
-      "company": "prism-ml",
+      "name": "antares-1b",
+      "company": "fdtn-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
