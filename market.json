@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-30",
+      "company": "Dili",
+      "amount": "$21.7M",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
+    },
+    {
       "date": "2026-07-29",
       "company": "Microsoft",
       "amount": "$3.2B",
