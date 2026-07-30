@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T18:05:21+00:00",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "title": "Okta buys AI security startup Permiso; source says for about $200M",
     "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -180,15 +189,6 @@
     "summary": "The deal is Cyera's third acquisition this year."
   },
   {
-    "id": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T21:29:34+00:00",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -312,15 +312,6 @@
     "source": "Hugging Face",
     "date": "2026-07-16",
     "timestamp": "2026-07-16T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "source": "Hugging Face",
-    "date": "2026-07-15",
-    "timestamp": "2026-07-15T17:27:01+00:00",
     "summary": ""
   }
 ]
