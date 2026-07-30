@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T00:21:06+00:00",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
@@ -216,15 +225,6 @@
     "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
   },
   {
-    "id": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-27",
-    "timestamp": "2026-07-27T21:17:11+00:00",
-    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -312,24 +312,6 @@
     "source": "Hugging Face",
     "date": "2026-07-15",
     "timestamp": "2026-07-15T17:27:01+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "title": "Welcome Inkling by Thinking Machines",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "source": "Hugging Face",
-    "date": "2026-07-15",
-    "timestamp": "2026-07-15T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/real-world-voiceeq",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
-    "source": "Hugging Face",
-    "date": "2026-07-15",
-    "timestamp": "2026-07-15T00:00:00+00:00",
     "summary": ""
   }
 ]
