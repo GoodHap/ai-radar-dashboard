@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T16:09:42+00:00",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T15:41:16+00:00",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent"
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T15:19:15+00:00",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "Hugging Face",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T15:09:09+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T15:00:00+00:00",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T14:48:32+00:00",
+    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
     "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
     "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
@@ -135,24 +189,6 @@
     "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
   },
   {
-    "id": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T20:45:12+00:00",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T20:17:08+00:00",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -171,15 +207,6 @@
     "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
   },
   {
-    "id": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T15:42:26+00:00",
-    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
@@ -187,24 +214,6 @@
     "date": "2026-07-28",
     "timestamp": "2026-07-28T15:01:45+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T14:00:00+00:00",
-    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T13:19:17+00:00",
-    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it"
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
