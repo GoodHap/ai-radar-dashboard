@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T01:06:54+00:00",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+  },
+  {
     "id": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
@@ -7,6 +16,15 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T23:25:58+00:00",
     "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T23:08:58+00:00",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
   },
   {
     "id": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
@@ -169,24 +187,6 @@
     "date": "2026-07-29",
     "timestamp": "2026-07-29T21:16:39+00:00",
     "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T21:07:48+00:00",
-    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "title": "The Hugging Face break-in explained",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T19:44:49+00:00",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
