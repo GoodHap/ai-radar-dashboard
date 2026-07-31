@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T15:16:17+00:00",
+    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T14:47:11+00:00",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
@@ -171,24 +189,6 @@
     "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
   },
   {
-    "id": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T22:23:12+00:00",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T21:16:39+00:00",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -277,23 +277,5 @@
     "date": "2026-07-21",
     "timestamp": "2026-07-21T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "title": "Connect more of your apps to Search",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "source": "Google AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T16:00:00+00:00",
-    "summary": "Connected apps rendering"
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "source": "Google AI",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T16:00:00+00:00",
-    "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
   }
 ]

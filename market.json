@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-07-31",
+      "company": "Smallest.ai",
+      "amount": "$13M",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/"
+    },
+    {
       "date": "2026-07-30",
       "company": "Okta",
       "amount": "$200M",
