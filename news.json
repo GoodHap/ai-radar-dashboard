@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T23:25:58+00:00",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+  },
+  {
+    "id": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T22:41:41+00:00",
+    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
     "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
@@ -171,24 +189,6 @@
     "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
   },
   {
-    "id": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T18:45:27+00:00",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-29",
-    "timestamp": "2026-07-29T15:35:09+00:00",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing"
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -303,15 +303,6 @@
     "source": "Hugging Face",
     "date": "2026-07-16",
     "timestamp": "2026-07-16T11:49:48+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/security-incident-july-2026",
-    "title": "Security incident disclosure — July 2026",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "source": "Hugging Face",
-    "date": "2026-07-16",
-    "timestamp": "2026-07-16T00:00:00+00:00",
     "summary": ""
   }
 ]
