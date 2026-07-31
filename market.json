@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-07-31",
+      "company": "India",
+      "amount": "$345 MILLION",
+      "title": "India is starting to pay for apps, not just download them",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
+    },
+    {
+      "date": "2026-07-31",
       "company": "Smallest.ai",
       "amount": "$13M",
       "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
