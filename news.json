@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "source": "TechCrunch AI",
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T22:47:26+00:00",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
     "title": "India is starting to pay for apps, not just download them",
     "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
@@ -178,15 +187,6 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T15:09:09+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T15:00:00+00:00",
-    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
