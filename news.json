@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-01",
+    "timestamp": "2026-08-01T15:58:17+00:00",
+    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+  },
+  {
     "id": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -169,15 +178,6 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T15:41:16+00:00",
     "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T15:19:15+00:00",
-    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
