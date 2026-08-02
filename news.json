@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-02",
+    "timestamp": "2026-08-02T20:54:22+00:00",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -169,15 +178,6 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T19:44:16+00:00",
     "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T18:57:58+00:00",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
