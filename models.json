@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T18:05:06.515441+00:00",
+  "last_updated": "2026-08-02T20:14:38.664379+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "Solar-Open2-250B",
+      "company": "upstage",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
