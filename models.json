@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T04:29:46.434122+00:00",
+  "last_updated": "2026-08-02T07:36:45.497562+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "XYZ-Aquila-pro",
-      "company": "XYZAILab",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "XYZ-Aquila-pro",
+      "company": "XYZAILab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
