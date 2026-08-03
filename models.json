@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T22:02:03.644950+00:00",
+  "last_updated": "2026-08-03T00:04:56.740993+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B",
-      "company": "upstage",
+      "name": "Solar-Open2-250B-Nota-NVFP4",
+      "company": "nota-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B-Nota-NVFP4",
-      "company": "nota-ai",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
