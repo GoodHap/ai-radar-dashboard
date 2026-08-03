@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T20:00:00+00:00",
+    "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
     "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
@@ -24,11 +33,11 @@
     "source": "TechCrunch AI",
     "date": "2026-08-03",
     "timestamp": "2026-08-03T18:43:43+00:00",
-    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t"
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
   },
   {
     "id": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "title": "Congress’s favorite AI tool? ChatGPT",
+    "title": "Congress’ favorite AI tool? ChatGPT",
     "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "source": "TechCrunch AI",
     "date": "2026-08-03",
@@ -169,15 +178,6 @@
     "date": "2026-07-31",
     "timestamp": "2026-07-31T14:00:00+00:00",
     "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI"
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T01:06:54+00:00",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
