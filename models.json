@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T21:13:30.771831+00:00",
+  "last_updated": "2026-08-03T23:11:38.536285+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
