@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T10:00:00+00:00",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "title": "Sam Altman and AI’s decel debate",
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -169,15 +178,6 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T20:26:38+00:00",
     "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T19:44:16+00:00",
-    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",

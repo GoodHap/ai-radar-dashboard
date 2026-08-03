@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-03",
+      "company": "A",
+      "amount": "$20 MILLION",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    },
+    {
       "date": "2026-08-01",
       "company": "This",
       "amount": "$9 N",
