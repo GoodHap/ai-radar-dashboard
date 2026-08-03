@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T16:40:55+00:00",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -15,7 +24,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-02",
     "timestamp": "2026-08-02T20:54:22+00:00",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
   },
   {
     "id": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -169,15 +178,6 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T22:41:41+00:00",
     "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T20:26:38+00:00",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
