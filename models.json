@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T17:59:09.721456+00:00",
+  "last_updated": "2026-08-03T19:51:32.523829+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "XYZ-Aquila-mini",
+      "company": "XYZAILab",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "XYZ-Aquila-mini",
-      "company": "XYZAILab",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"

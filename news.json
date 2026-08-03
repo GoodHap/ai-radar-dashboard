@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T19:28:57+00:00",
+    "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T19:09:56+00:00",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T18:43:43+00:00",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "title": "Congress’s favorite AI tool? ChatGPT",
     "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
@@ -51,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-01",
     "timestamp": "2026-08-01T17:07:34+00:00",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+    "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience."
   },
   {
     "id": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
@@ -151,33 +178,6 @@
     "date": "2026-07-31",
     "timestamp": "2026-07-31T01:06:54+00:00",
     "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T23:25:58+00:00",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T23:08:58+00:00",
-    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T22:41:41+00:00",
-    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",

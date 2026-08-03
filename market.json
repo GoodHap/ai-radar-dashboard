@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-03",
+      "company": "DesignArena",
+      "amount": "$7.9 MILLION",
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+    },
+    {
+      "date": "2026-08-03",
       "company": "A",
       "amount": "$20 MILLION",
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
