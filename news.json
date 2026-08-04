@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T12:00:00+00:00",
+    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -169,15 +178,6 @@
     "date": "2026-07-31",
     "timestamp": "2026-07-31T15:16:17+00:00",
     "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T14:47:11+00:00",
-    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
