@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T17:57:10.021227+00:00",
+  "last_updated": "2026-08-04T19:48:55.369485+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "KAT-Coder-V2.5-Dev",
-      "company": "Kwaipilot",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "LFM2.5-2.6B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Solar-Open2-250B-Nota-NVFP4",
-      "company": "nota-ai",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
