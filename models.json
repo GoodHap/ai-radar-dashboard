@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T19:48:55.369485+00:00",
+  "last_updated": "2026-08-04T21:20:21.729413+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "LFM2.5-2.6B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B",
-      "company": "LiquidAI",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"

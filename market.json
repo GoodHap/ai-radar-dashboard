@@ -3,9 +3,16 @@
   "funding_events": [
     {
       "date": "2026-08-04",
+      "company": "SpaceX",
+      "amount": "$329M",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
+    },
+    {
+      "date": "2026-08-04",
       "company": "Anthropic",
-      "amount": "$10 BILLION",
-      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "amount": "$10B",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
       "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
     },
     {
@@ -28,13 +35,6 @@
       "amount": "$20 MILLION",
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
-    },
-    {
-      "date": "2026-08-01",
-      "company": "This",
-      "amount": "$9 N",
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
     }
   ]
 }
