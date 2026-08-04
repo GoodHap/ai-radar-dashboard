@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T03:27:18.852192+00:00",
+  "last_updated": "2026-08-04T06:35:22.953672+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Laguna-S-2.1",
-      "company": "poolside",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "Laguna-S-2.1",
+      "company": "poolside",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
