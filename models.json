@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T23:11:38.536285+00:00",
+  "last_updated": "2026-08-04T03:27:18.852192+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "Nanbeige4.2-3B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"

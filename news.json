@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T23:19:50+00:00",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
     "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
@@ -169,15 +178,6 @@
     "date": "2026-07-31",
     "timestamp": "2026-07-31T14:47:11+00:00",
     "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T14:00:00+00:00",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI"
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
