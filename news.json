@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T15:50:06+00:00",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool "
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "title": "Texas halts new data centers as governor calls for audits",
+    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T15:42:35+00:00",
+    "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
     "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
@@ -51,7 +69,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-04",
     "timestamp": "2026-08-04T12:00:00+00:00",
-    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
   },
   {
     "id": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -187,24 +205,6 @@
     "date": "2026-07-31",
     "timestamp": "2026-07-31T21:07:45+00:00",
     "summary": "India's app market generated a record $345 million in Q2."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T19:47:28+00:00",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-  },
-  {
-    "id": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T17:26:32+00:00",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI"
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
