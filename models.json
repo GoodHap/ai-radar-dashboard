@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T21:20:21.729413+00:00",
+  "last_updated": "2026-08-04T23:10:35.506729+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "KAT-Coder-V2.5-Dev",
-      "company": "Kwaipilot",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,22 +66,22 @@
       "trend": "flat"
     },
     {
-      "name": "XYZ-Aquila-pro",
-      "company": "XYZAILab",
+      "name": "LFM2.5-2.6B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "XYZ-Aquila-pro",
+      "company": "XYZAILab",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B",
-      "company": "LiquidAI",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
