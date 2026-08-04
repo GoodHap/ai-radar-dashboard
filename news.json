@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T15:20:06+00:00",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T14:03:01+00:00",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "Hugging Face",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T13:58:29+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "title": "The latest AI news we announced in July 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "source": "Google AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T13:00:00+00:00",
+    "summary": "July AI recap header"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T13:00:00+00:00",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
     "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
@@ -61,6 +106,15 @@
     "date": "2026-08-03",
     "timestamp": "2026-08-03T16:40:55+00:00",
     "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "title": "Inside our 353,000-person vibe coding course",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "source": "Google AI",
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T15:00:00+00:00",
+    "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
   },
   {
     "id": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -153,33 +207,6 @@
     "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI"
   },
   {
-    "id": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T16:49:08+00:00",
-    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "title": "Siri AI could come with a paywall for power users",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T16:08:18+00:00",
-    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-  },
-  {
-    "id": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "source": "TechCrunch AI",
-    "date": "2026-07-31",
-    "timestamp": "2026-07-31T15:16:17+00:00",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-  },
-  {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
@@ -205,15 +232,6 @@
     "date": "2026-07-28",
     "timestamp": "2026-07-28T16:00:00+00:00",
     "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "source": "Hugging Face",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T15:01:45+00:00",
-    "summary": ""
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
