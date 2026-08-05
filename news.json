@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05",
+    "timestamp": "2026-08-05T19:30:19+00:00",
+    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
     "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
     "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
@@ -187,15 +196,6 @@
     "date": "2026-08-03",
     "timestamp": "2026-08-03T20:00:00+00:00",
     "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-03",
-    "timestamp": "2026-08-03T19:28:57+00:00",
-    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",

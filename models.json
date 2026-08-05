@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T17:49:19.309491+00:00",
+  "last_updated": "2026-08-05T19:46:49.789777+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "XYZ-Aquila-mini",
+      "company": "XYZAILab",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "XYZ-Aquila-mini",
-      "company": "XYZAILab",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "XYZ-Aquila-pro",
-      "company": "XYZAILab",
+      "name": "maple-preview",
+      "company": "deepgrove",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "maple-preview",
-      "company": "deepgrove",
+      "name": "XYZ-Aquila-pro",
+      "company": "XYZAILab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
