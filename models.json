@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T09:42:23.033774+00:00",
+  "last_updated": "2026-08-05T12:04:54.604468+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "Ling-3.0-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ling-3.0-flash",
-      "company": "inclusionAI",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.2-3B",
-      "company": "Nanbeige",
+      "name": "K-EXAONE-2.0-750B-A37B",
+      "company": "LGAI-EXAONE",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

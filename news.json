@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-05",
+    "timestamp": "2026-08-05T11:00:00+00:00",
+    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
@@ -196,15 +205,6 @@
     "date": "2026-08-02",
     "timestamp": "2026-08-02T20:54:22+00:00",
     "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-01",
-    "timestamp": "2026-08-01T20:26:04+00:00",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",

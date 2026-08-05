@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-05",
+      "company": "AI",
+      "amount": "$37 MILLION",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+    },
+    {
       "date": "2026-08-04",
       "company": "SpaceX",
       "amount": "$329M",
