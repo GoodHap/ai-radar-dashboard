@@ -286,14 +286,5 @@
     "date": "2026-07-22",
     "timestamp": "2026-07-22T13:00:00+00:00",
     "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
-  },
-  {
-    "id": "https://huggingface.co/blog/grabette",
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "link": "https://huggingface.co/blog/grabette",
-    "source": "Hugging Face",
-    "date": "2026-07-21",
-    "timestamp": "2026-07-21T00:00:00+00:00",
-    "summary": ""
   }
 ]
