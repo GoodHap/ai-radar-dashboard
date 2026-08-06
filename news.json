@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T15:10:32+00:00",
+    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "title": "Amid legal battles, Suno says it will start watermarking songs",
+    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T13:31:57+00:00",
+    "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T13:00:00+00:00",
+    "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T13:00:00+00:00",
+    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and "
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T12:30:00+00:00",
+    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T12:00:00+00:00",
+    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
+  },
+  {
+    "id": "https://huggingface.co/blog/baseten",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "source": "Hugging Face",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "title": "Meta launches Muse Code, an AI agent for large code bases",
     "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
@@ -126,42 +189,6 @@
     "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
   },
   {
-    "id": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T15:50:06+00:00",
-    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool "
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "title": "Texas halts new data centers as governor calls for audits",
-    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T15:42:35+00:00",
-    "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T15:20:06+00:00",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T14:03:01+00:00",
-    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -178,24 +205,6 @@
     "date": "2026-08-04",
     "timestamp": "2026-08-04T13:00:00+00:00",
     "summary": "July AI recap header"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T13:00:00+00:00",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T12:00:00+00:00",
-    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
@@ -277,14 +286,5 @@
     "date": "2026-07-23",
     "timestamp": "2026-07-23T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "source": "Google AI",
-    "date": "2026-07-22",
-    "timestamp": "2026-07-22T13:00:00+00:00",
-    "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant"
   }
 ]
