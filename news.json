@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T14:22:49+00:00",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
     "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
     "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -178,15 +187,6 @@
     "date": "2026-08-05",
     "timestamp": "2026-08-05T12:28:38+00:00",
     "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05",
-    "timestamp": "2026-08-05T11:00:00+00:00",
-    "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
