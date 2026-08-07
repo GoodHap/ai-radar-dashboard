@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T22:43:53+00:00",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T17:34:42+00:00",
+    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T17:00:37+00:00",
+    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T15:53:03+00:00",
+    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
     "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
     "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
@@ -24,7 +60,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-06",
     "timestamp": "2026-08-06T13:00:00+00:00",
-    "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+    "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time."
   },
   {
     "id": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
@@ -153,42 +189,6 @@
     "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
   },
   {
-    "id": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T20:05:26+00:00",
-    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T19:48:40+00:00",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T19:34:34+00:00",
-    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T19:28:49+00:00",
-    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -276,15 +276,6 @@
     "source": "Hugging Face",
     "date": "2026-07-27",
     "timestamp": "2026-07-27T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nunchaku-diffusers",
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "source": "Hugging Face",
-    "date": "2026-07-23",
-    "timestamp": "2026-07-23T00:00:00+00:00",
     "summary": ""
   }
 ]
