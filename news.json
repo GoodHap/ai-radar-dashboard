@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/tutormoments",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "Hugging Face",
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T17:53:32+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
@@ -16,6 +25,15 @@
     "date": "2026-08-07",
     "timestamp": "2026-08-07T14:22:49+00:00",
     "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T14:00:00+00:00",
+    "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether"
   },
   {
     "id": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -180,15 +198,6 @@
     "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
   },
   {
-    "id": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "title": "Anthropic is hiring an AI chip design team",
-    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05",
-    "timestamp": "2026-08-05T14:13:18+00:00",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -222,15 +231,6 @@
     "source": "Hugging Face",
     "date": "2026-07-30",
     "timestamp": "2026-07-30T15:09:09+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "source": "Hugging Face",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T16:27:42+00:00",
     "summary": ""
   },
   {
