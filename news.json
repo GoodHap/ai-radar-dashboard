@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T21:30:11+00:00",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/tutormoments",
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "link": "https://huggingface.co/blog/allenai/tutormoments",
@@ -15,7 +24,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-07",
     "timestamp": "2026-08-07T16:16:09+00:00",
-    "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h"
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
   },
   {
     "id": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
@@ -42,7 +51,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-07",
     "timestamp": "2026-08-07T11:40:37+00:00",
-    "summary": "Meta's total fine has raked up to $942 million in this case."
+    "summary": "Meta's total fine has racked up to $942 million in this case."
   },
   {
     "id": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -187,15 +196,6 @@
     "date": "2026-08-05",
     "timestamp": "2026-08-05T15:46:27+00:00",
     "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05",
-    "timestamp": "2026-08-05T15:05:00+00:00",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
