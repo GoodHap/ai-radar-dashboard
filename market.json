@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-07",
+      "company": "New",
+      "amount": "$567M",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+    },
+    {
       "date": "2026-08-06",
       "company": "Naïve",
       "amount": "$28.5M",
@@ -35,13 +42,6 @@
       "amount": "$37 MILLION",
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
-    },
-    {
-      "date": "2026-08-04",
-      "company": "SpaceX",
-      "amount": "$329M",
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
     }
   ]
 }
