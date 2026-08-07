@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T00:10:51.497682+00:00",
+  "last_updated": "2026-08-07T03:55:14.806520+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "K-EXAONE-2.0-750B-A37B",
-      "company": "LGAI-EXAONE",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
