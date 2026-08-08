@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T02:07:54.647102+00:00",
+  "last_updated": "2026-08-08T04:16:14.998999+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "company": "huihui-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "company": "huihui-ai",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
