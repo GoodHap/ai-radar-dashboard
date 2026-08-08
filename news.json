@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-08",
+    "timestamp": "2026-08-08T21:24:02+00:00",
+    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "title": "OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -187,15 +196,6 @@
     "date": "2026-08-05",
     "timestamp": "2026-08-05T20:05:00+00:00",
     "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05",
-    "timestamp": "2026-08-05T19:30:19+00:00",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
