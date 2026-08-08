@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-08",
+    "timestamp": "2026-08-08T19:41:13+00:00",
+    "summary": "NextSlide says its team members are now working on ChatGPT."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -187,15 +196,6 @@
     "date": "2026-08-05",
     "timestamp": "2026-08-05T19:30:19+00:00",
     "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-05",
-    "timestamp": "2026-08-05T15:56:14+00:00",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
