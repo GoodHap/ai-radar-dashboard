@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T23:40:21.069328+00:00",
+  "last_updated": "2026-08-08T02:07:54.647102+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "LFM2.5-2.6B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B-GGUF",
-      "company": "LiquidAI",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
