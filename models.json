@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T19:39:50.238780+00:00",
+  "last_updated": "2026-08-09T20:42:13.618285+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "company": "huihui-ai",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "company": "huihui-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
