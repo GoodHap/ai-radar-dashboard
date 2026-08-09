@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T15:38:54.658423+00:00",
+  "last_updated": "2026-08-09T16:45:35.985628+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "company": "huihui-ai",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "company": "huihui-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
