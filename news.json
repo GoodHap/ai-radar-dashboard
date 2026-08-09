@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-09",
+    "timestamp": "2026-08-09T19:20:32+00:00",
+    "summary": "Programming with Claude Code will soon require even less human oversight."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
     "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
@@ -178,15 +187,6 @@
     "date": "2026-08-06",
     "timestamp": "2026-08-06T12:30:00+00:00",
     "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06",
-    "timestamp": "2026-08-06T12:00:00+00:00",
-    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
   },
   {
     "id": "https://huggingface.co/blog/baseten",
