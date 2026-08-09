@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T22:39:22.888045+00:00",
+  "last_updated": "2026-08-09T23:38:29.404926+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "company": "huihui-ai",
+      "name": "DeepSeek-V4-Flash",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
