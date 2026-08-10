@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T20:53:10.041000+00:00",
+  "last_updated": "2026-08-10T21:50:52.466472+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "KAT-Coder-V2.5-Dev",
-      "company": "Kwaipilot",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
