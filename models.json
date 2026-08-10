@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T02:24:51.070515+00:00",
+  "last_updated": "2026-08-10T04:45:53.337321+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash",
-      "company": "deepseek-ai",
+      "name": "BTL-4",
+      "company": "badtheorylabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
