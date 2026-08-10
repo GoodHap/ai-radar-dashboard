@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-10",
+      "company": "Discovered",
+      "amount": "$9 MILLION",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    },
+    {
       "date": "2026-08-09",
       "company": "Embattled",
       "amount": "$400M",
@@ -28,13 +35,6 @@
       "amount": "$10M",
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
-    },
-    {
-      "date": "2026-08-06",
-      "company": "Exclusive:",
-      "amount": "$100M",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
     }
   ]
 }

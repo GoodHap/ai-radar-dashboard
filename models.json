@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T11:54:31.820725+00:00",
+  "last_updated": "2026-08-10T13:26:23.355343+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "Qwen3.6-35B-A3B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
