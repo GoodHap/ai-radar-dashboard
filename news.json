@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-10",
+    "timestamp": "2026-08-10T20:53:02+00:00",
+    "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-10",
+    "timestamp": "2026-08-10T20:04:24+00:00",
+    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
@@ -205,24 +223,6 @@
     "date": "2026-08-06",
     "timestamp": "2026-08-06T15:53:03+00:00",
     "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06",
-    "timestamp": "2026-08-06T15:10:32+00:00",
-    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-06",
-    "timestamp": "2026-08-06T13:31:57+00:00",
-    "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
   },
   {
     "id": "https://huggingface.co/blog/baseten",
