@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T19:15:35+00:00",
+    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
     "title": "Google’s Gemini app surges to one billion users",
     "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
@@ -223,15 +232,6 @@
     "date": "2026-08-07",
     "timestamp": "2026-08-07T22:48:24+00:00",
     "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T21:30:11+00:00",
-    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
   },
   {
     "id": "https://huggingface.co/blog/allenai/tutormoments",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T19:12:42.477771+00:00",
+  "last_updated": "2026-08-11T20:55:41.075318+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "company": "nvidia",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
