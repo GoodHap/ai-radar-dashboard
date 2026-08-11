@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T11:51:24.878011+00:00",
+  "last_updated": "2026-08-11T13:22:13.245693+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.2",
-      "company": "zai-org",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "GLM-5.2",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Motif-3",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
