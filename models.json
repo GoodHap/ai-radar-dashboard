@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T23:41:47.237230+00:00",
+  "last_updated": "2026-08-11T02:18:34.520247+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "KAT-Coder-V2.5-Dev",
-      "company": "Kwaipilot",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "KAT-Coder-V2.5-Dev",
+      "company": "Kwaipilot",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "BTL-4",
-      "company": "badtheorylabs",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.6-35B-A3B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "BTL-4",
+      "company": "badtheorylabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

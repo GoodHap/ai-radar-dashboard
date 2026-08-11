@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-11",
+      "company": "OpenAI",
+      "amount": "$7 BILLION",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
       "date": "2026-08-10",
       "company": "Discovered",
       "amount": "$9 MILLION",
@@ -21,13 +28,6 @@
       "amount": "$567M",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
-    },
-    {
-      "date": "2026-08-06",
-      "company": "Naïve",
-      "amount": "$28.5M",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
     }
   ]
 }
