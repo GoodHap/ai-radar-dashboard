@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "title": "Google’s Gemini app surges to one billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T18:49:12+00:00",
+    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T17:41:34+00:00",
+    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T17:41:22+00:00",
+    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
+  },
+  {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
@@ -214,33 +241,6 @@
     "date": "2026-08-07",
     "timestamp": "2026-08-07T17:53:32+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T16:16:09+00:00",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T14:22:49+00:00",
-    "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T14:00:00+00:00",
-    "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether"
   },
   {
     "id": "https://huggingface.co/blog/baseten",
