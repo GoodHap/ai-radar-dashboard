@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T21:39:11+00:00",
+    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "title": "OpenAI launches ChatGPT desktop app for Linux",
     "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -10,12 +19,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "title": "Google’s Gemini app surges to one billion users",
+    "title": "Google’s Gemini app surges to 1 billion users",
     "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
     "source": "TechCrunch AI",
     "date": "2026-08-11",
     "timestamp": "2026-08-11T18:49:12+00:00",
-    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
+    "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
   },
   {
     "id": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
@@ -223,15 +232,6 @@
     "date": "2026-08-08",
     "timestamp": "2026-08-08T19:41:13+00:00",
     "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T22:48:24+00:00",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
   },
   {
     "id": "https://huggingface.co/blog/allenai/tutormoments",
