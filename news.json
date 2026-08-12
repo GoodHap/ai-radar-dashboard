@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T16:57:58+00:00",
+    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app."
+  },
+  {
+    "id": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T16:46:02+00:00",
+    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your"
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "source": "Hugging Face",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T16:14:36+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T16:04:27+00:00",
+    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T15:44:56+00:00",
+    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T14:22:00+00:00",
+    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
     "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
     "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
@@ -180,15 +234,6 @@
     "summary": "Advisor UI in Google Ads and Google Analytics"
   },
   {
-    "id": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T12:00:00+00:00",
-    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
-  },
-  {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -204,51 +249,6 @@
     "source": "Hugging Face",
     "date": "2026-08-10",
     "timestamp": "2026-08-10T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09",
-    "timestamp": "2026-08-09T20:35:17+00:00",
-    "summary": "The AI-focused hedge fund is still making some big bets."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09",
-    "timestamp": "2026-08-09T19:20:32+00:00",
-    "summary": "Programming with Claude Code will soon require even less human oversight."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09",
-    "timestamp": "2026-08-09T15:00:00+00:00",
-    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-09",
-    "timestamp": "2026-08-09T14:30:00+00:00",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with "
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/tutormoments",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "source": "Hugging Face",
-    "date": "2026-08-07",
-    "timestamp": "2026-08-07T17:53:32+00:00",
     "summary": ""
   },
   {
@@ -286,14 +286,5 @@
     "date": "2026-07-30",
     "timestamp": "2026-07-30T15:09:09+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "source": "Google AI",
-    "date": "2026-07-28",
-    "timestamp": "2026-07-28T16:00:00+00:00",
-    "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers"
   }
 ]

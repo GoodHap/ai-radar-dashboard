@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-12",
+      "company": "Lovable",
+      "amount": "$13.3B",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+    },
+    {
+      "date": "2026-08-12",
+      "company": "How",
+      "amount": "$250 MILLION",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
+    },
+    {
       "date": "2026-08-11",
       "company": "Accel",
       "amount": "$550M",
@@ -21,20 +35,6 @@
       "amount": "$7 BILLION",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
-    },
-    {
-      "date": "2026-08-10",
-      "company": "Discovered",
-      "amount": "$9 MILLION",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
-    },
-    {
-      "date": "2026-08-09",
-      "company": "Embattled",
-      "amount": "$400M",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
     }
   ]
 }
