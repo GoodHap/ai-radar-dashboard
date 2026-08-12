@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T14:20:33+00:00",
+    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "source": "Hugging Face",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T14:00:51+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
     "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
     "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
@@ -225,15 +243,6 @@
     "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with "
   },
   {
-    "id": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-08",
-    "timestamp": "2026-08-08T21:24:02+00:00",
-    "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040"
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/tutormoments",
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "link": "https://huggingface.co/blog/allenai/tutormoments",
@@ -249,15 +258,6 @@
     "source": "Hugging Face",
     "date": "2026-08-06",
     "timestamp": "2026-08-06T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "source": "Hugging Face",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T13:58:29+00:00",
     "summary": ""
   },
   {
