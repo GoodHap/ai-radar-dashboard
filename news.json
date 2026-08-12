@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T11:00:00+00:00",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
     "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -223,15 +232,6 @@
     "date": "2026-08-08",
     "timestamp": "2026-08-08T21:24:02+00:00",
     "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-08",
-    "timestamp": "2026-08-08T19:41:13+00:00",
-    "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”"
   },
   {
     "id": "https://huggingface.co/blog/allenai/tutormoments",
