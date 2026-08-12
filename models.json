@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T22:51:27.334868+00:00",
+  "last_updated": "2026-08-12T23:50:54.303742+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "Qwen3.8-2.4T-A95B-FP8",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
