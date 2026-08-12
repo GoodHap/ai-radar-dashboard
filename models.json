@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T21:54:45.331091+00:00",
+  "last_updated": "2026-08-12T22:51:27.334868+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B-GGUF",
-      "company": "LiquidAI",
+      "name": "fuse-1-Lite",
+      "company": "Akahsizrr",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "fuse-1-Lite",
-      "company": "Akahsizrr",
+      "name": "LFM2.5-2.6B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
