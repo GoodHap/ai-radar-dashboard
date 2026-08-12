@@ -3,6 +3,20 @@
   "funding_events": [
     {
       "date": "2026-08-12",
+      "company": "AI",
+      "amount": "$40B",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+    },
+    {
+      "date": "2026-08-12",
+      "company": "OpenAI-backed",
+      "amount": "$2B",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
+    },
+    {
+      "date": "2026-08-12",
       "company": "Lovable",
       "amount": "$13.3B",
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",

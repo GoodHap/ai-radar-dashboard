@@ -1,12 +1,39 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T18:19:12+00:00",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T17:51:00+00:00",
+    "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T17:41:29+00:00",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
     "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "source": "TechCrunch AI",
     "date": "2026-08-12",
     "timestamp": "2026-08-12T16:57:58+00:00",
-    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app."
+    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
   },
   {
     "id": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
@@ -189,24 +216,6 @@
     "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
   },
   {
-    "id": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T20:53:02+00:00",
-    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T20:04:24+00:00",
-    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
@@ -214,15 +223,6 @@
     "date": "2026-08-10",
     "timestamp": "2026-08-10T16:25:36+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T16:20:13+00:00",
-    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
   },
   {
     "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
