@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T21:13:24+00:00",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -51,7 +60,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-13",
     "timestamp": "2026-08-13T17:07:13+00:00",
-    "summary": "Dali Rajic will take over as OpenAI's top salesperson."
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
@@ -214,15 +223,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T14:00:51+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T11:00:00+00:00",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
