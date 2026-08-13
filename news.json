@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T18:28:14+00:00",
+    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T17:16:04+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T17:07:13+00:00",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson."
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "source": "Google AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T16:45:00+00:00",
+    "summary": "The video shows Sheets canvas in action."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
@@ -187,24 +223,6 @@
     "date": "2026-08-11",
     "timestamp": "2026-08-11T18:49:12+00:00",
     "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T17:41:34+00:00",
-    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T17:41:22+00:00",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
