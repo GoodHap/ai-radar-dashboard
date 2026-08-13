@@ -1,12 +1,39 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T20:14:39+00:00",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T19:22:40+00:00",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T19:19:49+00:00",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "source": "TechCrunch AI",
     "date": "2026-08-13",
     "timestamp": "2026-08-13T18:28:14+00:00",
-    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
   },
   {
     "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
@@ -196,33 +223,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T11:00:00+00:00",
     "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T21:39:11+00:00",
-    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T19:15:35+00:00",
-    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "title": "Google’s Gemini app surges to 1 billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T18:49:12+00:00",
-    "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
   },
   {
     "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",

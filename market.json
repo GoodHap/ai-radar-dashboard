@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-13",
+      "company": "Databricks",
+      "amount": "$1B",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+    },
+    {
+      "date": "2026-08-13",
       "company": "Nvidia’s",
       "amount": "$500B",
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -35,13 +42,6 @@
       "amount": "$250 MILLION",
       "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
       "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
-    },
-    {
-      "date": "2026-08-11",
-      "company": "Accel",
-      "amount": "$550M",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
     }
   ]
 }

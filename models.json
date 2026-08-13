@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T19:13:05.941066+00:00",
+  "last_updated": "2026-08-13T20:53:24.118863+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.0-flash",
-      "company": "inclusionAI",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "company": "nvidia",
+      "name": "Ling-3.0-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
