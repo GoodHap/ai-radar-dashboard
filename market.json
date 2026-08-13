@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-13",
+      "company": "Nvidia’s",
+      "amount": "$500B",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
+    },
+    {
       "date": "2026-08-12",
       "company": "AI",
       "amount": "$40B",
