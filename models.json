@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:34:47.839385+00:00",
+  "last_updated": "2026-08-13T04:58:35.291646+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
