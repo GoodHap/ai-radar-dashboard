@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T16:13:40+00:00",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+  },
+  {
     "id": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -205,15 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T16:57:58+00:00",
     "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
-  },
-  {
-    "id": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T16:46:02+00:00",
-    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your"
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
