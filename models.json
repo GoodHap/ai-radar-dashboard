@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T23:51:30.170957+00:00",
+  "last_updated": "2026-08-14T02:33:20.576745+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "maple-preview",
-      "company": "deepgrove",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "company": "nvidia",
+      "name": "maple-preview",
+      "company": "deepgrove",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
