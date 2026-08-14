@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T14:50:11+00:00",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T14:05:00+00:00",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -196,24 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T15:44:56+00:00",
     "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T14:22:00+00:00",
-    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T14:20:33+00:00",
-    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
