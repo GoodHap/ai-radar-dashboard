@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-14",
+      "company": "Meta’s",
+      "amount": "$250M",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+    },
+    {
       "date": "2026-08-13",
       "company": "Databricks",
       "amount": "$1B",
@@ -28,20 +35,6 @@
       "amount": "$2B",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "date": "2026-08-12",
-      "company": "Lovable",
-      "amount": "$13.3B",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
-    },
-    {
-      "date": "2026-08-12",
-      "company": "How",
-      "amount": "$250 MILLION",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
     }
   ]
 }

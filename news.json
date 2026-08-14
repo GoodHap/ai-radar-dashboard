@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T15:43:28+00:00",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
@@ -16,6 +25,24 @@
     "date": "2026-08-14",
     "timestamp": "2026-08-14T14:05:00+00:00",
     "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T14:00:00+00:00",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
+  },
+  {
+    "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "Hugging Face",
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -198,24 +225,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T16:04:27+00:00",
-    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T15:44:56+00:00",
-    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
     "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
@@ -304,14 +313,5 @@
     "date": "2026-08-03",
     "timestamp": "2026-08-03T15:00:00+00:00",
     "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "source": "Hugging Face",
-    "date": "2026-07-30",
-    "timestamp": "2026-07-30T15:09:09+00:00",
-    "summary": ""
   }
 ]
