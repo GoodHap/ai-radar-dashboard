@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T22:29:29.324198+00:00",
+  "last_updated": "2026-08-15T23:27:23.322509+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.0-flash",
-      "company": "inclusionAI",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
