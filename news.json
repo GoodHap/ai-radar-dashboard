@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T18:58:39+00:00",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "title": "SpaceX officially closes its Cursor acquisition",
     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -205,15 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T17:51:00+00:00",
     "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T17:41:29+00:00",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
