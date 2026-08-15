@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T21:29:19+00:00",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -205,15 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T18:19:12+00:00",
     "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T17:51:00+00:00",
-    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
