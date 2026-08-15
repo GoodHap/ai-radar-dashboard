@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:30:30.790264+00:00",
+  "last_updated": "2026-08-15T15:28:21.653491+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "maple-preview",
-      "company": "deepgrove",
+      "name": "needle2",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Motif-3",
-      "company": "Motif-Technologies",
+      "name": "maple-preview",
+      "company": "deepgrove",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
