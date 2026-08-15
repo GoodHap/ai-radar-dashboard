@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T16:33:20.394268+00:00",
+  "last_updated": "2026-08-15T17:26:47.886267+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,14 +38,14 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
+      "name": "DeepSeek-V4-Pro-0813",
       "company": "deepseek-ai",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-0813",
+      "name": "DeepSeek-V4-Flash-0731",
       "company": "deepseek-ai",
       "type": "Open Source",
       "score": 84.0,

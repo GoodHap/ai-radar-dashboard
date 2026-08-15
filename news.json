@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T16:30:00+00:00",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -205,15 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T17:41:29+00:00",
     "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T16:57:58+00:00",
-    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
