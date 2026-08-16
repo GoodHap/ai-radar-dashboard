@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T23:27:23.322509+00:00",
+  "last_updated": "2026-08-16T01:50:15.551934+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Motif-3",
-      "company": "Motif-Technologies",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Motif-3",
+      "company": "Motif-Technologies",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
