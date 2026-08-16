@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T11:27:00.324533+00:00",
+  "last_updated": "2026-08-16T12:53:47.538403+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B",
-      "company": "LiquidAI",
+      "name": "Qwen3.8-2.4T-A95B-FP8",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "LFM2.5-2.6B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
