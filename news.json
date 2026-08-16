@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16",
+    "timestamp": "2026-08-16T16:53:51+00:00",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -205,15 +214,6 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T20:10:40+00:00",
     "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T18:19:12+00:00",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
