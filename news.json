@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16",
+    "timestamp": "2026-08-16T20:57:04+00:00",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-16",
+    "timestamp": "2026-08-16T20:32:01+00:00",
+    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -196,24 +214,6 @@
     "date": "2026-08-13",
     "timestamp": "2026-08-13T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T22:26:37+00:00",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T20:10:40+00:00",
-    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
   },
   {
     "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
