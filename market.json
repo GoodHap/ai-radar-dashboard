@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-17",
+      "company": "Nvidia",
+      "amount": "$1.5B",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+    },
+    {
+      "date": "2026-08-17",
       "company": "Wispr",
       "amount": "$280M",
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -28,13 +35,6 @@
       "amount": "$1B",
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-    },
-    {
-      "date": "2026-08-13",
-      "company": "Nvidia’s",
-      "amount": "$500B",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
     }
   ]
 }
