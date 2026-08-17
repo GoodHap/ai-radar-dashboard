@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17",
+    "timestamp": "2026-08-17T16:38:44+00:00",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -88,6 +97,15 @@
     "date": "2026-08-15",
     "timestamp": "2026-08-15T16:30:00+00:00",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T16:10:00+00:00",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
   },
   {
     "id": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -180,15 +198,6 @@
     "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
   },
   {
-    "id": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T18:28:14+00:00",
-    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-  },
-  {
     "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
@@ -196,15 +205,6 @@
     "date": "2026-08-13",
     "timestamp": "2026-08-13T17:16:04+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T17:07:13+00:00",
-    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
