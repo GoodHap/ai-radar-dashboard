@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T15:32:26.606221+00:00",
+  "last_updated": "2026-08-17T16:36:32.111031+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-2.6B",
-      "company": "LiquidAI",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "company": "nvidia",
+      "name": "LFM2.5-2.6B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"

@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17",
+    "timestamp": "2026-08-17T16:15:12+00:00",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -205,15 +214,6 @@
     "date": "2026-08-13",
     "timestamp": "2026-08-13T16:45:00+00:00",
     "summary": "The video shows Sheets canvas in action."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T15:30:52+00:00",
-    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
   },
   {
     "id": "https://huggingface.co/blog/icml-2026-open-reproductions",
