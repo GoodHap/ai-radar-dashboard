@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-17",
+      "company": "Wispr",
+      "amount": "$280M",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+    },
+    {
       "date": "2026-08-16",
       "company": "Stripe",
       "amount": "$7B",
