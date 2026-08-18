@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T07:46:47.529875+00:00",
+  "last_updated": "2026-08-18T08:47:18.204089+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
