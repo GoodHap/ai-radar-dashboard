@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "Hugging Face",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T18:09:38+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T18:00:00+00:00",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
     "title": "Etched’s valuation doubles to $21B in a month",
     "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
@@ -198,15 +216,6 @@
     "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
   },
   {
-    "id": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T15:43:28+00:00",
-    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
-  },
-  {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "title": "State of Open Models: Summer 2026 Observations",
     "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -268,15 +277,6 @@
     "date": "2026-08-11",
     "timestamp": "2026-08-11T17:00:00+00:00",
     "summary": "AMIE promotional video"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "Hugging Face",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T13:37:10+00:00",
-    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
