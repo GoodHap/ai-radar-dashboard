@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:33:21.842343+00:00",
+  "last_updated": "2026-08-18T20:32:28.877332+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "company": "nvidia",
+      "name": "Qwen3.8-2.4T-A95B-FP8",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
