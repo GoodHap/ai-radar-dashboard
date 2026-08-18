@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T15:38:56.984838+00:00",
+  "last_updated": "2026-08-18T16:39:51.234340+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "company": "nvidia",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "company": "0bserverx",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "company": "0bserverx",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

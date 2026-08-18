@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T16:19:10+00:00",
+    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
     "title": "Warp’s new system is an out-of-the-box software factory for AI development",
     "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
@@ -196,15 +205,6 @@
     "date": "2026-08-14",
     "timestamp": "2026-08-14T14:50:11+00:00",
     "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T14:05:00+00:00",
-    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
