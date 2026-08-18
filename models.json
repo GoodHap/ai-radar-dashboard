@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T01:42:33.450445+00:00",
+  "last_updated": "2026-08-18T03:03:07.485478+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "company": "nvidia",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
