@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-17",
+    "timestamp": "2026-08-17T23:56:26+00:00",
+    "summary": "The model maker added $18 billion in annualized revenue in two months."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
     "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
@@ -196,15 +205,6 @@
     "date": "2026-08-13",
     "timestamp": "2026-08-13T20:14:39+00:00",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T19:22:40+00:00",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
   },
   {
     "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",

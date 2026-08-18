@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T23:29:26.474876+00:00",
+  "last_updated": "2026-08-18T01:42:33.450445+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
+      "name": "Ling-3.0-tiny",
+      "company": "inclusionAI",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "Qwen3.8-2.4T-A95B-FP8",
       "company": "Qwen",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "company": "nvidia",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "LFM2.5-2.6B",
       "company": "LiquidAI",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "needle2",
       "company": "Cactus-Compute",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
