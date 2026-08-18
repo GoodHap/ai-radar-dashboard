@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T14:00:00+00:00",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
     "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
     "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
@@ -196,15 +205,6 @@
     "date": "2026-08-14",
     "timestamp": "2026-08-14T14:05:00+00:00",
     "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T14:00:00+00:00",
-    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
