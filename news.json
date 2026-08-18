@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T17:21:58+00:00",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
     "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
     "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
@@ -196,15 +205,6 @@
     "date": "2026-08-14",
     "timestamp": "2026-08-14T15:43:28+00:00",
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T14:50:11+00:00",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
