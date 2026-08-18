@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T09:40:47.017278+00:00",
+  "last_updated": "2026-08-18T10:36:43.217858+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.0-tiny",
-      "company": "inclusionAI",
+      "name": "Qwen3.8-2.4T-A95B-FP8",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "Ling-3.0-tiny",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
