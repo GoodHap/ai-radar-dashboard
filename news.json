@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T22:14:25+00:00",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -205,15 +214,6 @@
     "date": "2026-08-15",
     "timestamp": "2026-08-15T16:10:00+00:00",
     "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T16:13:40+00:00",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
