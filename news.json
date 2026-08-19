@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T17:26:48+00:00",
+    "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
     "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
     "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
@@ -214,15 +223,6 @@
     "date": "2026-08-16",
     "timestamp": "2026-08-16T20:57:04+00:00",
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-16",
-    "timestamp": "2026-08-16T20:32:01+00:00",
-    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
