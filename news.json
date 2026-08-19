@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T19:11:40+00:00",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "title": "5 new ways to level up your learning with Search",
+    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "source": "Google AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T19:00:00+00:00",
+    "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T19:00:00+00:00",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T18:46:14+00:00",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas"
+  },
+  {
     "id": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
     "title": "Meet the startup helping Wall Street put a price on AI compute",
     "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
@@ -189,24 +225,6 @@
     "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
   },
   {
-    "id": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T15:16:24+00:00",
-    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T13:10:05+00:00",
-    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "title": "Get closer to the game with Gemini and Pixel",
     "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -214,15 +232,6 @@
     "date": "2026-08-17",
     "timestamp": "2026-08-17T08:00:00+00:00",
     "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-16",
-    "timestamp": "2026-08-16T20:57:04+00:00",
-    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
