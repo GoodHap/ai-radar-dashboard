@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "title": "Calendly throws its hat into meeting note-taker circus",
+    "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T14:09:39+00:00",
+    "summary": "Calendly is also releasing a meeting scheduling assistant called Callie."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/qad",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "source": "Hugging Face",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T13:48:49+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
     "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
     "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
@@ -207,15 +225,6 @@
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
   },
   {
-    "id": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-15",
-    "timestamp": "2026-08-15T18:58:39+00:00",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-  },
-  {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "title": "State of Open Models: Summer 2026 Observations",
     "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -258,15 +267,6 @@
     "source": "Hugging Face",
     "date": "2026-08-12",
     "timestamp": "2026-08-12T16:14:36+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "source": "Hugging Face",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T14:00:51+00:00",
     "summary": ""
   },
   {
