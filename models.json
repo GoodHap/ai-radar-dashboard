@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T17:33:05.531671+00:00",
+  "last_updated": "2026-08-19T18:45:29.625370+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "Qwen3.8-9B-Distill",
+      "company": "empero-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-9B-Distill",
-      "company": "empero-ai",
+      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+      "company": "AEON-7",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
+      "name": "Qwen3.8-2.4T-A95B-FP8",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
