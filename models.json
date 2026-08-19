@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T11:32:34.141995+00:00",
+  "last_updated": "2026-08-19T13:01:08.104800+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "company": "nvidia",
+      "name": "Qwen3.8-9B",
+      "company": "empero-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-9B",
-      "company": "empero-ai",
+      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+      "company": "AEON-7",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
+      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T12:00:00+00:00",
+    "summary": "It's the data, stupid."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
     "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
     "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
@@ -207,15 +216,6 @@
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
   },
   {
-    "id": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-15",
-    "timestamp": "2026-08-15T16:30:00+00:00",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX."
-  },
-  {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "title": "State of Open Models: Summer 2026 Observations",
     "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -322,14 +322,5 @@
     "date": "2026-08-06",
     "timestamp": "2026-08-06T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "title": "The latest AI news we announced in July 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "source": "Google AI",
-    "date": "2026-08-04",
-    "timestamp": "2026-08-04T13:00:00+00:00",
-    "summary": "July AI recap header"
   }
 ]
