@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T15:44:53+00:00",
+    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
     "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
     "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
@@ -214,15 +223,6 @@
     "date": "2026-08-16",
     "timestamp": "2026-08-16T20:32:01+00:00",
     "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-16",
-    "timestamp": "2026-08-16T16:53:51+00:00",
-    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
