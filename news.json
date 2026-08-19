@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T22:10:46+00:00",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T21:51:23+00:00",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
     "title": "AI was supposed to win people over by now — it hasn’t",
     "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
@@ -205,24 +223,6 @@
     "date": "2026-08-17",
     "timestamp": "2026-08-17T19:46:21+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T16:38:44+00:00",
-    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T16:15:12+00:00",
-    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",

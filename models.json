@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T21:32:40.865993+00:00",
+  "last_updated": "2026-08-19T22:32:00.583307+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.0-tiny",
-      "company": "inclusionAI",
+      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+      "company": "AEON-7",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
+      "name": "Ling-3.0-tiny",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B-FP8",
-      "company": "Qwen",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "z-lab",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
