@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T15:00:00+00:00",
+    "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
     "title": "Calendly throws its hat into meeting note-taker circus",
     "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
@@ -214,15 +223,6 @@
     "date": "2026-08-16",
     "timestamp": "2026-08-16T16:53:51+00:00",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-15",
-    "timestamp": "2026-08-15T21:29:19+00:00",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
   },
   {
     "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
