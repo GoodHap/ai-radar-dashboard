@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T22:36:37+00:00",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -187,15 +196,6 @@
     "date": "2026-08-19",
     "timestamp": "2026-08-19T17:26:48+00:00",
     "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-19",
-    "timestamp": "2026-08-19T15:44:53+00:00",
-    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
