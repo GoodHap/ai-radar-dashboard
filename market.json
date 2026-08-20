@@ -1,12 +1,4 @@
 {
   "global_market_size": "$412B",
-  "funding_events": [
-    {
-      "date": "2026-08-19",
-      "company": "Relativity",
-      "amount": "$22 MILLION",
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
-    }
-  ]
+  "funding_events": []
 }
