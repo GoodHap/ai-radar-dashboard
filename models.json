@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T23:29:38.215254+00:00",
+  "last_updated": "2026-08-20T01:43:40.406746+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "DeepSeek-V4-Pro-0813",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-0813",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "company": "nvidia",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T23:32:00+00:00",
+    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
@@ -205,15 +214,6 @@
     "date": "2026-08-17",
     "timestamp": "2026-08-17T23:56:26+00:00",
     "summary": "The model maker added $18 billion in annualized revenue in two months."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T21:27:05+00:00",
-    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
