@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T21:35:03.724632+00:00",
+  "last_updated": "2026-08-20T22:35:35.155352+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
+      "name": "s1-mini",
+      "company": "superwhisper",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

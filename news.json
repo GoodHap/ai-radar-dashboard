@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T22:09:51+00:00",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "title": "Ok, can we actually cool data centers with our pee?",
+    "title": "OK, can we actually cool data centers with our pee?",
     "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "source": "TechCrunch AI",
     "date": "2026-08-20",
     "timestamp": "2026-08-20T20:53:13+00:00",
-    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous."
+    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
   },
   {
     "id": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
@@ -187,15 +196,6 @@
     "date": "2026-08-19",
     "timestamp": "2026-08-19T15:44:53+00:00",
     "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-19",
-    "timestamp": "2026-08-19T15:00:00+00:00",
-    "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
