@@ -1,12 +1,30 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T16:07:26+00:00",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T16:00:00+00:00",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
     "title": "Meta AI’s new Mac app wants you to talk to your apps",
     "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
     "source": "TechCrunch AI",
     "date": "2026-08-20",
     "timestamp": "2026-08-20T12:11:57+00:00",
-    "summary": "Meta said its Muse Spark model is powering the dictation feature."
+    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
   },
   {
     "id": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -15,7 +33,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-20",
     "timestamp": "2026-08-20T09:30:00+00:00",
-    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
+    "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
   },
   {
     "id": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -187,24 +205,6 @@
     "date": "2026-08-18",
     "timestamp": "2026-08-18T16:19:10+00:00",
     "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T14:00:00+00:00",
-    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T13:50:30+00:00",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
   },
   {
     "id": "https://huggingface.co/blog/multi-vector-encoder",

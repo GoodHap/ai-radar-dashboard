@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T15:40:33.071066+00:00",
+  "last_updated": "2026-08-20T16:42:21.794666+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-9B-Distill",
-      "company": "empero-ai",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "z-lab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "z-lab",
+      "name": "Qwen3.8-9B-Distill",
+      "company": "empero-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
