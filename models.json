@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:03:20.700505+00:00",
+  "last_updated": "2026-08-20T14:43:33.975986+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-9B-Distill",
-      "company": "empero-ai",
+      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+      "company": "AEON-7",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "company": "AEON-7",
+      "name": "Qwen3.8-9B-Distill",
+      "company": "empero-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "z-lab",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B-GGUF",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "z-lab",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
