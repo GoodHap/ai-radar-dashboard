@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "title": "Grok keeps sending gibberish responses to users",
+    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T17:32:16+00:00",
+    "summary": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T17:18:58+00:00",
+    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "Hugging Face",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T16:52:57+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "title": "Ramp launches its own AI model router, called Router",
+    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T16:46:00+00:00",
+    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
     "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
     "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
@@ -135,15 +171,6 @@
     "summary": "Calendly is also releasing a meeting scheduling assistant called Callie."
   },
   {
-    "id": "https://huggingface.co/blog/LiquidAI/qad",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "source": "Hugging Face",
-    "date": "2026-08-19",
-    "timestamp": "2026-08-19T13:48:49+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
     "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
     "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
@@ -178,33 +205,6 @@
     "date": "2026-08-18",
     "timestamp": "2026-08-18T18:09:38+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T18:00:00+00:00",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "title": "Etched’s valuation doubles to $21B in a month",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T17:21:58+00:00",
-    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T16:19:10+00:00",
-    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
   },
   {
     "id": "https://huggingface.co/blog/multi-vector-encoder",
