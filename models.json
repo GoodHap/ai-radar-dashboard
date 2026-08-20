@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T08:49:04.595507+00:00",
+  "last_updated": "2026-08-20T09:42:06.145616+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
