@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T14:00:00+00:00",
+    "summary": "There's about to be a big fight to secure access to space."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -7,6 +16,15 @@
     "date": "2026-08-21",
     "timestamp": "2026-08-21T00:13:44+00:00",
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+  },
+  {
+    "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "Hugging Face",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -187,15 +205,6 @@
     "date": "2026-08-19",
     "timestamp": "2026-08-19T19:00:00+00:00",
     "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-19",
-    "timestamp": "2026-08-19T18:46:14+00:00",
-    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas"
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",

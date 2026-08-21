@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-21",
+      "company": "Starcloud",
+      "amount": "$250 MILLION",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "date": "2026-08-21",
       "company": "AI",
       "amount": "$500M",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
