@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T07:52:07.809105+00:00",
+  "last_updated": "2026-08-21T08:50:50.930349+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-0813",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "DeepSeek-V4-Pro-0813",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "company": "0bserverx",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "company": "0bserverx",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
