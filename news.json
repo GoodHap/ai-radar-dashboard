@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T00:13:44+00:00",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -189,15 +198,6 @@
     "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas"
   },
   {
-    "id": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-19",
-    "timestamp": "2026-08-19T17:26:48+00:00",
-    "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any"
-  },
-  {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -330,15 +330,6 @@
     "source": "Hugging Face",
     "date": "2026-08-10",
     "timestamp": "2026-08-10T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/baseten",
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/baseten",
-    "source": "Hugging Face",
-    "date": "2026-08-06",
-    "timestamp": "2026-08-06T00:00:00+00:00",
     "summary": ""
   }
 ]
