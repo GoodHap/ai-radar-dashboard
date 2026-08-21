@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T11:32:55.637458+00:00",
+  "last_updated": "2026-08-21T13:02:06.503187+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-0813",
-      "company": "deepseek-ai",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "DeepSeek-V4-Pro-0813",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
