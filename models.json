@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T09:34:16.085837+00:00",
+  "last_updated": "2026-08-22T10:31:28.947820+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "z-lab",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "z-lab",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
