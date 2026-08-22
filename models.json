@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T11:27:36.253023+00:00",
+  "last_updated": "2026-08-22T12:53:29.783677+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "company": "0bserverx",
+      "name": "s1-mini",
+      "company": "superwhisper",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "s1-mini",
-      "company": "superwhisper",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "company": "0bserverx",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-2.4T-A95B",
-      "company": "Qwen",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-2.4T-A95B",
+      "company": "Qwen",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
