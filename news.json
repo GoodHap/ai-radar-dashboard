@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-22",
+    "timestamp": "2026-08-22T19:00:00+00:00",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "title": "OpenAI says California should strengthen its AI safety bill",
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -187,15 +196,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T16:00:00+00:00",
     "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T12:11:57+00:00",
-    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",

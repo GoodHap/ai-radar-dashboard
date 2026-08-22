@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T18:40:24.212158+00:00",
+  "last_updated": "2026-08-22T19:28:10.911422+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "company": "0bserverx",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "company": "0bserverx",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
