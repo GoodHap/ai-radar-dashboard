@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-22",
+    "timestamp": "2026-08-22T21:46:56+00:00",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -54,15 +63,6 @@
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
   },
   {
-    "id": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T14:00:00+00:00",
-    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on "
-  },
-  {
     "id": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
@@ -70,6 +70,15 @@
     "date": "2026-08-21",
     "timestamp": "2026-08-21T14:00:00+00:00",
     "summary": "There's about to be a big fight to secure access to space."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T14:00:00+00:00",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on "
   },
   {
     "id": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -187,15 +196,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T16:07:26+00:00",
     "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T16:00:00+00:00",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
