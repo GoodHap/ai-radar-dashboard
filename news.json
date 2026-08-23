@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T15:30:00+00:00",
+    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
     "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -187,15 +196,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T16:52:57+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "title": "Ramp launches its own AI model router, called Router",
-    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T16:46:00+00:00",
-    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
