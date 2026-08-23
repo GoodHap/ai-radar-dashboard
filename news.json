@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T15:00:00+00:00",
+    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -187,15 +196,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T16:46:00+00:00",
     "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T16:07:26+00:00",
-    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
