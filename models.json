@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T01:51:42.312108+00:00",
+  "last_updated": "2026-08-23T03:10:35.035360+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "company": "0bserverx",
+      "name": "Ornith-1.5-9B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-9B",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "company": "0bserverx",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
