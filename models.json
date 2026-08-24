@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:44:57.095142+00:00",
+  "last_updated": "2026-08-24T07:12:51.015818+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-9B-GGUF",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "incoai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "incoai",
+      "name": "Ornith-1.5-9B-GGUF",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
