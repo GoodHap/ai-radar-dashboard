@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-24",
+      "company": "Hugging",
+      "amount": "$13B",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
+    },
+    {
       "date": "2026-08-21",
       "company": "Starcloud",
       "amount": "$250 MILLION",

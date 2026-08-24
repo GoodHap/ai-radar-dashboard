@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-24",
+    "timestamp": "2026-08-24T13:47:26+00:00",
+    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -178,15 +187,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T19:15:05+00:00",
     "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T17:32:16+00:00",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
