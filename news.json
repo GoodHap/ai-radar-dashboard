@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-24",
+    "timestamp": "2026-08-24T15:24:18+00:00",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-24",
+    "timestamp": "2026-08-24T15:00:00+00:00",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
     "title": "Hugging Face reportedly in talks to be acquired for $13B",
     "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -108,15 +126,6 @@
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
   },
   {
-    "id": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T14:00:00+00:00",
-    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on "
-  },
-  {
     "id": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
@@ -124,6 +133,15 @@
     "date": "2026-08-21",
     "timestamp": "2026-08-21T14:00:00+00:00",
     "summary": "There's about to be a big fight to secure access to space."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T14:00:00+00:00",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on "
   },
   {
     "id": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -169,24 +187,6 @@
     "date": "2026-08-20",
     "timestamp": "2026-08-20T20:53:13+00:00",
     "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T19:18:21+00:00",
-    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to "
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T19:15:05+00:00",
-    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",

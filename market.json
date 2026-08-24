@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-24",
+      "company": "Valor,",
+      "amount": "$6B",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "date": "2026-08-24",
       "company": "Hugging",
       "amount": "$13B",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
