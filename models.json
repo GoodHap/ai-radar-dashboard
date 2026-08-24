@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T08:57:10.940672+00:00",
+  "last_updated": "2026-08-24T09:57:12.324239+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "incoai",
+      "name": "Ornith-1.5-9B-GGUF",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-9B-GGUF",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-DFlash2",
+      "company": "incoai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
