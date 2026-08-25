@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "source": "Google AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T16:00:00+00:00",
+    "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "title": "Granite 4.2 LLMs: How They're Built",
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
@@ -339,15 +348,6 @@
     "source": "Hugging Face",
     "date": "2026-08-11",
     "timestamp": "2026-08-11T13:37:10+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "Hugging Face",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T16:25:36+00:00",
     "summary": ""
   }
 ]
