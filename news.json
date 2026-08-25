@@ -189,6 +189,15 @@
     "summary": "There's about to be a big fight to secure access to space."
   },
   {
+    "id": "https://huggingface.co/blog/pwc-search",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "link": "https://huggingface.co/blog/pwc-search",
+    "source": "Hugging Face",
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/asr-benchmark-optimization",
     "title": "Measuring benchmark optimization in speech recognition",
     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
