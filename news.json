@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T14:22:04+00:00",
+    "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
     "title": "Accel-backed Keenable is indexing the web for AI agents",
     "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -189,15 +198,6 @@
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
   },
   {
-    "id": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T22:37:38+00:00",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
-  },
-  {
     "id": "https://huggingface.co/blog/pwc-search",
     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "link": "https://huggingface.co/blog/pwc-search",
@@ -340,14 +340,5 @@
     "date": "2026-08-10",
     "timestamp": "2026-08-10T16:25:36+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "title": "Evolve your marketing with new AI tools",
-    "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "source": "Google AI",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T14:30:00+00:00",
-    "summary": "Advisor UI in Google Ads and Google Analytics"
   }
 ]
