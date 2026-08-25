@@ -1,12 +1,30 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "Hugging Face",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T15:14:14+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T15:00:00+00:00",
+    "summary": "Lica co-founders are going to work on Gamma's new research team."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "source": "TechCrunch AI",
     "date": "2026-08-25",
     "timestamp": "2026-08-25T14:22:04+00:00",
-    "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
   },
   {
     "id": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -187,15 +205,6 @@
     "date": "2026-08-22",
     "timestamp": "2026-08-22T01:31:04+00:00",
     "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T23:07:25+00:00",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
   },
   {
     "id": "https://huggingface.co/blog/pwc-search",
