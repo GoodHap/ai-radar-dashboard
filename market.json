@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-25",
+      "company": "Stability",
+      "amount": "$76 MILLION",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
+    },
+    {
+      "date": "2026-08-25",
       "company": "Accel-backed",
       "amount": "$26 MILLION",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
