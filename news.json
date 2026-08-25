@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T17:50:33+00:00",
+    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
+  },
+  {
     "id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "title": "5 ways to upgrade your home decor with Google Search",
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -205,15 +214,6 @@
     "date": "2026-08-22",
     "timestamp": "2026-08-22T16:00:00+00:00",
     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-22",
-    "timestamp": "2026-08-22T01:31:04+00:00",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive"
   },
   {
     "id": "https://huggingface.co/blog/pwc-search",
