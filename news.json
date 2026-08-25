@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T00:23:12+00:00",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
     "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
     "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -162,15 +171,6 @@
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
   },
   {
-    "id": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T14:00:00+00:00",
-    "summary": "There's about to be a big fight to secure access to space."
-  },
-  {
     "id": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
     "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
@@ -330,15 +330,6 @@
     "source": "Hugging Face",
     "date": "2026-08-10",
     "timestamp": "2026-08-10T10:05:36+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/muse-glimmer",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "link": "https://huggingface.co/blog/muse-glimmer",
-    "source": "Hugging Face",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T00:00:00+00:00",
     "summary": ""
   }
 ]
