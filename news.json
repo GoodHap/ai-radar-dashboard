@@ -331,14 +331,5 @@
     "date": "2026-08-10",
     "timestamp": "2026-08-10T14:30:00+00:00",
     "summary": "Advisor UI in Google Ads and Google Analytics"
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "source": "Hugging Face",
-    "date": "2026-08-10",
-    "timestamp": "2026-08-10T10:05:36+00:00",
-    "summary": ""
   }
 ]
