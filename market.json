@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-25",
+      "company": "Accel-backed",
+      "amount": "$26 MILLION",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
       "date": "2026-08-24",
       "company": "Valor,",
       "amount": "$6B",
@@ -14,13 +21,6 @@
       "amount": "$13B",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
-    },
-    {
-      "date": "2026-08-21",
-      "company": "Starcloud",
-      "amount": "$250 MILLION",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     }
   ]
 }

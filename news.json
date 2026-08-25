@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T13:00:00+00:00",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T12:00:00+00:00",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+  },
+  {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "Hugging Face",
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T11:39:24+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -169,24 +196,6 @@
     "date": "2026-08-21",
     "timestamp": "2026-08-21T22:37:38+00:00",
     "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T19:43:39+00:00",
-    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-21",
-    "timestamp": "2026-08-21T14:00:00+00:00",
-    "summary": "There's about to be a big fight to secure access to space."
   },
   {
     "id": "https://huggingface.co/blog/pwc-search",
