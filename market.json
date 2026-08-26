@@ -3,6 +3,20 @@
   "funding_events": [
     {
       "date": "2026-08-26",
+      "company": "Arga",
+      "amount": "$10 MILLION",
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+    },
+    {
+      "date": "2026-08-26",
+      "company": "Hearing",
+      "amount": "$12M",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+    },
+    {
+      "date": "2026-08-26",
       "company": "Runable",
       "amount": "$21M",
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
