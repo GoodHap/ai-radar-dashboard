@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T11:00:00+00:00",
+    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
@@ -205,15 +214,6 @@
     "date": "2026-08-23",
     "timestamp": "2026-08-23T15:30:00+00:00",
     "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23",
-    "timestamp": "2026-08-23T15:00:00+00:00",
-    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
   },
   {
     "id": "https://huggingface.co/blog/pwc-search",

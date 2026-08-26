@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-26",
+      "company": "Runable",
+      "amount": "$21M",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
+    },
+    {
+      "date": "2026-08-26",
       "company": "India’s",
       "amount": "$10 MILLION",
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
