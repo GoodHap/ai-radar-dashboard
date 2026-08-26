@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-26",
+      "company": "Robotics",
+      "amount": "$3B",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+    },
+    {
       "date": "2026-08-25",
       "company": "Stability",
       "amount": "$76 MILLION",

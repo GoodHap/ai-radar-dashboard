@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T00:40:59+00:00",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T00:06:20+00:00",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
     "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
@@ -196,24 +214,6 @@
     "date": "2026-08-22",
     "timestamp": "2026-08-22T21:46:56+00:00",
     "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-22",
-    "timestamp": "2026-08-22T19:00:00+00:00",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-22",
-    "timestamp": "2026-08-22T16:30:34+00:00",
-    "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge."
   },
   {
     "id": "https://huggingface.co/blog/pwc-search",
