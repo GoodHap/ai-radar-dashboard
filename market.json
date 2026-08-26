@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-26",
+      "company": "Anthropic",
+      "amount": "$45B",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
+    },
+    {
+      "date": "2026-08-26",
       "company": "QueryStory",
       "amount": "$6 MILLION",
       "title": "QueryStory wants you to believe what AI is telling you",
@@ -49,13 +56,6 @@
       "amount": "$76 MILLION",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Accel-backed",
-      "amount": "$26 MILLION",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
     }
   ]
 }
