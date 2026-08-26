@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-26",
+      "company": "India’s",
+      "amount": "$10 MILLION",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
+    },
+    {
+      "date": "2026-08-26",
       "company": "Robotics",
       "amount": "$3B",
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
