@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T13:06:59.746052+00:00",
+  "last_updated": "2026-08-26T14:51:42.557224+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,50 +52,50 @@
       "trend": "up"
     },
     {
+      "name": "GLM-5.3-Flash",
+      "company": "zai-org",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
       "name": "s1-mini",
       "company": "superwhisper",
       "type": "Open Source",
-      "score": 83.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-Uncensored-GGUF",
       "company": "JonathanColetti",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Ornith-1.5-9B",
       "company": "ornith-ai",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "Ornith-1.5-9B-GGUF",
       "company": "ornith-ai",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-V4-Flash-0731",
       "company": "deepseek-ai",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-DFlash2",
       "company": "z-lab",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.8-27B-Escha-W2",
-      "company": "EschaLabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

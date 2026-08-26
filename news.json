@@ -1,7 +1,43 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T14:37:01+00:00",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T14:19:29+00:00",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T13:30:00+00:00",
+    "summary": "Robot bodies are waiting for their AI brains to catch up."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T13:00:00+00:00",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "title": "Arga is building a better way to train enterprise AI agents",
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
     "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
     "source": "TechCrunch AI",
     "date": "2026-08-26",
@@ -52,6 +88,15 @@
     "date": "2026-08-26",
     "timestamp": "2026-08-26T00:06:20+00:00",
     "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
+  },
+  {
+    "id": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "Hugging Face",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
@@ -180,42 +225,6 @@
     "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
   },
   {
-    "id": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24",
-    "timestamp": "2026-08-24T15:24:18+00:00",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24",
-    "timestamp": "2026-08-24T15:00:00+00:00",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24",
-    "timestamp": "2026-08-24T13:47:26+00:00",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-23",
-    "timestamp": "2026-08-23T20:01:36+00:00",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
-  },
-  {
     "id": "https://huggingface.co/blog/pwc-search",
     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "link": "https://huggingface.co/blog/pwc-search",
@@ -340,14 +349,5 @@
     "date": "2026-08-11",
     "timestamp": "2026-08-11T17:00:00+00:00",
     "summary": "AMIE promotional video"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "Hugging Face",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T13:37:10+00:00",
-    "summary": ""
   }
 ]

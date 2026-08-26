@@ -3,9 +3,16 @@
   "funding_events": [
     {
       "date": "2026-08-26",
+      "company": "QueryStory",
+      "amount": "$6 MILLION",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
+    },
+    {
+      "date": "2026-08-26",
       "company": "Arga",
       "amount": "$10 MILLION",
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
     },
     {
@@ -49,20 +56,6 @@
       "amount": "$26 MILLION",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
-    },
-    {
-      "date": "2026-08-24",
-      "company": "Valor,",
-      "amount": "$6B",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-    },
-    {
-      "date": "2026-08-24",
-      "company": "Hugging",
-      "amount": "$13B",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
     }
   ]
 }
