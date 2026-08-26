@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T05:40:56.613423+00:00",
+  "last_updated": "2026-08-26T07:00:57.943342+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "s1-mini",
+      "company": "superwhisper",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "s1-mini",
-      "company": "superwhisper",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
