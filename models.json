@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T16:24:21.652334+00:00",
+  "last_updated": "2026-08-26T19:11:19.519080+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "s1-mini",
-      "company": "superwhisper",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "s1-mini",
+      "company": "superwhisper",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DFlash2",
-      "company": "z-lab",
+      "name": "Qwen3.8-27B-Escha-W2",
+      "company": "EschaLabs",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

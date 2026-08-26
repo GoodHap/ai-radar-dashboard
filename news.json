@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T19:05:22+00:00",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
     "title": "Radar makes podcasts searchable — and usable by AI agents",
     "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
@@ -216,15 +225,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-24",
-    "timestamp": "2026-08-24T21:24:17+00:00",
-    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
-  },
-  {
     "id": "https://huggingface.co/blog/pwc-search",
     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "link": "https://huggingface.co/blog/pwc-search",
@@ -340,14 +340,5 @@
     "date": "2026-08-12",
     "timestamp": "2026-08-12T16:14:36+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "source": "Google AI",
-    "date": "2026-08-11",
-    "timestamp": "2026-08-11T17:00:00+00:00",
-    "summary": "AMIE promotional video"
   }
 ]
