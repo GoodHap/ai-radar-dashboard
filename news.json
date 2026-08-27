@@ -1,12 +1,93 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T19:52:52+00:00",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T17:43:24+00:00",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "title": "3 new ways to plan and book travel in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "source": "Google AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T16:00:00+00:00",
+    "summary": "Graphic depicting new travel features for AI Mode in Search"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T16:00:00+00:00",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T14:56:52+00:00",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "title": "AI’s memory crunch is coming for Android apps",
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T14:27:04+00:00",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T14:01:42+00:00",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T13:00:00+00:00",
+    "summary": "Plaud's new 'agentic' earbuds are priced at $249."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T11:35:59+00:00",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "title": "Nvidia closes in on Hugging Face acquisition",
     "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "source": "TechCrunch AI",
     "date": "2026-08-27",
     "timestamp": "2026-08-27T06:32:51+00:00",
-    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
   },
   {
     "id": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
@@ -108,69 +189,6 @@
     "summary": "Robot bodies are waiting for their AI brains to catch up."
   },
   {
-    "id": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T13:00:00+00:00",
-    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "title": "Arga Labs is building a better way to train enterprise AI agents",
-    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T12:55:28+00:00",
-    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T12:00:00+00:00",
-    "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T11:00:00+00:00",
-    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T03:30:00+00:00",
-    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T00:40:59+00:00",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T00:06:20+00:00",
-    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
-  },
-  {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -178,15 +196,6 @@
     "date": "2026-08-26",
     "timestamp": "2026-08-26T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T19:03:47+00:00",
-    "summary": "The company's new fundraising total now stands at $232 million."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -330,15 +339,6 @@
     "source": "Hugging Face",
     "date": "2026-08-13",
     "timestamp": "2026-08-13T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "source": "Hugging Face",
-    "date": "2026-08-12",
-    "timestamp": "2026-08-12T16:14:36+00:00",
     "summary": ""
   }
 ]

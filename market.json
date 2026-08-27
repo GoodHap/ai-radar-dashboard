@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-08-27",
+      "company": "Hugging",
+      "amount": "$399 O",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+    },
+    {
+      "date": "2026-08-27",
       "company": "Nvidia",
       "amount": "$12.9 BILLION",
       "title": "Nvidia closes in on Hugging Face acquisition",
@@ -21,55 +28,6 @@
       "amount": "$45B",
       "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
       "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "QueryStory",
-      "amount": "$6 MILLION",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Arga",
-      "amount": "$10 MILLION",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Hearing",
-      "amount": "$12M",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Runable",
-      "amount": "$21M",
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "India’s",
-      "amount": "$10 MILLION",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
-    },
-    {
-      "date": "2026-08-26",
-      "company": "Robotics",
-      "amount": "$3B",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
-    },
-    {
-      "date": "2026-08-25",
-      "company": "Stability",
-      "amount": "$76 MILLION",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
     }
   ]
 }
