@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T06:32:51+00:00",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T00:24:57+00:00",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T23:47:18+00:00",
+    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
     "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
@@ -162,15 +189,6 @@
     "summary": "The company's new fundraising total now stands at $232 million."
   },
   {
-    "id": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T17:50:33+00:00",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "title": "5 ways to upgrade your home decor with Google Search",
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -187,24 +205,6 @@
     "date": "2026-08-25",
     "timestamp": "2026-08-25T15:14:14+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T15:00:00+00:00",
-    "summary": "Lica co-founders are going to work on Gamma's new research team."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T14:22:04+00:00",
-    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
   },
   {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",

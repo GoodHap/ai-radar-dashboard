@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T23:18:09.713306+00:00",
+  "last_updated": "2026-08-27T09:19:57.251447+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "s1-mini",
-      "company": "superwhisper",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-9B",
-      "company": "ornith-ai",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "s1-mini",
+      "company": "superwhisper",
+      "type": "Open Source",
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Ornith-1.5-9B-GGUF",
       "company": "ornith-ai",
       "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
-      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Escha-W2",
-      "company": "EschaLabs",
+      "name": "Ornith-1.5-9B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
