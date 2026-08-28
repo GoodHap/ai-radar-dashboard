@@ -1,7 +1,16 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T23:16:45+00:00",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
     "source": "TechCrunch AI",
     "date": "2026-08-27",
@@ -69,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-08-27",
     "timestamp": "2026-08-27T13:00:00+00:00",
-    "summary": "Plaud's new 'agentic' earbuds are priced at $249."
+    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
   },
   {
     "id": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
@@ -178,15 +187,6 @@
     "date": "2026-08-26",
     "timestamp": "2026-08-26T14:19:29+00:00",
     "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "title": "Robot brain builders are pushing out of their GPT-2 era",
-    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T13:30:00+00:00",
-    "summary": "Robot bodies are waiting for their AI brains to catch up."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -331,14 +331,5 @@
     "date": "2026-08-13",
     "timestamp": "2026-08-13T16:45:00+00:00",
     "summary": "The video shows Sheets canvas in action."
-  },
-  {
-    "id": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "source": "Hugging Face",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T00:00:00+00:00",
-    "summary": ""
   }
 ]
