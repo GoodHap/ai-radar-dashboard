@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T05:11:15.519596+00:00",
+  "last_updated": "2026-08-28T18:31:24.430359+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
+      "name": "Hy4-preview",
+      "company": "tencent",
+      "type": "Open Source",
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "Qwen3.8-27B-Uncensored-GGUF",
       "company": "JonathanColetti",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-V4-Flash-0731",
       "company": "deepseek-ai",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Ornith-1.5-35B-A3B-GGUF",
       "company": "ornith-ai",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "s1-mini",
       "company": "superwhisper",
-      "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "Ornith-1.5-9B-GGUF",
-      "company": "ornith-ai",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.8-27B-Unleashed-GGUF",
-      "company": "outsourc-e",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

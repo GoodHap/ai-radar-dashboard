@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T18:19:40+00:00",
+    "summary": "There's a lot of capital pouring into the business of giving models away."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T12:46:12+00:00",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T12:21:06+00:00",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -162,33 +189,6 @@
     "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
   },
   {
-    "id": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T15:00:00+00:00",
-    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T14:37:01+00:00",
-    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T14:19:29+00:00",
-    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
-  },
-  {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -313,23 +313,5 @@
     "date": "2026-08-14",
     "timestamp": "2026-08-14T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "Hugging Face",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T17:16:04+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "source": "Google AI",
-    "date": "2026-08-13",
-    "timestamp": "2026-08-13T16:45:00+00:00",
-    "summary": "The video shows Sheets canvas in action."
   }
 ]
