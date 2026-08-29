@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29T13:00:00+00:00",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -178,15 +187,6 @@
     "date": "2026-08-26",
     "timestamp": "2026-08-26T21:37:39+00:00",
     "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T19:37:34+00:00",
-    "summary": "Consumer AI apps need to stop making users learn their product architecture."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
