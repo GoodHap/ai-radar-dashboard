@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T20:24:11+00:00",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T19:30:38+00:00",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -25,6 +43,15 @@
     "date": "2026-08-28",
     "timestamp": "2026-08-28T12:21:06+00:00",
     "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+  },
+  {
+    "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "Hugging Face",
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -162,33 +189,6 @@
     "summary": "Consumer AI apps need to stop making users learn their product architecture."
   },
   {
-    "id": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T19:34:04+00:00",
-    "summary": "Was Greg Brockman the right executive all along?"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T19:05:22+00:00",
-    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T15:47:28+00:00",
-    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
-  },
-  {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -304,14 +304,5 @@
     "date": "2026-08-17",
     "timestamp": "2026-08-17T08:00:00+00:00",
     "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
-  },
-  {
-    "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "Hugging Face",
-    "date": "2026-08-14",
-    "timestamp": "2026-08-14T00:00:00+00:00",
-    "summary": ""
   }
 ]
