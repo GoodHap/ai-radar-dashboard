@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29T17:36:47+00:00",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
@@ -178,15 +187,6 @@
     "date": "2026-08-26",
     "timestamp": "2026-08-26T23:47:18+00:00",
     "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T21:37:39+00:00",
-    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
