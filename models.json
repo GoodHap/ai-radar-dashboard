@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T18:23:04.348078+00:00",
+  "last_updated": "2026-08-29T21:38:30.577131+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
