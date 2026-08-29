@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T02:02:48.605193+00:00",
+  "last_updated": "2026-08-29T09:56:49.860445+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-Flash-GGUF",
-      "company": "unsloth",
+      "name": "Hy4-preview",
+      "company": "tencent",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Hy4-preview",
-      "company": "tencent",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B-GGUF",
-      "company": "ornith-ai",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "Ornith-1.5-35B-A3B-GGUF",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
