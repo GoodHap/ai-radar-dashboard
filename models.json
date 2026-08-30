@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T17:19:15.504304+00:00",
+  "last_updated": "2026-08-30T20:55:58.800380+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
