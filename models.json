@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T12:45:39.553906+00:00",
+  "last_updated": "2026-08-30T17:19:15.504304+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,29 +52,29 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-GGUF",
-      "company": "unsloth",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
