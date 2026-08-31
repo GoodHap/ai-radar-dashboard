@@ -1,16 +1,52 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T19:16:59+00:00",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T18:35:11+00:00",
+    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T16:00:00+00:00",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
+  },
+  {
+    "id": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T15:15:25+00:00",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
     "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
     "source": "TechCrunch AI",
     "date": "2026-08-31",
     "timestamp": "2026-08-31T12:56:46+00:00",
-    "summary": "Circleback is also introducing new pricing plans starting from $14 per month"
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month."
   },
   {
     "id": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "source": "TechCrunch AI",
     "date": "2026-08-31",
@@ -37,7 +73,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "source": "TechCrunch AI",
     "date": "2026-08-29",
@@ -45,8 +81,17 @@
     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
   },
   {
+    "id": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29T17:51:10+00:00",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+  },
+  {
     "id": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
     "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
     "source": "TechCrunch AI",
     "date": "2026-08-29",
@@ -135,15 +180,6 @@
     "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
   },
   {
-    "id": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T17:43:24+00:00",
-    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "title": "3 new ways to plan and book travel in Search",
     "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -151,42 +187,6 @@
     "date": "2026-08-27",
     "timestamp": "2026-08-27T16:00:00+00:00",
     "summary": "Graphic depicting new travel features for AI Mode in Search"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T16:00:00+00:00",
-    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T14:56:52+00:00",
-    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "title": "AI’s memory crunch is coming for Android apps",
-    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T14:27:04+00:00",
-    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T14:01:42+00:00",
-    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",

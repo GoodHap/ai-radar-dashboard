@@ -2,10 +2,31 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-08-31",
+      "company": "Harvard",
+      "amount": "$6M",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    },
+    {
+      "date": "2026-08-31",
+      "company": "Clipto",
+      "amount": "$250M",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    },
+    {
+      "date": "2026-08-31",
+      "company": "Nvidia’s",
+      "amount": "$3.5B",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
       "date": "2026-08-29",
-      "company": "“We’re",
-      "amount": "$4 BILLION",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "company": "‘We’re",
+      "amount": "$4B",
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
     },
     {
@@ -14,13 +35,6 @@
       "amount": "$1B",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-    },
-    {
-      "date": "2026-08-27",
-      "company": "Hugging",
-      "amount": "$399 O",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
     }
   ]
 }

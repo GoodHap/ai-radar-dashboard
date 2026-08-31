@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T13:28:26.144386+00:00",
+  "last_updated": "2026-08-31T19:56:09.968805+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Apodex-1.1-mini",
-      "company": "apodex",
+      "name": "granite-4.2-30b",
+      "company": "ibm-granite",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
