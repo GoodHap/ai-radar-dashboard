@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "source": "TechCrunch AI",
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T12:56:46+00:00",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month"
+  },
+  {
     "id": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
@@ -178,15 +187,6 @@
     "date": "2026-08-27",
     "timestamp": "2026-08-27T14:01:42+00:00",
     "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T13:00:00+00:00",
-    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
