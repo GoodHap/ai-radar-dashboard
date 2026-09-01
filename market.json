@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-01",
+      "company": "AfterQuery",
+      "amount": "$3.2B",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "date": "2026-09-01",
       "company": "Sequoia-incubated",
       "amount": "$21M",
       "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",

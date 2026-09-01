@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-01",
+    "timestamp": "2026-09-01T22:08:24+00:00",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
@@ -10,7 +19,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
     "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "source": "TechCrunch AI",
     "date": "2026-09-01",
@@ -24,7 +33,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-01",
     "timestamp": "2026-09-01T20:53:05+00:00",
-    "summary": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more."
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
@@ -205,15 +214,6 @@
     "date": "2026-08-30",
     "timestamp": "2026-08-30T15:00:00+00:00",
     "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-29",
-    "timestamp": "2026-08-29T18:41:59+00:00",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
   },
   {
     "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
