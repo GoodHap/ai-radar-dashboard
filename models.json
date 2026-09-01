@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T14:43:01.387673+00:00",
+  "last_updated": "2026-09-01T18:20:56.303601+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,22 +66,22 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "GLM-5.3-Flash-Uncensored-FP8",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-Uncensored-FP8",
-      "company": "orcarouter",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "Ornith-1.5-35B-A3B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
