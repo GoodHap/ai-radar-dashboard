@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T09:26:34.095789+00:00",
+  "last_updated": "2026-09-02T14:18:04.605670+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
