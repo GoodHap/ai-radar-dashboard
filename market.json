@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-02",
+      "company": "Wonderful",
+      "amount": "$5B",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+      "date": "2026-09-02",
+      "company": "HiddenLayer",
+      "amount": "$100M",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+    },
+    {
       "date": "2026-09-01",
       "company": "AfterQuery",
       "amount": "$3.2B",
@@ -21,27 +35,6 @@
       "amount": "$50M",
       "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
       "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Harvard",
-      "amount": "$6M",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Clipto",
-      "amount": "$250M",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
-    },
-    {
-      "date": "2026-08-31",
-      "company": "Nvidia’s",
-      "amount": "$3.5B",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
     }
   ]
 }

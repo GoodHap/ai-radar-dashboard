@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T17:18:13+00:00",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, "
+  },
+  {
+    "id": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T17:09:57+00:00",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, "
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T17:09:06+00:00",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T16:04:10+00:00",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T16:01:48+00:00",
+    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "source": "Google AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T15:40:00+00:00",
+    "summary": "Introducing Fairwind Program"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T15:01:23+00:00",
+    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T14:56:34+00:00",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
     "title": "Adobe acquires Indian market intelligence startup Rilo",
     "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -162,69 +234,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T20:13:45+00:00",
-    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T19:16:59+00:00",
-    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T18:35:11+00:00",
-    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T16:00:00+00:00",
-    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T15:15:25+00:00",
-    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T12:56:46+00:00",
-    "summary": "Circleback is also introducing new pricing plans starting from $14 per month."
-  },
-  {
-    "id": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "source": "TechCrunch AI",
-    "date": "2026-08-31",
-    "timestamp": "2026-08-31T02:34:00+00:00",
-    "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere."
-  },
-  {
     "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
@@ -322,14 +331,5 @@
     "date": "2026-08-19",
     "timestamp": "2026-08-19T19:00:00+00:00",
     "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "Hugging Face",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T18:09:38+00:00",
-    "summary": ""
   }
 ]
