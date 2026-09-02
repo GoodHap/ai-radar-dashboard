@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T23:57:48.048200+00:00",
+  "last_updated": "2026-09-02T04:18:45.761986+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-35B-A3B",
-      "company": "ornith-ai",
+      "name": "GLM-5.3-Flash-DFlash2",
+      "company": "incoai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

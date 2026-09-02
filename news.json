@@ -19,7 +19,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
     "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "source": "TechCrunch AI",
     "date": "2026-09-01",
@@ -321,15 +321,6 @@
     "source": "Hugging Face",
     "date": "2026-08-18",
     "timestamp": "2026-08-18T18:09:38+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/multi-vector-encoder",
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "source": "Hugging Face",
-    "date": "2026-08-18",
-    "timestamp": "2026-08-18T00:00:00+00:00",
     "summary": ""
   }
 ]
