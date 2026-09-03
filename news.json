@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/funes",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "source": "Hugging Face",
+    "date": "2026-09-03",
+    "timestamp": "2026-09-03T00:00:00+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "source": "Hugging Face",
+    "date": "2026-09-03",
+    "timestamp": "2026-09-03T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
