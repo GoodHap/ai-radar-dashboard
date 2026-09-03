@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T00:00:15.596355+00:00",
+  "last_updated": "2026-09-03T05:37:36.893083+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
