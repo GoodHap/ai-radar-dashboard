@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T19:42:29.569557+00:00",
+  "last_updated": "2026-09-03T22:28:58.752966+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-GGUF",
-      "company": "unsloth",
+      "name": "GLM-5.3-Flash-Uncensored-FP8",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-Uncensored-FP8",
-      "company": "orcarouter",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
