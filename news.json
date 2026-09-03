@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T23:01:00+00:00",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T22:44:56+00:00",
+    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T22:24:09+00:00",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -196,33 +223,6 @@
     "date": "2026-09-01",
     "timestamp": "2026-09-01T16:00:00+00:00",
     "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T15:51:55+00:00",
-    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T15:45:51+00:00",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "title": "Fambot introduces an ‘AI chief of staff’ for families",
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T15:10:58+00:00",
-    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
   },
   {
     "id": "https://huggingface.co/blog/webgpu-kernels",

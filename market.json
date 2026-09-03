@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-02",
+      "company": "Palo",
+      "amount": "$500M",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+    },
+    {
+      "date": "2026-09-02",
       "company": "Wonderful",
       "amount": "$5B",
       "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
@@ -28,13 +35,6 @@
       "amount": "$21M",
       "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
       "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
-    },
-    {
-      "date": "2026-09-01",
-      "company": "AIR",
-      "amount": "$50M",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
     }
   ]
 }
