@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T16:17:58.236002+00:00",
+  "last_updated": "2026-09-03T19:42:29.569557+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,8 +59,8 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-GGUF",
-      "company": "unsloth",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-Uncensored-FP8",
-      "company": "orcarouter",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "GLM-5.3-Flash-Uncensored-FP8",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
