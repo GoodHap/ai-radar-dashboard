@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T04:21:03+00:00",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -205,15 +214,6 @@
     "date": "2026-09-02",
     "timestamp": "2026-09-02T15:01:23+00:00",
     "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-02",
-    "timestamp": "2026-09-02T14:56:34+00:00",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",

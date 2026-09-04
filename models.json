@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T00:54:01.445669+00:00",
+  "last_updated": "2026-09-04T05:43:23.781952+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Flash-0731",
-      "company": "deepseek-ai",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
