@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T00:48:42+00:00",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
@@ -205,15 +214,6 @@
     "date": "2026-09-02",
     "timestamp": "2026-09-02T14:56:34+00:00",
     "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-02",
-    "timestamp": "2026-09-02T14:03:57+00:00",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",

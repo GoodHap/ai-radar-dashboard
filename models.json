@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T22:28:58.752966+00:00",
+  "last_updated": "2026-09-04T00:54:01.445669+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,22 +45,22 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-DFlash2",
-      "company": "incoai",
+      "name": "DeepSeek-V4-Flash-0731",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

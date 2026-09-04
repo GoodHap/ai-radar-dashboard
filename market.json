@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-04",
+      "company": "Crusoe",
+      "amount": "$3B",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    {
       "date": "2026-09-03",
       "company": "Accel",
       "amount": "$1B",
