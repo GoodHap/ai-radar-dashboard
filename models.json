@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T11:05:19.943819+00:00",
+  "last_updated": "2026-09-04T16:13:30.581020+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "phonellm-alpha-1",
-      "company": "pipecat-ai",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "phonellm-alpha-1",
+      "company": "pipecat-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
