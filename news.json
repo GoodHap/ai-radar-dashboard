@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T17:18:00+00:00",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a "
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T16:21:11+00:00",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
+  },
+  {
     "id": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
     "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
     "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
@@ -189,24 +207,6 @@
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, "
   },
   {
-    "id": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-02",
-    "timestamp": "2026-09-02T17:09:57+00:00",
-    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, "
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-02",
-    "timestamp": "2026-09-02T17:09:06+00:00",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "title": "Proactive cyber defense for governments and enterprises",
     "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
@@ -339,15 +339,6 @@
     "source": "Hugging Face",
     "date": "2026-08-21",
     "timestamp": "2026-08-21T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "source": "Hugging Face",
-    "date": "2026-08-20",
-    "timestamp": "2026-08-20T16:52:57+00:00",
     "summary": ""
   }
 ]
