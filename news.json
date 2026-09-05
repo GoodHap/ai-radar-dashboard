@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-05",
+    "timestamp": "2026-09-05T22:49:55+00:00",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "title": "Hikers rescued after using Google Gemini for planning",
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -169,15 +178,6 @@
     "date": "2026-09-03",
     "timestamp": "2026-09-03T13:13:48+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-03",
-    "timestamp": "2026-09-03T12:42:45+00:00",
-    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
   },
   {
     "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
