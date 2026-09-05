@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T18:56:46.468288+00:00",
+  "last_updated": "2026-09-05T21:06:31.208045+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-Uncensored-FP8",
-      "company": "orcarouter",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "GLM-5.3-Flash-Uncensored-FP8",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
