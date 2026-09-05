@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T10:27:06.936602+00:00",
+  "last_updated": "2026-09-05T13:49:38.011997+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
