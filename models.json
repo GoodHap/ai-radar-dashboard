@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T09:17:17.607672+00:00",
+  "last_updated": "2026-09-06T13:33:07.457982+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-Uncensored-FP8",
-      "company": "orcarouter",
+      "name": "Spark-X2.5-1.7B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-1.7B",
-      "company": "XHToken",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
