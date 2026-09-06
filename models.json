@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T19:01:04.509398+00:00",
+  "last_updated": "2026-09-06T22:04:29.102370+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,22 +66,22 @@
       "trend": "flat"
     },
     {
-      "name": "Hy4-preview",
-      "company": "tencent",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Hy4-preview",
+      "company": "tencent",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"

@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-06",
+    "timestamp": "2026-09-06T20:47:37+00:00",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
     "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
     "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -160,15 +169,6 @@
     "date": "2026-09-03",
     "timestamp": "2026-09-03T18:01:45+00:00",
     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-03",
-    "timestamp": "2026-09-03T16:09:01+00:00",
-    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
