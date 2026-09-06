@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T04:19:35.080818+00:00",
+  "last_updated": "2026-09-06T09:17:17.607672+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-Flash-GGUF",
-      "company": "unsloth",
+      "name": "Spark-X2.5-1.7B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-1.7B",
-      "company": "XHToken",
+      "name": "GLM-5.3-Flash-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
