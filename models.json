@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T18:12:40.609283+00:00",
+  "last_updated": "2026-09-07T21:57:09.646255+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
