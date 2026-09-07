@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T22:04:29.102370+00:00",
+  "last_updated": "2026-09-07T00:50:13.538859+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
