@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T21:57:09.646255+00:00",
+  "last_updated": "2026-09-08T00:11:58.644038+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
