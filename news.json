@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T19:00:00+00:00",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T17:32:15+00:00",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
@@ -7,6 +25,15 @@
     "date": "2026-09-08",
     "timestamp": "2026-09-08T16:20:31+00:00",
     "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T15:04:09+00:00",
+    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
   },
   {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -24,7 +51,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-08",
     "timestamp": "2026-09-08T14:17:48+00:00",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
   },
   {
     "id": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -160,33 +187,6 @@
     "date": "2026-09-04",
     "timestamp": "2026-09-04T04:21:03+00:00",
     "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T00:48:42+00:00",
-    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-03",
-    "timestamp": "2026-09-03T19:36:29+00:00",
-    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-03",
-    "timestamp": "2026-09-03T18:37:57+00:00",
-    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/neomme",

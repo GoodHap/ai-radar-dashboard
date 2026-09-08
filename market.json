@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-08",
+      "company": "OpenAI",
+      "amount": "$1 MILLION",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+    },
+    {
       "date": "2026-09-04",
       "company": "XDOF,",
       "amount": "$1.2B",
@@ -14,20 +21,6 @@
       "amount": "$3.5B",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-    },
-    {
-      "date": "2026-09-04",
-      "company": "Crusoe",
-      "amount": "$3B",
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-    },
-    {
-      "date": "2026-09-03",
-      "company": "Accel",
-      "amount": "$1B",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
     }
   ]
 }
