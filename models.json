@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T05:49:04.508636+00:00",
+  "last_updated": "2026-09-08T11:05:32.739357+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-1.7B",
+      "name": "Spark-X2.5-4B-GGUF",
       "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Hy4-preview",
-      "company": "tencent",
+      "name": "K2-Horizon-7B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
