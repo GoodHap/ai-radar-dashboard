@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T21:10:27+00:00",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T21:04:06+00:00",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
     "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
     "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
@@ -160,33 +178,6 @@
     "date": "2026-09-04",
     "timestamp": "2026-09-04T16:04:08+00:00",
     "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a "
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T14:47:11+00:00",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T14:00:00+00:00",
-    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T04:21:03+00:00",
-    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
