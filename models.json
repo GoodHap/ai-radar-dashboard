@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T00:11:58.644038+00:00",
+  "last_updated": "2026-09-08T05:49:04.508636+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,36 +38,36 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Hy4-preview",
-      "company": "tencent",
+      "name": "Spark-X2.5-1.7B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-1.7B",
-      "company": "XHToken",
+      "name": "Hy4-preview",
+      "company": "tencent",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
