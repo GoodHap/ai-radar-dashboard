@@ -322,14 +322,5 @@
     "date": "2026-08-25",
     "timestamp": "2026-08-25T11:39:24+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-workflow-guide",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
-    "source": "Hugging Face",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T00:00:00+00:00",
-    "summary": ""
   }
 ]
