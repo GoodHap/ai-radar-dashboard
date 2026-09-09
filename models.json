@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T17:06:54.916353+00:00",
+  "last_updated": "2026-09-09T20:50:42.626157+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "K2-Horizon-7B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T20:24:48+00:00",
+    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T20:03:43+00:00",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T19:21:48+00:00",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T18:16:29+00:00",
+    "summary": "The update uses Apple Intelligence to make better sense of your health data."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T18:08:35+00:00",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T17:36:05+00:00",
+    "summary": "The company also argued that its on-device models offer consumers more privacy."
+  },
+  {
     "id": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
     "title": "Superintelligence is coming. Should we let it?",
     "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
@@ -78,7 +132,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-09",
     "timestamp": "2026-09-09T14:18:34+00:00",
-    "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped."
+    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped."
   },
   {
     "id": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
@@ -87,7 +141,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-09",
     "timestamp": "2026-09-09T13:00:00+00:00",
-    "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund."
+    "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access."
   },
   {
     "id": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
@@ -105,7 +159,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-09",
     "timestamp": "2026-09-09T12:30:00+00:00",
-    "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups laun"
+    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space."
   },
   {
     "id": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
@@ -135,42 +189,6 @@
     "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
   },
   {
-    "id": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T19:00:00+00:00",
-    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T17:32:15+00:00",
-    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T16:20:31+00:00",
-    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T15:04:09+00:00",
-    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
-  },
-  {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -178,24 +196,6 @@
     "date": "2026-09-08",
     "timestamp": "2026-09-08T14:23:07+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T14:17:48+00:00",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-07",
-    "timestamp": "2026-09-07T19:24:00+00:00",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
