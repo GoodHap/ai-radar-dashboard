@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T12:05:34+00:00",
+    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "title": "Hackers are stealing Claude tokens from subscribers",
     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
@@ -171,15 +180,6 @@
     "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
   },
   {
-    "id": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T16:04:08+00:00",
-    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a "
-  },
-  {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
@@ -312,15 +312,6 @@
     "source": "Hugging Face",
     "date": "2026-08-25",
     "timestamp": "2026-08-25T15:14:14+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "Hugging Face",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T11:39:24+00:00",
     "summary": ""
   }
 ]

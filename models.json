@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T07:18:32.319092+00:00",
+  "last_updated": "2026-09-09T12:54:13.167140+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B-GGUF",
-      "company": "openbmb",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
+      "name": "Nex-N2.5-Pro",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-7B",
-      "company": "IFM",
+      "name": "Qwen3.8-27B-OBLITERATED",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
