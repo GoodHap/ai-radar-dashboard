@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "title": "Superintelligence is coming. Should we let it?",
+    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T16:05:35+00:00",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem"
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "title": "Get ready for the game with new football features in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "source": "Google AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T16:00:00+00:00",
+    "summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini scoreboard, and play di"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "title": "Recreating a 70-year love story frame by frame",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "source": "Google AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T16:00:00+00:00",
+    "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
+  },
+  {
+    "id": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T15:50:13+00:00",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem"
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "source": "Hugging Face",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T15:36:24+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T15:13:12+00:00",
+    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T15:02:47+00:00",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T14:51:45+00:00",
+    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" S"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T14:18:34+00:00",
+    "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T13:00:00+00:00",
+    "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T13:00:00+00:00",
+    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T12:30:00+00:00",
+    "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups laun"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
     "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
     "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
@@ -90,96 +198,6 @@
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
   },
   {
-    "id": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-06",
-    "timestamp": "2026-09-06T20:47:37+00:00",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-06",
-    "timestamp": "2026-09-06T16:45:00+00:00",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05",
-    "timestamp": "2026-09-05T22:49:55+00:00",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05",
-    "timestamp": "2026-09-05T19:35:24+00:00",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05",
-    "timestamp": "2026-09-05T18:05:27+00:00",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T23:36:14+00:00",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T23:15:11+00:00",
-    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T21:12:11+00:00",
-    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-  },
-  {
-    "id": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "title": "What will Apple’s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T17:18:00+00:00",
-    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a "
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04",
-    "timestamp": "2026-09-04T16:21:11+00:00",
-    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
-  },
-  {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
@@ -223,15 +241,6 @@
     "date": "2026-09-02",
     "timestamp": "2026-09-02T15:40:00+00:00",
     "summary": "Introducing Fairwind Program"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "source": "Hugging Face",
-    "date": "2026-09-02",
-    "timestamp": "2026-09-02T13:49:14+00:00",
-    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/allenai/benchmirt",
@@ -294,24 +303,6 @@
     "source": "Hugging Face",
     "date": "2026-08-26",
     "timestamp": "2026-08-26T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "source": "Google AI",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T16:00:00+00:00",
-    "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "source": "Hugging Face",
-    "date": "2026-08-25",
-    "timestamp": "2026-08-25T15:14:14+00:00",
     "summary": ""
   }
 ]
