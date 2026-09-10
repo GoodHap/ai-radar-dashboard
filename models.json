@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T21:32:23.541289+00:00",
+  "last_updated": "2026-09-10T23:57:44.363200+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B-GGUF",
-      "company": "openbmb",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
