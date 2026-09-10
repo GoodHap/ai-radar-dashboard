@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T18:17:14.693519+00:00",
+  "last_updated": "2026-09-10T21:32:23.541289+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-7B",
-      "company": "IFM",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
