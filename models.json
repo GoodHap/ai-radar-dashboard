@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T09:33:43.926703+00:00",
+  "last_updated": "2026-09-10T14:15:06.839137+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,8 +52,8 @@
       "trend": "up"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "Nex-N2.5-Pro",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Nex-N2.5-Pro",
-      "company": "nex-agi",
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B-GGUF",
-      "company": "openbmb",
+      "name": "Spark-X2.5-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B-GGUF",
-      "company": "XHToken",
+      "name": "K2-Horizon-7B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
