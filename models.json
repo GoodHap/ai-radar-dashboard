@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T23:08:13.244114+00:00",
+  "last_updated": "2026-09-10T04:22:26.322924+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-7B",
-      "company": "IFM",
+      "name": "Spark-X2.5-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

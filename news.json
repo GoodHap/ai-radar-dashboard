@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-10",
+    "timestamp": "2026-09-10T00:00:37+00:00",
+    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
     "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
@@ -295,14 +304,5 @@
     "date": "2026-08-27",
     "timestamp": "2026-08-27T16:00:00+00:00",
     "summary": "Graphic depicting new travel features for AI Mode in Search"
-  },
-  {
-    "id": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "Hugging Face",
-    "date": "2026-08-26",
-    "timestamp": "2026-08-26T00:00:00+00:00",
-    "summary": ""
   }
 ]
