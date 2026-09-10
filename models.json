@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T04:22:26.322924+00:00",
+  "last_updated": "2026-09-10T09:33:43.926703+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,29 +45,29 @@
       "trend": "up"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
