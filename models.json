@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T23:57:44.363200+00:00",
+  "last_updated": "2026-09-11T04:26:53.240558+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,50 +52,50 @@
       "trend": "up"
     },
     {
+      "name": "Nex-N2.5-Pro",
+      "company": "nex-agi",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
       "name": "GLM-5.3-CYBERSECURITY-FP8",
       "company": "dealignai",
       "type": "Open Source",
-      "score": 83.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "K2-Horizon-MoVA-36B-A4B",
       "company": "IFM",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "MiniCPM5-2B-GGUF",
       "company": "openbmb",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "GLM-5.3",
       "company": "zai-org",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Spark-X2.5-4B-GGUF",
       "company": "XHToken",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-Uncensored-GGUF",
       "company": "JonathanColetti",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.8-27B-OBLITERATED",
-      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
