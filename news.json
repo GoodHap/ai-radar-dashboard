@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T16:46:25+00:00",
+    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
@@ -180,15 +189,6 @@
     "summary": "The company also argued that its on-device models offer consumers more privacy."
   },
   {
-    "id": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "title": "Superintelligence is coming. Should we let it?",
-    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T16:05:35+00:00",
-    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem"
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
     "title": "Get ready for the game with new football features in Search",
     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
@@ -313,14 +313,5 @@
     "date": "2026-08-28",
     "timestamp": "2026-08-28T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "title": "3 new ways to plan and book travel in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "source": "Google AI",
-    "date": "2026-08-27",
-    "timestamp": "2026-08-27T16:00:00+00:00",
-    "summary": "Graphic depicting new travel features for AI Mode in Search"
   }
 ]
