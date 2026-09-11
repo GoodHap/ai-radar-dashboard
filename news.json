@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T20:59:47+00:00",
+    "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T20:57:36+00:00",
+    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T20:33:18+00:00",
+    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T20:30:17+00:00",
+    "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T19:35:54+00:00",
+    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T18:41:49+00:00",
+    "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#82"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
@@ -133,60 +187,6 @@
     "date": "2026-09-09",
     "timestamp": "2026-09-09T21:43:34+00:00",
     "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T20:24:48+00:00",
-    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T20:03:43+00:00",
-    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T19:21:48+00:00",
-    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T18:16:29+00:00",
-    "summary": "The update uses Apple Intelligence to make better sense of your health data."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T18:08:35+00:00",
-    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T17:36:05+00:00",
-    "summary": "The company also argued that its on-device models offer consumers more privacy."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
