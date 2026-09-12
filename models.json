@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T00:04:48.794058+00:00",
+  "last_updated": "2026-09-12T05:35:33.525569+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B-GGUF",
-      "company": "XHToken",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-4B",
-      "company": "TokenRhythm",
+      "name": "Spark-X2.5-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
