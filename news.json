@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T22:58:17+00:00",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "source": "TechCrunch AI",
     "date": "2026-09-11",
     "timestamp": "2026-09-11T20:59:47+00:00",
-    "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
   },
   {
     "id": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
@@ -180,15 +189,6 @@
     "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
   },
   {
-    "id": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09",
-    "timestamp": "2026-09-09T21:43:34+00:00",
-    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
     "title": "Get ready for the game with new football features in Search",
     "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
@@ -303,15 +303,6 @@
     "source": "Hugging Face",
     "date": "2026-09-01",
     "timestamp": "2026-09-01T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "source": "Hugging Face",
-    "date": "2026-08-28",
-    "timestamp": "2026-08-28T00:00:00+00:00",
     "summary": ""
   }
 ]

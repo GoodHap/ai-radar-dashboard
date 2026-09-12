@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T21:39:13.488540+00:00",
+  "last_updated": "2026-09-12T00:04:48.794058+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B-GGUF",
-      "company": "XHToken",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Spark-X2.5-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"

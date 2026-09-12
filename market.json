@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-11",
+      "company": "Mecka",
+      "amount": "$500M",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+    },
+    {
+      "date": "2026-09-11",
       "company": "Kimi-maker",
       "amount": "$2B",
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
