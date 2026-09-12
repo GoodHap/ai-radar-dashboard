@@ -1,12 +1,21 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-12",
+    "timestamp": "2026-09-12T20:19:16+00:00",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "title": "Anthropic CEO outlines plan to slow AI development",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "source": "TechCrunch AI",
     "date": "2026-09-12",
-    "timestamp": "2026-09-12T15:52:11+00:00",
-    "summary": "What would it actually look like to \"pace the frontier\"?"
+    "timestamp": "2026-09-12T19:34:44+00:00",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
   },
   {
     "id": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -169,15 +178,6 @@
     "date": "2026-09-10",
     "timestamp": "2026-09-10T14:17:37+00:00",
     "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-10",
-    "timestamp": "2026-09-10T00:00:37+00:00",
-    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
   },
   {
     "id": "https://huggingface.co/blog/gradio-workflow-1111",
