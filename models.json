@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T05:35:33.525569+00:00",
+  "last_updated": "2026-09-12T10:34:44.565673+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -66,29 +66,29 @@
       "trend": "flat"
     },
     {
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "MiniCPM5-2B-GGUF",
       "company": "openbmb",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "gpt2",
       "company": "openai-community",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "K2-Horizon-MoVA-36B-A4B",
       "company": "IFM",
-      "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
