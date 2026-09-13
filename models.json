@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T05:55:24.204002+00:00",
+  "last_updated": "2026-09-13T11:38:31.169647+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "NeoHorse-1-4B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-4B",
-      "company": "TokenRhythm",
+      "name": "K2-Horizon-MoVA-36B-A4B",
+      "company": "IFM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
