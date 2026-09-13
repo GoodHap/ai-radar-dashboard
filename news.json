@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-13",
+    "timestamp": "2026-09-13T16:30:00+00:00",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -169,15 +178,6 @@
     "date": "2026-09-10",
     "timestamp": "2026-09-10T14:53:50+00:00",
     "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "title": "Maven Robotics wants to steal your robot deployment deal",
-    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-10",
-    "timestamp": "2026-09-10T14:17:37+00:00",
-    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
   },
   {
     "id": "https://huggingface.co/blog/gradio-workflow-1111",
