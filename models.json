@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:51:32.436508+00:00",
+  "last_updated": "2026-09-14T19:13:41.660854+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B-GGUF",
-      "company": "openbmb",
+      "name": "NeoHorse-1-4B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-4B",
-      "company": "TokenRhythm",
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
