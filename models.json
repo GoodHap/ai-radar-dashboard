@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T00:54:41.738259+00:00",
+  "last_updated": "2026-09-14T06:02:15.030870+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
-      "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
       "name": "MiniCPM5-2B-GGUF",
       "company": "openbmb",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "gpt2",
       "company": "openai-community",
       "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
+      "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-4B",
-      "company": "TokenRhythm",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "K2-Horizon-MoVA-36B-A4B",
-      "company": "IFM",
+      "name": "NeoHorse-1-4B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
