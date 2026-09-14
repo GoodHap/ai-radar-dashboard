@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-14",
+    "timestamp": "2026-09-14T21:51:02+00:00",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-14",
+    "timestamp": "2026-09-14T20:44:14+00:00",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "source": "Google AI",
+    "date": "2026-09-14",
+    "timestamp": "2026-09-14T19:00:00+00:00",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google’s Senior V"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
     "title": "With iOS 27, I’m actually using Siri again",
     "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
@@ -51,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-14",
     "timestamp": "2026-09-14T14:45:44+00:00",
-    "summary": "Fathom said that it has over 400,000 monthly active users."
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now."
   },
   {
     "id": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
@@ -169,24 +196,6 @@
     "date": "2026-09-11",
     "timestamp": "2026-09-11T19:35:54+00:00",
     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-11",
-    "timestamp": "2026-09-11T18:41:49+00:00",
-    "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#82"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-11",
-    "timestamp": "2026-09-11T16:46:25+00:00",
-    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",

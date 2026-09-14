@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-14",
+      "company": "OpenAI",
+      "amount": "$300 MILLION",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    },
+    {
       "date": "2026-09-11",
       "company": "Mecka",
       "amount": "$500M",
