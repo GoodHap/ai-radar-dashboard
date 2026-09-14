@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T22:19:19.888487+00:00",
+  "last_updated": "2026-09-14T00:54:41.738259+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "Nex-N2.5-Pro",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Nex-N2.5-Pro",
-      "company": "nex-agi",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
