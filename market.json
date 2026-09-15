@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-15",
+      "company": "Early",
+      "amount": "$40 MILLION",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+    },
+    {
       "date": "2026-09-14",
       "company": "OpenAI",
       "amount": "$300 MILLION",
