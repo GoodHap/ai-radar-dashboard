@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T04:40:21.825005+00:00",
+  "last_updated": "2026-09-15T09:57:52.460792+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "NeoHorse-1-4B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-4B",
-      "company": "TokenRhythm",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B-GGUF",
-      "company": "openbmb",
+      "name": "GLM-5.3-CYBERSECURITY-FP8",
+      "company": "dealignai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-CYBERSECURITY-FP8",
-      "company": "dealignai",
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
