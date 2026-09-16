@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T00:20:39+00:00",
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "title": "The AI data center boom is colliding with cities scarred by big industry",
     "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
@@ -234,15 +243,6 @@
     "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon"
   },
   {
-    "id": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T15:00:00+00:00",
-    "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s"
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
     "title": "3 ways to prep for your next big race with Search",
     "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -367,14 +367,5 @@
     "date": "2026-09-01",
     "timestamp": "2026-09-01T16:00:00+00:00",
     "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
-  },
-  {
-    "id": "https://huggingface.co/blog/webgpu-kernels",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "source": "Hugging Face",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T00:00:00+00:00",
-    "summary": ""
   }
 ]
