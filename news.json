@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T13:23:02+00:00",
+    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T10:34:47+00:00",
+    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
     "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -214,24 +232,6 @@
     "date": "2026-09-14",
     "timestamp": "2026-09-14T17:10:30+00:00",
     "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T17:00:00+00:00",
-    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T16:27:53+00:00",
-    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",

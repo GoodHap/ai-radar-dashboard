@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T07:35:07.731721+00:00",
+  "last_updated": "2026-09-16T13:24:30.395039+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,50 +52,50 @@
       "trend": "up"
     },
     {
-      "name": "Nex-N2.5-Pro",
-      "company": "nex-agi",
-      "type": "Open Source",
-      "score": 83.5,
-      "trend": "flat"
-    },
-    {
       "name": "NeoHorse-1-4B",
       "company": "TokenRhythm",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 83.5,
       "trend": "flat"
     },
     {
       "name": "Spark-X2.5-4B",
       "company": "XHToken",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "gpt2",
       "company": "openai-community",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Llama-3.1-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-R1",
       "company": "deepseek-ai",
       "type": "Open Source",
-      "score": 81.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "GLM-5.3-CYBERSECURITY-FP8",
       "company": "dealignai",
+      "type": "Open Source",
+      "score": 81.0,
+      "trend": "flat"
+    },
+    {
+      "name": "MiniCPM5-2B-GGUF",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
