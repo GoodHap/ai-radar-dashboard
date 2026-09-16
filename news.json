@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T21:07:24+00:00",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, "
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T20:12:00+00:00",
+    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T18:25:25+00:00",
+    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
     "title": "Your AI agents can now control your Google Home devices",
     "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
@@ -189,33 +216,6 @@
     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
   },
   {
-    "id": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T15:22:48+00:00",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T14:42:37+00:00",
-    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T14:30:00+00:00",
-    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
     "title": "New insights from Google’s AI & Economy ATLAS",
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
@@ -340,23 +340,5 @@
     "date": "2026-09-02",
     "timestamp": "2026-09-02T15:40:00+00:00",
     "summary": "Introducing Fairwind Program"
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/benchmirt",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "source": "Hugging Face",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T21:39:07+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "title": "The latest AI news we announced in August 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "source": "Google AI",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T20:45:00+00:00",
-    "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
   }
 ]
