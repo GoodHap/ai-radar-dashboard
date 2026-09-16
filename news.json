@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "title": "Your AI agents can now control your Google Home devices",
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T17:00:00+00:00",
+    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T16:30:00+00:00",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T15:00:00+00:00",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "title": "Threads’ new features let podcasters promote shows and reach listeners",
+    "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T14:24:58+00:00",
+    "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T14:15:00+00:00",
+    "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T14:00:00+00:00",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
     "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
     "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
@@ -7,6 +61,15 @@
     "date": "2026-09-16",
     "timestamp": "2026-09-16T13:23:02+00:00",
     "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T13:00:00+00:00",
+    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
   },
   {
     "id": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
@@ -153,15 +216,6 @@
     "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
   },
   {
-    "id": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T14:00:00+00:00",
-    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
     "title": "New insights from Google’s AI & Economy ATLAS",
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
@@ -171,51 +225,6 @@
     "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
   },
   {
-    "id": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T13:00:00+00:00",
-    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T12:00:00+00:00",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T01:50:48+00:00",
-    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T21:51:02+00:00",
-    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T20:44:14+00:00",
-    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
     "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -223,15 +232,6 @@
     "date": "2026-09-14",
     "timestamp": "2026-09-14T19:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google’s Senior V"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "title": "With iOS 27, I’m actually using Siri again",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T17:10:30+00:00",
-    "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
@@ -358,14 +358,5 @@
     "date": "2026-09-01",
     "timestamp": "2026-09-01T20:45:00+00:00",
     "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "source": "Google AI",
-    "date": "2026-09-01",
-    "timestamp": "2026-09-01T16:00:00+00:00",
-    "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
   }
 ]

@@ -2,25 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-16",
+      "company": "Former",
+      "amount": "$53M",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+    },
+    {
       "date": "2026-09-15",
       "company": "AEO",
       "amount": "$180M",
       "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
       "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
-    },
-    {
-      "date": "2026-09-15",
-      "company": "Early",
-      "amount": "$40 MILLION",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
-    },
-    {
-      "date": "2026-09-14",
-      "company": "OpenAI",
-      "amount": "$300 MILLION",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
     }
   ]
 }
