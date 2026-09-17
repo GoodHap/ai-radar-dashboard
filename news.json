@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-17",
+    "timestamp": "2026-09-17T05:00:00+00:00",
+    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-17",
+    "timestamp": "2026-09-17T03:30:00+00:00",
+    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-17",
+    "timestamp": "2026-09-17T00:58:49+00:00",
+    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "title": "Al Gore says the real AI risk isn’t data centers",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T23:43:09+00:00",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
@@ -144,33 +180,6 @@
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
   },
   {
-    "id": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T18:29:20+00:00",
-    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T17:42:59+00:00",
-    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T17:05:24+00:00",
-    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
-  },
-  {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -205,15 +214,6 @@
     "date": "2026-09-15",
     "timestamp": "2026-09-15T16:00:00+00:00",
     "summary": "Animation of several words in different languages slowly zooming past"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15",
-    "timestamp": "2026-09-15T15:47:03+00:00",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",

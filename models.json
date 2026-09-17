@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T01:16:56.896133+00:00",
+  "last_updated": "2026-09-17T07:31:35.370373+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,29 +59,29 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "Nex-N2.5-Pro",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 83.0,
-      "trend": "flat"
-    },
-    {
-      "name": "gpt2",
-      "company": "openai-community",
-      "type": "Open Source",
-      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Llama-3.1-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "gpt2",
+      "company": "openai-community",
+      "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-R1",
-      "company": "deepseek-ai",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "DeepSeek-R1",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
