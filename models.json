@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T17:02:24.065525+00:00",
+  "last_updated": "2026-09-18T20:48:26.996529+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "Qwen-2.5-1B-RLCD",
+      "company": "harshatheg",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "NeoHorse-1-9B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
