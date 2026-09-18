@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T22:03:12.454165+00:00",
+  "last_updated": "2026-09-18T01:12:02.666234+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "gpt2",
-      "company": "openai-community",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
+      "name": "gpt2",
+      "company": "openai-community",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "Nex-N2.5-mini",
+      "company": "nex-agi",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

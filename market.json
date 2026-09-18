@@ -3,6 +3,20 @@
   "funding_events": [
     {
       "date": "2026-09-17",
+      "company": "Crusoe",
+      "amount": "$3.9B",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "date": "2026-09-17",
+      "company": "The",
+      "amount": "$875M",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+    },
+    {
+      "date": "2026-09-17",
       "company": "Iceland-based",
       "amount": "$18 MILLION",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
