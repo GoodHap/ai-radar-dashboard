@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-18",
+      "company": "Manus",
+      "amount": "$4B",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
+    },
+    {
+      "date": "2026-09-18",
+      "company": "Robinhood’s",
+      "amount": "$200 B",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/"
+    },
+    {
       "date": "2026-09-17",
       "company": "Crusoe",
       "amount": "$3.9B",
@@ -14,13 +28,6 @@
       "amount": "$875M",
       "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Iceland-based",
-      "amount": "$18 MILLION",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
     }
   ]
 }
