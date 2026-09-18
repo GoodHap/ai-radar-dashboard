@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T01:12:02.666234+00:00",
+  "last_updated": "2026-09-18T07:19:59.623130+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,57 +45,57 @@
       "trend": "up"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
       "name": "Qwen-2.5-1B-RLCD",
       "company": "harshatheg",
       "type": "Open Source",
-      "score": 83.5,
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
+      "type": "Open Source",
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Llama-3.1-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "Spark-X2.5-4B",
       "company": "XHToken",
       "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
-      "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "gpt2",
       "company": "openai-community",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "NeoHorse-1-9B",
       "company": "TokenRhythm",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Nex-N2.5-mini",
-      "company": "nex-agi",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
