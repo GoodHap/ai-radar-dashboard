@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T20:48:26.996529+00:00",
+  "last_updated": "2026-09-18T23:11:09.711504+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "NeoHorse-1-9B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

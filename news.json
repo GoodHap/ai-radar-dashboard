@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-18",
+    "timestamp": "2026-09-18T21:44:33+00:00",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
     "title": "World model companies are keeping a lot of secrets",
     "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -196,15 +205,6 @@
     "date": "2026-09-17",
     "timestamp": "2026-09-17T20:00:00+00:00",
     "summary": "UN System Data Commons Data webpage"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-17",
-    "timestamp": "2026-09-17T20:00:00+00:00",
-    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
