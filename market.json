@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-19",
+      "company": "Prices",
+      "amount": "$200 ON",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
+    },
+    {
       "date": "2026-09-18",
       "company": "A",
       "amount": "$100M",
@@ -21,13 +28,6 @@
       "amount": "$200 B",
       "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "Crusoe",
-      "amount": "$3.9B",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
     }
   ]
 }
