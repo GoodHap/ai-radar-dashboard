@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T20:29:16.820968+00:00",
+  "last_updated": "2026-09-19T22:52:04.487766+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
