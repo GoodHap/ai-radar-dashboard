@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-18",
+      "company": "A",
+      "amount": "$100M",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+    },
+    {
+      "date": "2026-09-18",
       "company": "Manus",
       "amount": "$4B",
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
@@ -21,13 +28,6 @@
       "amount": "$3.9B",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
-    },
-    {
-      "date": "2026-09-17",
-      "company": "The",
-      "amount": "$875M",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
     }
   ]
 }
