@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T06:02:04.860369+00:00",
+  "last_updated": "2026-09-20T12:12:39.307227+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "DeepSeek-R1",
+      "company": "deepseek-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
