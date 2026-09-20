@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T22:52:04.487766+00:00",
+  "last_updated": "2026-09-20T00:56:35.614571+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "penclaw-GLM-5.3-abliterated",
+      "company": "audnai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
