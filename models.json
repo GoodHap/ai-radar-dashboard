@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T19:20:16.258398+00:00",
+  "last_updated": "2026-09-20T22:21:22.197946+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "MiniCPM5-2B",
+      "company": "openbmb",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
