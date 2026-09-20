@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-20",
+      "company": "6",
+      "amount": "$200 ON",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+    },
+    {
       "date": "2026-09-19",
       "company": "Prices",
       "amount": "$200 ON",
@@ -14,13 +21,6 @@
       "amount": "$100M",
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "Manus",
-      "amount": "$4B",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
     }
   ]
 }

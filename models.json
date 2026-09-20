@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T12:12:39.307227+00:00",
+  "last_updated": "2026-09-20T16:44:49.493439+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Edge0-35B-A3B-preview",
-      "company": "Edge0",
+      "name": "NeoHorse-1-9B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "Edge0-35B-A3B-preview",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-R1",
-      "company": "deepseek-ai",
+      "name": "Spark-X2.5-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
