@@ -1,12 +1,39 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T20:15:58+00:00",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T19:25:00+00:00",
+    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T19:19:21+00:00",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
     "title": "Meta’s AI agent has been blocked from using Amazon.com",
     "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
     "source": "TechCrunch AI",
     "date": "2026-09-21",
     "timestamp": "2026-09-21T17:55:18+00:00",
-    "summary": "Muse isn't welcome as a shopper anymore."
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul"
   },
   {
     "id": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
@@ -169,33 +196,6 @@
     "date": "2026-09-19",
     "timestamp": "2026-09-19T14:00:00+00:00",
     "summary": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19",
-    "timestamp": "2026-09-19T13:00:00+00:00",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19",
-    "timestamp": "2026-09-19T01:00:00+00:00",
-    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-19",
-    "timestamp": "2026-09-19T00:12:07+00:00",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",

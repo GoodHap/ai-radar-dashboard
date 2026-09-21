@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T19:15:40.835023+00:00",
+  "last_updated": "2026-09-21T23:10:11.679538+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "AliceAI-Foundation-80B-A3B-Base",
-      "company": "yandex",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
