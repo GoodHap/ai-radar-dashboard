@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "source": "Hugging Face",
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T13:44:34+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
     "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -24,7 +33,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-20",
     "timestamp": "2026-09-20T18:56:04+00:00",
-    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+    "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down."
   },
   {
     "id": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
@@ -33,7 +42,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-20",
     "timestamp": "2026-09-20T18:32:52+00:00",
-    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions."
   },
   {
     "id": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
@@ -313,14 +322,5 @@
     "date": "2026-09-09",
     "timestamp": "2026-09-09T16:00:00+00:00",
     "summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\""
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "source": "Hugging Face",
-    "date": "2026-09-08",
-    "timestamp": "2026-09-08T14:23:07+00:00",
-    "summary": ""
   }
 ]
