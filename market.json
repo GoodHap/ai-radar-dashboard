@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-21",
+      "company": "Where",
+      "amount": "$200 B",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "date": "2026-09-21",
+      "company": "From",
+      "amount": "$200 B",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
+    },
+    {
       "date": "2026-09-20",
       "company": "6",
       "amount": "$200 ON",
@@ -12,15 +26,8 @@
       "date": "2026-09-19",
       "company": "Prices",
       "amount": "$200 ON",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "title": "Prices go up in 7 days — get your Disrupt ticket now",
       "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
-    },
-    {
-      "date": "2026-09-18",
-      "company": "A",
-      "amount": "$100M",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
     }
   ]
 }

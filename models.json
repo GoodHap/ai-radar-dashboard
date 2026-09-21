@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T13:53:45.032385+00:00",
+  "last_updated": "2026-09-21T19:15:40.835023+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.5-4B",
-      "company": "XHToken",
+      "name": "penclaw-GLM-5.3-abliterated",
+      "company": "audnai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
