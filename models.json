@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:49:17.956782+00:00",
+  "last_updated": "2026-09-22T14:38:32.819692+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Pro-RL",
+      "name": "MiMo-V2.6-Flash-RL",
       "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
-      "company": "XiaomiMiMo",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
