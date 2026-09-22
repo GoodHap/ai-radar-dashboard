@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T23:10:11.679538+00:00",
+  "last_updated": "2026-09-22T04:36:19.098353+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "MiMo-V2.6-Flash-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "NeoHorse-1-9B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
