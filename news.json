@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T15:19:30+00:00",
+    "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "title": "YouTube will let you build your own algorithm with AI",
+    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:30:00+00:00",
+    "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:30:00+00:00",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:30:00+00:00",
+    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:00:00+00:00",
+    "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register h"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "source": "Hugging Face",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T13:17:01+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+    "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T13:00:00+00:00",
+    "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T12:00:00+00:00",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
     "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
     "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
@@ -117,15 +189,6 @@
     "summary": "Inside two years of fraught AI data center debates in Pennsylvania."
   },
   {
-    "id": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T12:23:05+00:00",
-    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
-  },
-  {
     "id": "https://huggingface.co/blog/evaleval-aisi",
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "link": "https://huggingface.co/blog/evaleval-aisi",
@@ -151,60 +214,6 @@
     "date": "2026-09-22",
     "timestamp": "2026-09-22T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T23:44:28+00:00",
-    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T20:15:58+00:00",
-    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T19:25:00+00:00",
-    "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T19:19:21+00:00",
-    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "title": "Meta’s AI agent has been blocked from using Amazon.com",
-    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T17:55:18+00:00",
-    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T16:38:51+00:00",
-    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
   },
   {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
