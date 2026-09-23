@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T05:47:53.819404+00:00",
+  "last_updated": "2026-09-23T11:21:25.170132+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "Qwen-2.5-1B-RLCD",
+      "company": "harshatheg",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
