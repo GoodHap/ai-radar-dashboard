@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T00:20:06.735698+00:00",
+  "last_updated": "2026-09-23T05:47:53.819404+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "MiniCPM5-2B",
-      "company": "openbmb",
+      "name": "NeoHorse-1-9B",
+      "company": "TokenRhythm",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
