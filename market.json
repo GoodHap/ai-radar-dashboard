@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-24",
+      "company": "Shield",
+      "amount": "$200 B",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "date": "2026-09-24",
       "company": "Lovable’s",
       "amount": "$600M",
       "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
@@ -35,27 +42,6 @@
       "amount": "$311M",
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "StrictlyVC",
-      "amount": "$200 B",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "3",
-      "amount": "$200 ON",
-      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "date": "2026-09-23",
-      "company": "Ema",
-      "amount": "$77M",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
     }
   ]
 }

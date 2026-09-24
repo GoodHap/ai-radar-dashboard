@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T14:52:03.297664+00:00",
+  "last_updated": "2026-09-24T18:59:32.047274+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "NeoHorse-1-9B",
-      "company": "TokenRhythm",
+      "name": "altar-1",
+      "company": "AikidoSec",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
