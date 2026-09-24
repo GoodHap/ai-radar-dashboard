@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+    "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T14:43:25+00:00",
+    "summary": "Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T14:31:00+00:00",
+    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T14:30:00+00:00",
+    "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "source": "Hugging Face",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T14:08:57+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+    "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T14:00:00+00:00",
+    "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T12:54:19+00:00",
+    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "title": "Everything new coming to Meta’s AI agent Muse",
     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
@@ -24,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-23",
     "timestamp": "2026-09-23T23:39:44+00:00",
-    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
   },
   {
     "id": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -99,15 +153,6 @@
     "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
   },
   {
-    "id": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T14:30:00+00:00",
-    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
-  },
-  {
     "id": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
     "title": "YouTube releases new AI features for creators within its Studio app",
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
@@ -115,6 +160,15 @@
     "date": "2026-09-23",
     "timestamp": "2026-09-23T14:30:00+00:00",
     "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:30:00+00:00",
+    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
   },
   {
     "id": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
@@ -151,51 +205,6 @@
     "date": "2026-09-23",
     "timestamp": "2026-09-23T04:59:08+00:00",
     "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T23:21:49+00:00",
-    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T21:56:43+00:00",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T20:00:00+00:00",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T19:09:11+00:00",
-    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T18:00:00+00:00",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
   },
   {
     "id": "https://huggingface.co/blog/evaleval-aisi",
