@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T23:34:17.296448+00:00",
+  "last_updated": "2026-09-24T04:29:47.502723+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "MiMo-V2.6-Flash-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
-      "company": "XiaomiMiMo",
+      "name": "Qwen-2.5-1B-RLCD",
+      "company": "harshatheg",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"

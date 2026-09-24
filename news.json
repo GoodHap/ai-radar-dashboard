@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T01:13:32+00:00",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T00:46:17+00:00",
+    "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T23:39:44+00:00",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
     "title": "Anthropic says its biology lab has already found something big",
     "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -72,15 +99,6 @@
     "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
   },
   {
-    "id": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T14:30:00+00:00",
-    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
-  },
-  {
     "id": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
     "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
     "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
@@ -88,6 +106,15 @@
     "date": "2026-09-23",
     "timestamp": "2026-09-23T14:30:00+00:00",
     "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T14:30:00+00:00",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
   },
   {
     "id": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
@@ -169,33 +196,6 @@
     "date": "2026-09-22",
     "timestamp": "2026-09-22T18:00:00+00:00",
     "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T16:30:07+00:00",
-    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T15:00:00+00:00",
-    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T15:00:00+00:00",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s"
   },
   {
     "id": "https://huggingface.co/blog/evaleval-aisi",
