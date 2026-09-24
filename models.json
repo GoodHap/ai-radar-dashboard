@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T18:59:32.047274+00:00",
+  "last_updated": "2026-09-24T22:17:18.013972+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "AliceAI-Foundation-80B-A3B-Base",
-      "company": "yandex",
+      "name": "Qwen-2.5-1B-RLCD",
+      "company": "harshatheg",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
