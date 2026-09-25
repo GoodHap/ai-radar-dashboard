@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-25",
+      "company": "Last",
+      "amount": "$200 ON",
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"
+    },
+    {
+      "date": "2026-09-25",
       "company": "Lightspeed",
       "amount": "$250M",
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -14,27 +21,6 @@
       "amount": "$200 B",
       "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "date": "2026-09-24",
-      "company": "Lovable’s",
-      "amount": "$600M",
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
-    },
-    {
-      "date": "2026-09-24",
-      "company": "TechCrunch",
-      "amount": "$200 B",
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
-    },
-    {
-      "date": "2026-09-24",
-      "company": "2",
-      "amount": "$200 ON",
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-      "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/"
     }
   ]
 }

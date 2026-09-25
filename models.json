@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T13:35:53.093915+00:00",
+  "last_updated": "2026-09-25T18:27:40.191963+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"

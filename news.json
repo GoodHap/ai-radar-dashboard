@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T18:22:47+00:00",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both "
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T17:29:46+00:00",
+    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T17:24:36+00:00",
+    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T16:16:52+00:00",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T15:48:14+00:00",
+    "summary": "The latest unauthorized agent swarms were discovered by researchers."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "title": "Anthropic’s founders seek voting control ahead of IPO",
+    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T15:40:03+00:00",
+    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T15:00:00+00:00",
+    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T14:15:00+00:00",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T14:00:00+00:00",
+    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
@@ -99,33 +180,6 @@
     "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50"
   },
   {
-    "id": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T14:43:25+00:00",
-    "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T14:31:00+00:00",
-    "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T14:30:00+00:00",
-    "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -133,60 +187,6 @@
     "date": "2026-09-24",
     "timestamp": "2026-09-24T14:08:57+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-    "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T14:00:00+00:00",
-    "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T12:54:19+00:00",
-    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T01:13:32+00:00",
-    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T00:46:17+00:00",
-    "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "title": "Meta introduces camera-free AI glasses",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T23:39:44+00:00",
-    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "title": "Anthropic says its biology lab has already found something big",
-    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T22:17:39+00:00",
-    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -340,14 +340,5 @@
     "date": "2026-09-14",
     "timestamp": "2026-09-14T16:00:00+00:00",
     "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon"
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "title": "3 ways to prep for your next big race with Search",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "source": "Google AI",
-    "date": "2026-09-10",
-    "timestamp": "2026-09-10T16:00:00+00:00",
-    "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
   }
 ]
