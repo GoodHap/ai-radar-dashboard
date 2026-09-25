@@ -349,23 +349,5 @@
     "date": "2026-09-10",
     "timestamp": "2026-09-10T16:00:00+00:00",
     "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid"
-  },
-  {
-    "id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "source": "Hugging Face",
-    "date": "2026-09-10",
-    "timestamp": "2026-09-10T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "source": "Hugging Face",
-    "date": "2026-09-10",
-    "timestamp": "2026-09-10T00:00:00+00:00",
-    "summary": ""
   }
 ]
