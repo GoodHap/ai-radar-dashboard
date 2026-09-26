@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-26",
+      "company": "Insurers",
+      "amount": "$942M",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    },
+    {
       "date": "2026-09-25",
       "company": "Crusoe",
       "amount": "$1.25B",
