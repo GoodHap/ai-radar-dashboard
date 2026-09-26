@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T07:28:39.255982+00:00",
+  "last_updated": "2026-09-26T12:57:36.427783+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "altar-1",
+      "company": "AikidoSec",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "altar-1",
-      "company": "AikidoSec",
+      "name": "Qwen-2.5-1B-RLCD",
+      "company": "harshatheg",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
