@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-26",
+    "timestamp": "2026-09-26T14:00:00+00:00",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
     "title": "At Meta Connect, the company’s smart glasses were everywhere",
     "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -169,15 +178,6 @@
     "date": "2026-09-24",
     "timestamp": "2026-09-24T19:15:00+00:00",
     "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T19:00:42+00:00",
-    "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T12:57:36.427783+00:00",
+  "last_updated": "2026-09-26T17:04:10.442242+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "altar-1",
+      "company": "AikidoSec",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "altar-1",
-      "company": "AikidoSec",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
-      "company": "prism-ml",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
