@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-25",
+      "company": "Crusoe",
+      "amount": "$1.25B",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+    },
+    {
+      "date": "2026-09-25",
       "company": "Anthropic",
       "amount": "$11.6 BILLION",
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",

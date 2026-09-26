@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T23:11:10+00:00",
+    "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T22:20:47+00:00",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
     "title": "Meta opens early access program for new Muse features",
     "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
@@ -160,24 +178,6 @@
     "date": "2026-09-24",
     "timestamp": "2026-09-24T18:11:44+00:00",
     "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-    "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T17:39:24+00:00",
-    "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-    "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-24",
-    "timestamp": "2026-09-24T17:00:00+00:00",
-    "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
