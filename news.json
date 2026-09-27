@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-27",
+    "timestamp": "2026-09-27T20:34:28+00:00",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+  },
+  {
     "id": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "title": "Can Muse overcome Meta’s trust issues?",
     "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
@@ -169,15 +178,6 @@
     "date": "2026-09-25",
     "timestamp": "2026-09-25T15:40:03+00:00",
     "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T15:00:00+00:00",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20"
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",

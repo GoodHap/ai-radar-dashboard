@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T20:01:08.657614+00:00",
+  "last_updated": "2026-09-27T23:44:24.353972+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "needle3",
-      "company": "Cactus-Compute",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "needle3",
+      "company": "Cactus-Compute",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
