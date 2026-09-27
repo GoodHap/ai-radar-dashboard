@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T05:05:47.935754+00:00",
+  "last_updated": "2026-09-27T11:53:01.572440+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen-2.5-1B-RLCD",
-      "company": "harshatheg",
+      "name": "Ternary-Bonsai-2-27B-mlx-2bit",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
