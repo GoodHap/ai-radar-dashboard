@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T19:33:57+00:00",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "source": "Google AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T19:00:00+00:00",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T18:31:23+00:00",
+    "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Hu"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T18:00:00+00:00",
+    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T17:29:50+00:00",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T17:09:02+00:00",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T16:52:38+00:00",
+    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T15:30:00+00:00",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T15:00:00+00:00",
+    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:30:00+00:00",
+    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:05:00+00:00",
+    "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:00:00+00:00",
+    "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T14:00:00+00:00",
+    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
     "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
     "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
@@ -79,114 +196,6 @@
     "date": "2026-09-26",
     "timestamp": "2026-09-26T01:08:57+00:00",
     "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T23:11:10+00:00",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T22:20:47+00:00",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T20:34:53+00:00",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T19:13:38+00:00",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T18:48:33+00:00",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T18:33:59+00:00",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T18:22:47+00:00",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both "
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T17:29:46+00:00",
-    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "title": "Astra and Opus just passed Turing’s other test",
-    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T17:24:36+00:00",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T16:16:52+00:00",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
-  },
-  {
-    "id": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "title": "Meta’s AI Tamagotchi bet is…working?",
-    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T16:00:00+00:00",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both "
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T15:48:14+00:00",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",

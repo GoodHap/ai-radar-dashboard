@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T13:39:36.121648+00:00",
+  "last_updated": "2026-09-28T20:29:31.790683+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "MiMo-V2.6-Flash-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
-      "company": "XiaomiMiMo",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "AliceAI-Foundation-80B-A3B-Base",
-      "company": "yandex",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
