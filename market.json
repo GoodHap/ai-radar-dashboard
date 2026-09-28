@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-28",
+      "company": "Viral",
+      "amount": "$1B",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+    },
+    {
       "date": "2026-09-26",
       "company": "Insurers",
       "amount": "$942M",

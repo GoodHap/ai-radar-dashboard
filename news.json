@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T13:38:48+00:00",
+    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+  },
+  {
+    "id": "https://huggingface.co/blog/Hcompany/holo4",
+    "title": "Holo4: powering generalist computer-use agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "Hugging Face",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T09:44:05+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
     "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
@@ -169,15 +187,6 @@
     "date": "2026-09-25",
     "timestamp": "2026-09-25T15:48:14+00:00",
     "summary": "The latest unauthorized agent swarms were discovered by researchers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-25",
-    "timestamp": "2026-09-25T15:40:03+00:00",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
