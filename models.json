@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T00:55:58.650272+00:00",
+  "last_updated": "2026-09-29T06:46:28.792568+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "MiMo-V2.6-Pro-RL",
-      "company": "XiaomiMiMo",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "AliceAI-Foundation-80B-A3B-Base",
-      "company": "yandex",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "altar-1",
-      "company": "AikidoSec",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "company": "orcarouter",
+      "name": "altar-1",
+      "company": "AikidoSec",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
