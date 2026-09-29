@@ -1,12 +1,102 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T18:35:00+00:00",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:45:51+00:00",
+    "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:20:00+00:00",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:17:15+00:00",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:15:00+00:00",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:15:00+00:00",
+    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T17:15:00+00:00",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing"
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T16:55:56+00:00",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "source": "Hugging Face",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T15:30:38+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T15:12:07+00:00",
+    "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
     "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "source": "TechCrunch AI",
     "date": "2026-09-29",
     "timestamp": "2026-09-29T13:53:01+00:00",
-    "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos."
+    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,"
   },
   {
     "id": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
@@ -117,87 +207,6 @@
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
   },
   {
-    "id": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T18:31:23+00:00",
-    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T18:00:00+00:00",
-    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T17:29:50+00:00",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T17:09:02+00:00",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T16:52:38+00:00",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T15:30:00+00:00",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T15:00:00+00:00",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T14:30:00+00:00",
-    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T14:05:00+00:00",
-    "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
-  },
-  {
     "id": "https://huggingface.co/blog/Hcompany/holo4",
     "title": "Holo4: powering generalist computer-use agents",
     "link": "https://huggingface.co/blog/Hcompany/holo4",
@@ -213,15 +222,6 @@
     "source": "Hugging Face",
     "date": "2026-09-24",
     "timestamp": "2026-09-24T14:08:57+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "source": "Hugging Face",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T18:41:40+00:00",
     "summary": ""
   },
   {
@@ -340,23 +340,5 @@
     "date": "2026-09-15",
     "timestamp": "2026-09-15T13:00:00+00:00",
     "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "source": "Google AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T19:00:00+00:00",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google’s Senior V"
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "title": "DevFest is back",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "source": "Google AI",
-    "date": "2026-09-14",
-    "timestamp": "2026-09-14T16:00:00+00:00",
-    "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon"
   }
 ]
