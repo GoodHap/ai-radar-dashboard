@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-09-29",
+      "company": "Reco",
+      "amount": "$55M",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
+    },
+    {
+      "date": "2026-09-29",
       "company": "Peak",
       "amount": "$5M",
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -28,20 +35,6 @@
       "amount": "$25M",
       "title": "Modulate raises $25M for its voice models and analysis suite",
       "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Insurtech",
-      "amount": "$34.5M",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Viral",
-      "amount": "$1B",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
     }
   ]
 }

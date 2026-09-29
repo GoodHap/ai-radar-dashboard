@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T13:53:01+00:00",
+    "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T13:47:30+00:00",
+    "summary": "The tech giant says the agent can help owners run their business and find new customers."
+  },
+  {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "source": "Hugging Face",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T13:07:00+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T12:45:05+00:00",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T12:30:00+00:00",
+    "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -153,33 +198,6 @@
     "summary": "Modulate deploys its models to detect deepfake, fraud and scam"
   },
   {
-    "id": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T14:00:00+00:00",
-    "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T14:00:00+00:00",
-    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T13:38:48+00:00",
-    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a sta"
-  },
-  {
     "id": "https://huggingface.co/blog/Hcompany/holo4",
     "title": "Holo4: powering generalist computer-use agents",
     "link": "https://huggingface.co/blog/Hcompany/holo4",
@@ -187,15 +205,6 @@
     "date": "2026-09-28",
     "timestamp": "2026-09-28T09:44:05+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27",
-    "timestamp": "2026-09-27T20:34:28+00:00",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -249,15 +258,6 @@
     "source": "Hugging Face",
     "date": "2026-09-22",
     "timestamp": "2026-09-22T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "source": "Hugging Face",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T13:44:34+00:00",
     "summary": ""
   },
   {

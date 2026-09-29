@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T06:46:28.792568+00:00",
+  "last_updated": "2026-09-29T13:56:57.793357+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
-      "company": "XiaomiMiMo",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "MiMo-V2.6-Flash-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "AliceAI-Foundation-80B-A3B-Base",
-      "company": "yandex",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "company": "orcarouter",
+      "name": "Naive-N0.5-Flash",
+      "company": "NaiveAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "altar-1",
-      "company": "AikidoSec",
+      "name": "AliceAI-Foundation-80B-A3B-Base",
+      "company": "yandex",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
