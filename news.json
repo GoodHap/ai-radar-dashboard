@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T00:30:00+00:00",
+    "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T23:39:20+00:00",
+    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T21:29:18+00:00",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T20:39:33+00:00",
+    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "title": "Shopify opens checkout to browser-based AI agents",
     "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
@@ -7,6 +43,15 @@
     "date": "2026-09-28",
     "timestamp": "2026-09-28T19:33:57+00:00",
     "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+  },
+  {
+    "id": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T19:21:59+00:00",
+    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -24,7 +69,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-28",
     "timestamp": "2026-09-28T18:31:23+00:00",
-    "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Hu"
+    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i"
   },
   {
     "id": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
@@ -42,7 +87,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-28",
     "timestamp": "2026-09-28T17:29:50+00:00",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
   },
   {
     "id": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
@@ -123,7 +168,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-28",
     "timestamp": "2026-09-28T13:38:48+00:00",
-    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a sta"
   },
   {
     "id": "https://huggingface.co/blog/Hcompany/holo4",
@@ -141,7 +186,7 @@
     "source": "TechCrunch AI",
     "date": "2026-09-27",
     "timestamp": "2026-09-27T20:34:28+00:00",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
   },
   {
     "id": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
@@ -151,51 +196,6 @@
     "date": "2026-09-27",
     "timestamp": "2026-09-27T19:57:30+00:00",
     "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27",
-    "timestamp": "2026-09-27T16:30:00+00:00",
-    "summary": "\"AI is the devil and I its maker.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27",
-    "timestamp": "2026-09-27T01:30:00+00:00",
-    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26",
-    "timestamp": "2026-09-26T21:02:06+00:00",
-    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26",
-    "timestamp": "2026-09-26T14:00:00+00:00",
-    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-26",
-    "timestamp": "2026-09-26T01:08:57+00:00",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T20:29:31.790683+00:00",
+  "last_updated": "2026-09-29T00:55:58.650272+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,29 +38,29 @@
       "trend": "up"
     },
     {
-      "name": "MiMo-V2.6-Pro-RL",
-      "company": "XiaomiMiMo",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
+      "name": "MiMo-V2.6-Pro-RL",
       "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "MiMo-V2.6-Flash-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "altar-1",
-      "company": "AikidoSec",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "altar-1",
+      "company": "AikidoSec",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
