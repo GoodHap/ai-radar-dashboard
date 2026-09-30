@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T18:22:01.310726+00:00",
+  "last_updated": "2026-09-30T22:55:02.932177+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,36 +45,36 @@
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 83.5,
-      "trend": "flat"
-    },
-    {
-      "name": "MiMo-V2.6-Pro-RL",
-      "company": "XiaomiMiMo",
-      "type": "Open Source",
-      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "company": "orcarouter",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
       "company": "ukisai",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-Abliterated-GGUF",
-      "company": "Hikari07jp",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
