@@ -2,25 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-09-30",
+      "company": "Restate",
+      "amount": "$20M",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+    },
+    {
       "date": "2026-09-29",
       "company": "OpenAI",
       "amount": "$30B",
       "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "Reco",
-      "amount": "$55M",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "Peak",
-      "amount": "$5M",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
     }
   ]
 }
