@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-09-30",
+    "timestamp": "2026-09-30T23:43:07+00:00",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -169,24 +178,6 @@
     "date": "2026-09-29",
     "timestamp": "2026-09-29T18:35:00+00:00",
     "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T17:45:51+00:00",
-    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T17:20:00+00:00",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/kumo-tabular",

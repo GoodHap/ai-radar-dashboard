@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T22:55:02.932177+00:00",
+  "last_updated": "2026-10-01T01:59:02.621550+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,22 +38,22 @@
       "trend": "up"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
