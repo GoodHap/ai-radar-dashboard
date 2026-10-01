@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T15:12:00+00:00",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/olmocore3",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "source": "Hugging Face",
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T15:01:43+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T14:00:00+00:00",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T13:00:00+00:00",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T12:00:00+00:00",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
+  },
+  {
     "id": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -142,42 +187,6 @@
     "date": "2026-09-29",
     "timestamp": "2026-09-29T23:30:55+00:00",
     "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T22:20:59+00:00",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T20:15:47+00:00",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T19:52:37+00:00",
-    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-29",
-    "timestamp": "2026-09-29T18:35:00+00:00",
-    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/kumo-tabular",

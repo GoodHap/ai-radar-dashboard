@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-01",
+      "company": "Photon",
+      "amount": "$4.5M",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+    },
+    {
+      "date": "2026-10-01",
+      "company": "Satlyt,",
+      "amount": "$8M",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
       "date": "2026-09-30",
       "company": "Valor,",
       "amount": "$750M",
@@ -21,13 +35,6 @@
       "amount": "$20M",
       "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
       "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
-    },
-    {
-      "date": "2026-09-29",
-      "company": "OpenAI",
-      "amount": "$30B",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
     }
   ]
 }
