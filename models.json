@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T16:16:24.863665+00:00",
+  "last_updated": "2026-10-01T21:44:12.398229+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,29 +38,29 @@
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-27B",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "company": "orcarouter",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "name": "OrcaSAQ-2-27B",
       "company": "orcarouter",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Flash-RL",
-      "company": "XiaomiMiMo",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
