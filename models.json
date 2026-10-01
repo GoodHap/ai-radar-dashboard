@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T01:59:02.621550+00:00",
+  "last_updated": "2026-10-01T08:46:33.060758+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "company": "orcarouter",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
