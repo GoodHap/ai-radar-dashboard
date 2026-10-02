@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T15:39:41+00:00",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope "
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "source": "Hugging Face",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T15:19:50+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "title": "The latest AI news we announced in September 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "source": "Google AI",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T15:00:00+00:00",
+    "summary": "A video showing the September AI updates"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T15:00:00+00:00",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T14:30:00+00:00",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T14:00:00+00:00",
+    "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West"
+  },
+  {
     "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -81,15 +135,6 @@
     "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
   },
   {
-    "id": "https://huggingface.co/blog/allenai/olmocore3",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "source": "Hugging Face",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T15:01:43+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
     "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
     "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
@@ -151,42 +196,6 @@
     "date": "2026-09-30",
     "timestamp": "2026-09-30T18:23:57+00:00",
     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30",
-    "timestamp": "2026-09-30T17:45:00+00:00",
-    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "title": "The ugly economics of consumer AI",
-    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30",
-    "timestamp": "2026-09-30T17:24:45+00:00",
-    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30",
-    "timestamp": "2026-09-30T16:24:23+00:00",
-    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu"
-  },
-  {
-    "id": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "source": "TechCrunch AI",
-    "date": "2026-09-30",
-    "timestamp": "2026-09-30T16:00:24+00:00",
-    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
   },
   {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
