@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T00:45:39+00:00",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "title": "Sean Parker is rebuilding Stability AI around music",
     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -196,15 +205,6 @@
     "date": "2026-10-01",
     "timestamp": "2026-10-01T14:00:00+00:00",
     "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T13:00:00+00:00",
-    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
   },
   {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
