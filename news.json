@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T16:30:01+00:00",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T14:00:00+00:00",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
     "title": "Meta wants your next gadget to be Muse-infused",
     "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -189,24 +207,6 @@
     "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
   },
   {
-    "id": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T15:12:00+00:00",
-    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T14:00:00+00:00",
-    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
-  },
-  {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
     "link": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -304,23 +304,5 @@
     "date": "2026-09-21",
     "timestamp": "2026-09-21T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "title": "New experts join Google’s AI & Economy team",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "source": "Google AI",
-    "date": "2026-09-18",
-    "timestamp": "2026-09-18T14:00:00+00:00",
-    "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner"
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "title": "Co-creating the future of fashion with Google",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "source": "Google AI",
-    "date": "2026-09-18",
-    "timestamp": "2026-09-18T13:00:00+00:00",
-    "summary": "Jane Wade and Sergio Hudson"
   }
 ]
