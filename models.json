@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T20:56:54.578507+00:00",
+  "last_updated": "2026-10-03T23:43:59.247509+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Kolibri-1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
