@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T06:19:34.302748+00:00",
+  "last_updated": "2026-10-03T12:24:51.218825+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,22 +45,22 @@
       "trend": "up"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "Naive-N0.5-Flash",
+      "company": "NaiveAI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "company": "Infatoshi",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B",
-      "company": "XingChen-AGI",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Pro-RL",
-      "company": "XiaomiMiMo",
+      "name": "Xing4.0-29B-A4B",
+      "company": "XingChen-AGI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "company": "Infatoshi",
+      "name": "Xing4.0-29B-A4B-GGUF",
+      "company": "Venastine-Research",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
