@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T20:37:27.169850+00:00",
+  "last_updated": "2026-10-03T00:21:27.008927+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,8 +52,8 @@
       "trend": "up"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "Naive-N0.5-Flash",
+      "company": "NaiveAI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,8 +66,8 @@
       "trend": "flat"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "OrcaSAQ-2-27B",
-      "company": "orcarouter",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "OrcaSAQ-2-27B",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
