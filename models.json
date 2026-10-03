@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T17:09:54.989427+00:00",
+  "last_updated": "2026-10-03T20:56:54.578507+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "Xing4.0-29B-A4B-GGUF",
+      "company": "Venastine-Research",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B-GGUF",
-      "company": "Venastine-Research",
+      "name": "Naive-N0.5-Flash",
+      "company": "NaiveAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Hemmingway-1",
-      "company": "Altworld",
+      "name": "MiMo-V2.6-Pro-RL",
+      "company": "XiaomiMiMo",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "MiMo-V2.6-Pro-RL",
-      "company": "XiaomiMiMo",
+      "name": "Hemmingway-1",
+      "company": "Altworld",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

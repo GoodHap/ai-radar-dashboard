@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T18:43:57+00:00",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
@@ -196,15 +205,6 @@
     "date": "2026-10-01",
     "timestamp": "2026-10-01T16:49:22+00:00",
     "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T16:44:35+00:00",
-    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
   },
   {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
