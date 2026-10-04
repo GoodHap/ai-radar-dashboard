@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-04",
+    "timestamp": "2026-10-04T15:15:10+00:00",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety."
+  },
+  {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox",
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -205,15 +214,6 @@
     "date": "2026-10-01",
     "timestamp": "2026-10-01T17:50:19+00:00",
     "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-    "title": "Amazon releases its own Jev clone as decision models flood the web",
-    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T16:49:22+00:00",
-    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
   },
   {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
