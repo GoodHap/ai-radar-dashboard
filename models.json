@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T21:13:03.742180+00:00",
+  "last_updated": "2026-10-05T00:41:55.413593+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,29 +66,29 @@
       "trend": "flat"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Naive-N0.5-Flash",
+      "company": "NaiveAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "penclaw-GLM-5.3-abliterated",
+      "company": "audnai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
