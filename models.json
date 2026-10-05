@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T00:41:55.413593+00:00",
+  "last_updated": "2026-10-05T06:49:16.353249+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "company": "Infatoshi",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "company": "Infatoshi",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
