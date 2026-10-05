@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T15:14:24+00:00",
+    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T15:00:00+00:00",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T14:35:09+00:00",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T14:30:00+00:00",
+    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T14:00:00+00:00",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T12:00:00+00:00",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
@@ -135,15 +189,6 @@
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve th"
   },
   {
-    "id": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02",
-    "timestamp": "2026-10-02T15:39:41+00:00",
-    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope "
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/astabrief",
     "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "link": "https://huggingface.co/blog/allenai/astabrief",
@@ -162,24 +207,6 @@
     "summary": "A video showing the September AI updates"
   },
   {
-    "id": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02",
-    "timestamp": "2026-10-02T14:30:00+00:00",
-    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02",
-    "timestamp": "2026-10-02T14:00:00+00:00",
-    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West lo"
-  },
-  {
     "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -187,33 +214,6 @@
     "date": "2026-10-02",
     "timestamp": "2026-10-02T04:01:31+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T21:08:11+00:00",
-    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T19:21:53+00:00",
-    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-01",
-    "timestamp": "2026-10-01T19:18:03+00:00",
-    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
   },
   {
     "id": "https://huggingface.co/blog/open-tts-leaderboard",
@@ -258,6 +258,15 @@
     "source": "Hugging Face",
     "date": "2026-09-28",
     "timestamp": "2026-09-28T09:44:05+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/rl-environments",
+    "title": "Welcome RL Environments to the hub",
+    "link": "https://huggingface.co/blog/rl-environments",
+    "source": "Hugging Face",
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T00:00:00+00:00",
     "summary": ""
   },
   {
