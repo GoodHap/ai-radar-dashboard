@@ -313,14 +313,5 @@
     "date": "2026-09-22",
     "timestamp": "2026-09-22T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/tokenizers-v1",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "source": "Hugging Face",
-    "date": "2026-09-21",
-    "timestamp": "2026-09-21T00:00:00+00:00",
-    "summary": ""
   }
 ]

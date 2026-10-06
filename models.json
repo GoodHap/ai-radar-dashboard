@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T22:30:07.952525+00:00",
+  "last_updated": "2026-10-06T02:51:50.906242+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "company": "Infatoshi",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "company": "Infatoshi",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
