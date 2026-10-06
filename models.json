@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T10:03:20.413085+00:00",
+  "last_updated": "2026-10-06T17:07:42.491709+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "company": "orcarouter",
+      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "company": "Infatoshi",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "company": "Infatoshi",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "penclaw-GLM-5.3-abliterated",
+      "company": "audnai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
