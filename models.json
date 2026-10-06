@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T02:51:50.906242+00:00",
+  "last_updated": "2026-10-06T10:03:20.413085+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "company": "orcarouter",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"

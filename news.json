@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "Hugging Face",
+    "date": "2026-10-06",
+    "timestamp": "2026-10-06T06:44:39+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
@@ -169,24 +178,6 @@
     "date": "2026-10-03",
     "timestamp": "2026-10-03T14:00:00+00:00",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03",
-    "timestamp": "2026-10-03T00:45:39+00:00",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-02",
-    "timestamp": "2026-10-02T21:09:14+00:00",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
   },
   {
     "id": "https://huggingface.co/blog/allenai/astabrief",
