@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T02:13:14.535178+00:00",
+  "last_updated": "2026-10-07T10:07:14.558992+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "penclaw-GLM-5.3-abliterated",
+      "company": "audnai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
