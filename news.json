@@ -6,7 +6,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-06",
     "timestamp": "2026-10-06T22:34:03+00:00",
-    "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch."
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
   },
   {
     "id": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -277,32 +277,5 @@
     "date": "2026-09-23",
     "timestamp": "2026-09-23T18:00:00+00:00",
     "summary": "Google Beam promotional animation"
-  },
-  {
-    "id": "https://huggingface.co/blog/evaleval-aisi",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "source": "Hugging Face",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source": "Hugging Face",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/omlx",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
-    "source": "Hugging Face",
-    "date": "2026-09-22",
-    "timestamp": "2026-09-22T00:00:00+00:00",
-    "summary": ""
   }
 ]
