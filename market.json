@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-07",
+      "company": "Nous",
+      "amount": "$1.5B",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    },
+    {
+      "date": "2026-10-07",
       "company": "Healthleap",
       "amount": "$38M",
       "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
