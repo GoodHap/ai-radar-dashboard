@@ -1,12 +1,75 @@
 [
   {
-    "id": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "id": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "source": "TechCrunch AI",
     "date": "2026-10-08",
-    "timestamp": "2026-10-08T16:00:00+00:00",
-    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o"
+    "timestamp": "2026-10-08T21:00:00+00:00",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T20:04:26+00:00",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:20:32+00:00",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:19:45+00:00",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:19:42+00:00",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:18:00+00:00",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:16:24+00:00",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T18:10:55+00:00",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
   },
   {
     "id": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
@@ -16,6 +79,15 @@
     "date": "2026-10-08",
     "timestamp": "2026-10-08T16:00:00+00:00",
     "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T16:00:00+00:00",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o"
   },
   {
     "id": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
@@ -61,6 +133,15 @@
     "date": "2026-10-08",
     "timestamp": "2026-10-08T13:20:32+00:00",
     "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
+  },
+  {
+    "id": "https://huggingface.co/blog/building-with-ml-intern",
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "source": "Hugging Face",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -115,78 +196,6 @@
     "date": "2026-10-07",
     "timestamp": "2026-10-07T16:54:33+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T16:53:46+00:00",
-    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T15:07:08+00:00",
-    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:41:38+00:00",
-    "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "title": "Google experiments with an AI-powered gaming platform",
-    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:36:23+00:00",
-    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:30:00+00:00",
-    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:15:00+00:00",
-    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:00:00+00:00",
-    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T14:00:00+00:00",
-    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
   },
   {
     "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
@@ -295,14 +304,5 @@
     "date": "2026-09-28",
     "timestamp": "2026-09-28T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "source": "Google AI",
-    "date": "2026-09-23",
-    "timestamp": "2026-09-23T18:00:00+00:00",
-    "summary": "Google Beam promotional animation"
   }
 ]
