@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T16:00:00+00:00",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T16:00:00+00:00",
+    "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T15:00:00+00:00",
+    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T14:00:00+00:00",
+    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T14:00:00+00:00",
+    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "title": "Google releases a new local-first Granola competitor",
+    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T13:28:39+00:00",
+    "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-08",
+    "timestamp": "2026-10-08T13:20:32+00:00",
+    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
     "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -126,6 +189,15 @@
     "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI."
   },
   {
+    "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "title": "Introducing Falcon ASR",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "source": "Hugging Face",
+    "date": "2026-10-07",
+    "timestamp": "2026-10-07T13:21:03+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
     "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
@@ -142,69 +214,6 @@
     "date": "2026-10-07",
     "timestamp": "2026-10-07T12:00:00+00:00",
     "summary": "Overview of Playground"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T22:34:03+00:00",
-    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "title": "How AI decision models could change content moderation",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T20:35:20+00:00",
-    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T20:00:30+00:00",
-    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T19:56:50+00:00",
-    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T18:22:45+00:00",
-    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "title": "Mirror Particle is building a ‘world model’ of human behavior",
-    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T16:35:00+00:00",
-    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-06",
-    "timestamp": "2026-10-06T16:00:00+00:00",
-    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
   },
   {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox",

@@ -2,6 +2,27 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-08",
+      "company": "Natura’s",
+      "amount": "$99 IN",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "Cal",
+      "amount": "$10M",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
+    },
+    {
+      "date": "2026-10-08",
+      "company": "China’s",
+      "amount": "$500M",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+    },
+    {
       "date": "2026-10-07",
       "company": "Nous",
       "amount": "$1.5B",
@@ -21,20 +42,6 @@
       "amount": "$100 ON",
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "Ex-Ramp",
-      "amount": "$20M",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-    },
-    {
-      "date": "2026-10-06",
-      "company": "AI",
-      "amount": "$4B",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
     }
   ]
 }
