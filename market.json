@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-09",
+      "company": "The",
+      "amount": "$7.5B",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "date": "2026-10-09",
       "company": "TechCrunch",
       "amount": "$100 B",
       "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
@@ -28,13 +35,6 @@
       "amount": "$99 IN",
       "title": "Natura’s $99 smart ring puts AI agents on your finger",
       "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-    },
-    {
-      "date": "2026-10-08",
-      "company": "Cal",
-      "amount": "$10M",
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
     }
   ]
 }

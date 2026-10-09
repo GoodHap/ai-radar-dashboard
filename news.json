@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09",
+    "timestamp": "2026-10-09T21:41:29+00:00",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-09",
+    "timestamp": "2026-10-09T19:36:56+00:00",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+  },
+  {
     "id": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
@@ -169,24 +187,6 @@
     "date": "2026-10-08",
     "timestamp": "2026-10-08T14:00:00+00:00",
     "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T14:00:00+00:00",
-    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-    "title": "Google releases a new local-first Granola competitor",
-    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T13:28:39+00:00",
-    "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
   },
   {
     "id": "https://huggingface.co/blog/building-with-ml-intern",
