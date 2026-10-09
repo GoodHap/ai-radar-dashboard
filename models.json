@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T05:52:34.273492+00:00",
+  "last_updated": "2026-10-09T13:03:23.639481+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Xing4.0-29B-A4B-GGUF",
-      "company": "Venastine-Research",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "Xing4.0-29B-A4B-GGUF",
+      "company": "Venastine-Research",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
