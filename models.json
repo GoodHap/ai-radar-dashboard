@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T23:14:15.217977+00:00",
+  "last_updated": "2026-10-09T05:52:34.273492+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "company": "ukisai",
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "company": "ukisai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
