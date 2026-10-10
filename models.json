@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T05:39:35.900178+00:00",
+  "last_updated": "2026-10-10T12:20:19.898352+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "Kolibri-1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "penclaw-GLM-5.3-abliterated",
-      "company": "audnai",
+      "name": "Mellum2.1-12B-A2.5B-Thinking",
+      "company": "JetBrains",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
