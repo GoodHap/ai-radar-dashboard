@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-10",
+    "timestamp": "2026-10-10T19:50:00+00:00",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
     "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
@@ -178,15 +187,6 @@
     "date": "2026-10-08",
     "timestamp": "2026-10-08T18:10:55+00:00",
     "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "title": "Natura’s $99 smart ring puts AI agents on your finger",
-    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T16:00:00+00:00",
-    "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
   },
   {
     "id": "https://huggingface.co/blog/building-with-ml-intern",
