@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T17:56:56+00:00",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T17:19:14+00:00",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T15:45:00+00:00",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T15:31:19+00:00",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T15:27:59+00:00",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T14:00:00+00:00",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12",
+    "timestamp": "2026-10-12T12:47:59+00:00",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
     "title": "Will the HomeView be Apple’s first smart home success?",
     "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
@@ -33,7 +96,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-11",
     "timestamp": "2026-10-11T14:00:00+00:00",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break."
   },
   {
     "id": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -73,12 +136,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch AI",
     "date": "2026-10-10",
     "timestamp": "2026-10-10T00:18:32+00:00",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening "
   },
   {
     "id": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -117,33 +180,6 @@
     "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co"
   },
   {
-    "id": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "title": "Danu Robotics’ fight to build a better recycling robot",
-    "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09",
-    "timestamp": "2026-10-09T16:45:00+00:00",
-    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09",
-    "timestamp": "2026-10-09T16:40:14+00:00",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09",
-    "timestamp": "2026-10-09T15:43:33+00:00",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "title": "Impactful scheduling for GPU clusters",
     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -151,42 +187,6 @@
     "date": "2026-10-09",
     "timestamp": "2026-10-09T15:20:29+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-09",
-    "timestamp": "2026-10-09T14:00:00+00:00",
-    "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T21:00:00+00:00",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T20:04:26+00:00",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T18:20:32+00:00",
-    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
   },
   {
     "id": "https://huggingface.co/blog/building-with-ml-intern",

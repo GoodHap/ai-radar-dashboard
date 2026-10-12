@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-12",
+      "company": "WindBorne",
+      "amount": "$50 MILLION",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    },
+    {
+      "date": "2026-10-12",
+      "company": "Former",
+      "amount": "$26M",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+    },
+    {
       "date": "2026-10-11",
       "company": "48",
       "amount": "$100 ON",
@@ -14,13 +28,6 @@
       "amount": "$7.5B",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "TechCrunch",
-      "amount": "$100 B",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
     }
   ]
 }
