@@ -2,6 +2,34 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-13",
+      "company": "Pluto",
+      "amount": "$42M",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Satlyt,",
+      "amount": "$8M",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "The",
+      "amount": "$100 ON",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+    },
+    {
+      "date": "2026-10-13",
+      "company": "Just",
+      "amount": "$20 MILLION",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+    },
+    {
       "date": "2026-10-12",
       "company": "WindBorne",
       "amount": "$50 MILLION",
@@ -21,13 +49,6 @@
       "amount": "$100 ON",
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
-    },
-    {
-      "date": "2026-10-09",
-      "company": "The",
-      "amount": "$7.5B",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
     }
   ]
 }
