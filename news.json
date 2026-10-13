@@ -295,14 +295,5 @@
     "date": "2026-09-28",
     "timestamp": "2026-09-28T09:44:05+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/rl-environments",
-    "title": "Welcome RL Environments to the hub",
-    "link": "https://huggingface.co/blog/rl-environments",
-    "source": "Hugging Face",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T00:00:00+00:00",
-    "summary": ""
   }
 ]
