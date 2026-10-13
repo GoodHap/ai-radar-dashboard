@@ -286,14 +286,5 @@
     "date": "2026-09-28",
     "timestamp": "2026-09-28T19:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-  },
-  {
-    "id": "https://huggingface.co/blog/Hcompany/holo4",
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "Hugging Face",
-    "date": "2026-09-28",
-    "timestamp": "2026-09-28T09:44:05+00:00",
-    "summary": ""
   }
 ]
