@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T20:07:39.427246+00:00",
+  "last_updated": "2026-10-14T23:49:58.143277+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B-GGUF",
-      "company": "Venastine-Research",
+      "name": "Qwen3.8-27B-Uncensored-GGUF",
+      "company": "JonathanColetti",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
