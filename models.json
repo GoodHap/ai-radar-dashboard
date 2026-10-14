@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T04:38:39.386908+00:00",
+  "last_updated": "2026-10-14T10:02:04.286147+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B-GGUF",
-      "company": "Venastine-Research",
-      "type": "Open Source",
-      "score": 83.0,
-      "trend": "flat"
-    },
-    {
       "name": "Ternary-Bonsai-2-27B-gguf",
       "company": "prism-ml",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Mellum2.1-12B-A2.5B-Thinking",
       "company": "JetBrains",
       "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
+      "type": "Open Source",
       "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Xing4.0-29B-A4B-GGUF",
+      "company": "Venastine-Research",
+      "type": "Open Source",
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "GLM-5.3",
       "company": "zai-org",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
       "company": "JetBrains",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
