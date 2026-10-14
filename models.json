@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T10:02:04.286147+00:00",
+  "last_updated": "2026-10-14T15:47:03.031652+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Kolibri-1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "Xing4.0-29B-A4B-GGUF",
-      "company": "Venastine-Research",
+      "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
+      "company": "JetBrains",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "company": "JetBrains",
+      "name": "Xing4.0-29B-A4B-GGUF",
+      "company": "Venastine-Research",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

@@ -2,6 +2,20 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-14",
+      "company": "Zenzap",
+      "amount": "$44M",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+    },
+    {
+      "date": "2026-10-14",
+      "company": "Scimplify",
+      "amount": "$25M",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    },
+    {
       "date": "2026-10-13",
       "company": "Pluto",
       "amount": "$42M",
@@ -14,20 +28,6 @@
       "amount": "$100 ON",
       "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-    },
-    {
-      "date": "2026-10-13",
-      "company": "Just",
-      "amount": "$20 MILLION",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
-    },
-    {
-      "date": "2026-10-12",
-      "company": "WindBorne",
-      "amount": "$50 MILLION",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
     }
   ]
 }
