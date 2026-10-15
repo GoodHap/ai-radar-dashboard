@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T14:49:48.479629+00:00",
+  "last_updated": "2026-10-15T19:00:39.821760+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "LFM2.5-24B-A2B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "LFM2.5-24B-A2B",
-      "company": "LiquidAI",
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "company": "JetBrains",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
+      "company": "JetBrains",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

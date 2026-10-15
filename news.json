@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T18:56:46+00:00",
+    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+    "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T18:00:00+00:00",
+    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa "
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "title": "AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T15:02:36+00:00",
+    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
     "title": "Google’s Universal Cart shopping tool launches in the US",
     "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
@@ -15,7 +42,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-15",
     "timestamp": "2026-10-15T14:00:00+00:00",
-    "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+    "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
   },
   {
     "id": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
@@ -52,6 +79,24 @@
     "date": "2026-10-15",
     "timestamp": "2026-10-15T01:01:32+00:00",
     "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des"
+  },
+  {
+    "id": "https://huggingface.co/blog/meta-muse-spark-open",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "Hugging Face",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T00:00:00+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/flux-3",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "link": "https://huggingface.co/blog/flux-3",
+    "source": "Hugging Face",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
@@ -169,33 +214,6 @@
     "date": "2026-10-13",
     "timestamp": "2026-10-13T23:05:34+00:00",
     "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T23:00:00+00:00",
-    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T22:36:59+00:00",
-    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T20:36:44+00:00",
-    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
