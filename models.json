@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T04:20:54.245347+00:00",
+  "last_updated": "2026-10-15T09:44:41.304142+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "Kolibri-1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"

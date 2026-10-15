@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T04:30:00+00:00",
+    "summary": "Figma is also releasing its code layers feature in open beta."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -178,15 +187,6 @@
     "date": "2026-10-13",
     "timestamp": "2026-10-13T17:30:00+00:00",
     "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T17:18:25+00:00",
-    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h"
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
