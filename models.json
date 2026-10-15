@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T19:00:39.821760+00:00",
+  "last_updated": "2026-10-15T22:59:32.771140+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Kolibri-1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
