@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T01:01:32+00:00",
+    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T00:00:00+00:00",
+    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can "
+  },
+  {
     "id": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
     "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
     "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
@@ -180,24 +198,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T17:00:00+00:00",
-    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T16:30:00+00:00",
-    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -267,15 +267,6 @@
     "source": "Hugging Face",
     "date": "2026-10-02",
     "timestamp": "2026-10-02T04:01:31+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/open-tts-leaderboard",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "source": "Hugging Face",
-    "date": "2026-09-30",
-    "timestamp": "2026-09-30T00:00:00+00:00",
     "summary": ""
   }
 ]

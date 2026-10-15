@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T23:49:58.143277+00:00",
+  "last_updated": "2026-10-15T04:20:54.245347+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Mellum2.1-12B-A2.5B-Thinking",
+      "company": "JetBrains",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Mellum2.1-12B-A2.5B-Thinking",
-      "company": "JetBrains",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-Uncensored-GGUF",
-      "company": "JonathanColetti",
+      "name": "GLM-5.3",
+      "company": "zai-org",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
