@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T09:44:41.304142+00:00",
+  "last_updated": "2026-10-15T14:49:48.479629+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Mellum2.1-12B-A2.5B-Thinking",
-      "company": "JetBrains",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "Mellum2.1-12B-A2.5B-Thinking",
+      "company": "JetBrains",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"

@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T14:29:33+00:00",
+    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T14:00:00+00:00",
+    "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T12:00:00+00:00",
+    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
+  },
+  {
+    "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "title": "Apertus 1.5 Release Notes",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "source": "Hugging Face",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T09:08:45+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -24,7 +60,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-15",
     "timestamp": "2026-10-15T00:00:00+00:00",
-    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can "
+    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it"
   },
   {
     "id": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
@@ -160,33 +196,6 @@
     "date": "2026-10-13",
     "timestamp": "2026-10-13T20:36:44+00:00",
     "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T18:30:00+00:00",
-    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "title": "Facebook is giving users more control over their algorithm",
-    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T18:05:24+00:00",
-    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13",
-    "timestamp": "2026-10-13T17:30:00+00:00",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
