@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T01:44:47+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
@@ -249,15 +258,6 @@
     "source": "Hugging Face",
     "date": "2026-10-07",
     "timestamp": "2026-10-07T13:21:03+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "source": "Hugging Face",
-    "date": "2026-10-07",
-    "timestamp": "2026-10-07T12:45:31+00:00",
     "summary": ""
   },
   {
