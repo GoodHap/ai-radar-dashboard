@@ -1,11 +1,29 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T12:55:09+00:00",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "source": "Hugging Face",
     "date": "2026-10-16",
     "timestamp": "2026-10-16T01:44:47+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/reflection-beam",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "source": "Hugging Face",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T00:00:00+00:00",
     "summary": ""
   },
   {
@@ -214,15 +232,6 @@
     "date": "2026-10-14",
     "timestamp": "2026-10-14T15:08:00+00:00",
     "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T15:00:00+00:00",
-    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
