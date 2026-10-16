@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T17:52:24+00:00",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+  },
+  {
+    "id": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
+  },
+  {
+    "id": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T16:01:37+00:00",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T15:33:49+00:00",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T14:26:51+00:00",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-16",
+    "timestamp": "2026-10-16T14:00:00+00:00",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip th"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
     "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
     "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
@@ -162,42 +225,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T00:00:00+00:00",
-    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T21:30:33+00:00",
-    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T18:23:46+00:00",
-    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T18:00:00+00:00",
-    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/hiro-acev2",
     "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
     "link": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -205,33 +232,6 @@
     "date": "2026-10-14",
     "timestamp": "2026-10-14T16:12:42+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T15:16:04+00:00",
-    "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T15:13:24+00:00",
-    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T15:08:00+00:00",
-    "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
