@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T17:55:46.695801+00:00",
+  "last_updated": "2026-10-16T20:54:34.221171+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
+      "type": "Open Source",
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
       "name": "Ling-3.1-flash",
       "company": "inclusionAI",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Ternary-Bonsai-2-27B-gguf",
       "company": "prism-ml",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "Beam-1.0-501B-A23B",
+      "company": "reflection",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Mellum2.1-12B-A2.5B-Thinking",
       "company": "JetBrains",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "Kolibri-1",
       "company": "Aleph-Alpha",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "company": "JetBrains",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
