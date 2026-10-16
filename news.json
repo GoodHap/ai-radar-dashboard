@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T23:44:56+00:00",
+    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -88,15 +97,6 @@
     "date": "2026-10-15",
     "timestamp": "2026-10-15T12:00:00+00:00",
     "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
-  },
-  {
-    "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "title": "Apertus 1.5 Release Notes",
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "source": "Hugging Face",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T09:08:45+00:00",
-    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -214,15 +214,6 @@
     "date": "2026-10-14",
     "timestamp": "2026-10-14T15:00:00+00:00",
     "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T14:30:00+00:00",
-    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
