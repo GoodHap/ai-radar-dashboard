@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T09:09:28.249127+00:00",
+  "last_updated": "2026-10-17T13:35:30.236415+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Kolibri-1",
-      "company": "Aleph-Alpha",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
