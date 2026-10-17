@@ -295,14 +295,5 @@
     "date": "2026-10-02",
     "timestamp": "2026-10-02T15:00:00+00:00",
     "summary": "A video showing the September AI updates"
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "source": "Hugging Face",
-    "date": "2026-10-02",
-    "timestamp": "2026-10-02T04:01:31+00:00",
-    "summary": ""
   }
 ]
