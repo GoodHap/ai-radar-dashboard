@@ -1,7 +1,25 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T21:31:32+00:00",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17",
+    "timestamp": "2026-10-17T20:21:19+00:00",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "title": "Replit is no longer working with Anthropic, CEO says",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "source": "TechCrunch AI",
     "date": "2026-10-17",
@@ -187,24 +205,6 @@
     "date": "2026-10-15",
     "timestamp": "2026-10-15T14:00:00+00:00",
     "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T12:00:00+00:00",
-    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "title": "Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T04:30:00+00:00",
-    "summary": "Figma is also releasing its code layers feature in open beta."
   },
   {
     "id": "https://huggingface.co/blog/meta-muse-spark-open",
