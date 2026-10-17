@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T04:06:49.671931+00:00",
+  "last_updated": "2026-10-17T09:09:28.249127+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Beam-1.0-501B-A23B",
+      "company": "reflection",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Beam-1.0-501B-A23B",
-      "company": "reflection",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
