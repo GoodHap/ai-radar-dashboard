@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T00:49:11.917227+00:00",
+  "last_updated": "2026-10-18T05:41:20.348106+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
