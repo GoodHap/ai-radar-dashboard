@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-18",
+    "timestamp": "2026-10-18T20:37:40+00:00",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -198,15 +207,6 @@
     "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
   },
   {
-    "id": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T14:29:33+00:00",
-    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
-  },
-  {
     "id": "https://huggingface.co/blog/meta-muse-spark-open",
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
     "link": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -277,14 +277,5 @@
     "date": "2026-10-07",
     "timestamp": "2026-10-07T12:00:00+00:00",
     "summary": "Overview of Playground"
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "source": "Hugging Face",
-    "date": "2026-10-03",
-    "timestamp": "2026-10-03T22:56:48+00:00",
-    "summary": ""
   }
 ]
