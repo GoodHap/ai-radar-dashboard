@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T01:05:34.211077+00:00",
+  "last_updated": "2026-10-19T07:38:37.304798+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
