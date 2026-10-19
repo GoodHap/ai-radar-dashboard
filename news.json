@@ -207,6 +207,15 @@
     "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December."
   },
   {
+    "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "title": "Apertus 1.5 Release Notes",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "source": "Hugging Face",
+    "date": "2026-10-15",
+    "timestamp": "2026-10-15T09:08:45+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/meta-muse-spark-open",
     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
     "link": "https://huggingface.co/blog/meta-muse-spark-open",
