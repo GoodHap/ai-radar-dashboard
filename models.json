@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T15:30:16.428919+00:00",
+  "last_updated": "2026-10-19T20:58:51.748744+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
