@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T00:14:57.878257+00:00",
+  "last_updated": "2026-10-20T05:51:49.548255+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "Beam-1.0-501B-A23B",
+      "company": "reflection",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Beam-1.0-501B-A23B",
-      "company": "reflection",
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
