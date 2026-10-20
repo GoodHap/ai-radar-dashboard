@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T11:00:00+00:00",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T11:00:00+00:00",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -7,6 +25,15 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T01:27:03+00:00",
     "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+  },
+  {
+    "id": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "title": "MPS in PyTorch 2.15",
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
@@ -169,24 +196,6 @@
     "date": "2026-10-16",
     "timestamp": "2026-10-16T17:52:24+00:00",
     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-  },
-  {
-    "id": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-16",
-    "timestamp": "2026-10-16T16:30:00+00:00",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
-  },
-  {
-    "id": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-16",
-    "timestamp": "2026-10-16T16:30:00+00:00",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",

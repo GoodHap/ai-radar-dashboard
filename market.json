@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-20",
+      "company": "Otter.ai",
+      "amount": "$320 MILLION",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+    },
+    {
       "date": "2026-10-19",
       "company": "Nscale",
       "amount": "$45B",
