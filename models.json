@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T20:25:18.329432+00:00",
+  "last_updated": "2026-10-20T23:46:04.934934+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

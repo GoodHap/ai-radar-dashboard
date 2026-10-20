@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-20",
+      "company": "SpaceX’s",
+      "amount": "$4.4 BILLION",
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+    },
+    {
+      "date": "2026-10-20",
       "company": "Eka",
       "amount": "$1.45B",
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
@@ -21,20 +28,6 @@
       "amount": "$45B",
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Tolan",
-      "amount": "$30M",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Tenstorrent",
-      "amount": "$6.2B",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
     }
   ]
 }

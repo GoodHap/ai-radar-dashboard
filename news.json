@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T23:01:23+00:00",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T22:24:02+00:00",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T21:25:22+00:00",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T20:40:41+00:00",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T20:35:10+00:00",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
     "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
@@ -87,7 +132,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T13:07:24+00:00",
-    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
   },
   {
     "id": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
@@ -99,15 +144,6 @@
     "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
   },
   {
-    "id": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T11:00:00+00:00",
-    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
-  },
-  {
     "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
@@ -115,6 +151,15 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T11:00:00+00:00",
     "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T11:00:00+00:00",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
   },
   {
     "id": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -187,51 +232,6 @@
     "date": "2026-10-19",
     "timestamp": "2026-10-19T20:09:24+00:00",
     "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T19:28:34+00:00",
-    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T19:00:12+00:00",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T18:49:04+00:00",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T18:37:27+00:00",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T16:13:22+00:00",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
   },
   {
     "id": "https://huggingface.co/blog/hf-torchneuron",
