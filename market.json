@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-19",
+      "company": "Nscale",
+      "amount": "$45 BILLION",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+    },
+    {
+      "date": "2026-10-19",
       "company": "Tolan",
       "amount": "$30M",
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
