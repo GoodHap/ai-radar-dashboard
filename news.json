@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/fairstress",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T16:09:19+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T16:00:00+00:00",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T15:19:48+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T14:13:32+00:00",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T13:07:24+00:00",
+    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T13:00:00+00:00",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
@@ -25,6 +79,24 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T01:27:03+00:00",
     "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+  },
+  {
+    "id": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T00:00:00+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/mps-pytorch-2-15",
@@ -162,42 +234,6 @@
     "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
   },
   {
-    "id": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-17",
-    "timestamp": "2026-10-17T21:31:32+00:00",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-17",
-    "timestamp": "2026-10-17T20:21:19+00:00",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-17",
-    "timestamp": "2026-10-17T18:48:08+00:00",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partn"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-16",
-    "timestamp": "2026-10-16T17:52:24+00:00",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -249,15 +285,6 @@
     "source": "Hugging Face",
     "date": "2026-10-15",
     "timestamp": "2026-10-15T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "source": "Hugging Face",
-    "date": "2026-10-14",
-    "timestamp": "2026-10-14T16:12:42+00:00",
     "summary": ""
   },
   {

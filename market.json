@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-20",
+      "company": "Eka",
+      "amount": "$1.45B",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    },
+    {
+      "date": "2026-10-20",
       "company": "Otter.ai",
       "amount": "$320 MILLION",
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",

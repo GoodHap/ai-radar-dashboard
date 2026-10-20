@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T11:21:53.922789+00:00",
+  "last_updated": "2026-10-20T16:46:41.914002+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Naive-N0.5-Flash",
-      "company": "NaiveAI",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "unsloth",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
