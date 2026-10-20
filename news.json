@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T18:38:24+00:00",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "title": "ChatGPT now lets you lock your chats",
+    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T18:36:53+00:00",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "source": "Hugging Face",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T18:17:47+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T17:55:12+00:00",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T17:12:48+00:00",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r"
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/fairstress",
     "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
     "link": "https://huggingface.co/blog/allenai/fairstress",
@@ -33,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T14:13:32+00:00",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data"
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data."
   },
   {
     "id": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
@@ -54,15 +99,6 @@
     "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
   },
   {
-    "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T11:00:00+00:00",
-    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi"
-  },
-  {
     "id": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
     "title": "Yelp can now call on your behalf to check wait times at a restaurant",
     "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
@@ -70,6 +106,15 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T11:00:00+00:00",
     "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T11:00:00+00:00",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi"
   },
   {
     "id": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -189,57 +234,12 @@
     "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
   },
   {
-    "id": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T15:37:09+00:00",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T12:30:00+00:00",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
-  },
-  {
     "id": "https://huggingface.co/blog/hf-torchneuron",
     "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "link": "https://huggingface.co/blog/hf-torchneuron",
     "source": "Hugging Face",
     "date": "2026-10-19",
     "timestamp": "2026-10-19T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-18",
-    "timestamp": "2026-10-18T20:37:40+00:00",
-    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "title": "Disney agrees to hire the majority of Character AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-18",
-    "timestamp": "2026-10-18T16:30:00+00:00",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "source": "Hugging Face",
-    "date": "2026-10-16",
-    "timestamp": "2026-10-16T01:44:47+00:00",
     "summary": ""
   },
   {

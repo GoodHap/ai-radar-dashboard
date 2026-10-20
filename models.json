@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:46:41.914002+00:00",
+  "last_updated": "2026-10-20T20:25:18.329432+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,36 +52,36 @@
       "trend": "up"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "Beam-1.0-501B-A23B",
+      "company": "reflection",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Beam-1.0-501B-A23B",
-      "company": "reflection",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
-      "type": "Open Source",
-      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
       "company": "nvidia",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Ling-3.1-flash",
       "company": "inclusionAI",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
