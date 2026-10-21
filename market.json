@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-21",
+      "company": "Southeast",
+      "amount": "$368 BILLION",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+    },
+    {
       "date": "2026-10-20",
       "company": "SpaceX’s",
       "amount": "$4.4 BILLION",
@@ -17,9 +24,9 @@
     },
     {
       "date": "2026-10-20",
-      "company": "Otter.ai",
-      "amount": "$320 MILLION",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "company": "Otter",
+      "amount": "$320M",
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
       "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
     },
     {

@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "source": "Google AI",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T04:00:00+00:00",
+    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature "
+  },
+  {
     "id": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -33,7 +42,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T20:40:41+00:00",
-    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
   },
   {
     "id": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
@@ -78,16 +87,25 @@
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T17:55:12+00:00",
-    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+    "summary": "Eric Schmidt’s fortune is about to get even bigger."
   },
   {
     "id": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
     "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T17:12:48+00:00",
-    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r"
+    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T16:20:06+00:00",
+    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
   },
   {
     "id": "https://huggingface.co/blog/allenai/fairstress",
@@ -141,16 +159,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-20",
     "timestamp": "2026-10-20T13:00:00+00:00",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T11:00:00+00:00",
-    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi"
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
   },
   {
     "id": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
@@ -160,6 +169,15 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T11:00:00+00:00",
     "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20",
+    "timestamp": "2026-10-20T11:00:00+00:00",
+    "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
   },
   {
     "id": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -223,15 +241,6 @@
     "date": "2026-10-19",
     "timestamp": "2026-10-19T22:04:28+00:00",
     "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T20:09:24+00:00",
-    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
   },
   {
     "id": "https://huggingface.co/blog/hf-torchneuron",

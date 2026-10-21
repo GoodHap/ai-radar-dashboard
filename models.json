@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T23:46:04.934934+00:00",
+  "last_updated": "2026-10-21T04:26:40.609760+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "LFM2.5-24B-A2B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "unsloth",
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
