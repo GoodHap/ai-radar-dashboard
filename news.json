@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T19:30:00+00:00",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "source": "Hugging Face",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T18:26:30+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "source": "Hugging Face",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T17:35:36+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "source": "Hugging Face",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T16:04:43+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
     "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
@@ -16,15 +52,6 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T14:00:00+00:00",
     "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/kumo-forecast",
-    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T12:51:24+00:00",
-    "summary": ""
   },
   {
     "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -241,15 +268,6 @@
     "date": "2026-10-19",
     "timestamp": "2026-10-19T23:39:38+00:00",
     "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T22:49:27+00:00",
-    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a "
   },
   {
     "id": "https://huggingface.co/blog/hf-torchneuron",

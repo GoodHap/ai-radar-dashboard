@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T15:07:49.411835+00:00",
+  "last_updated": "2026-10-21T20:02:40.602890+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "Ling-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B-GGUF",
-      "company": "LiquidAI",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 82.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
-      "type": "Open Source",
-      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Spark-X2.6-4B",
       "company": "XHToken",
       "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
+      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "Ling-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
