@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:59:44.857787+00:00",
+  "last_updated": "2026-10-21T15:07:49.411835+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "LFM2.5-24B-A2B",
-      "company": "LiquidAI",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "LFM2.5-24B-A2B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Underdog-Saluki-27B-1.0",
-      "company": "ConwayResearch",
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "Underdog-Saluki-27B-1.0",
+      "company": "ConwayResearch",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
