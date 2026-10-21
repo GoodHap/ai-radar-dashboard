@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-21",
+      "company": "Blacksmith",
+      "amount": "$66 MILLION",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+    },
+    {
+      "date": "2026-10-21",
       "company": "Southeast",
       "amount": "$368 BILLION",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -14,27 +21,6 @@
       "amount": "$4.4 BILLION",
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Eka",
-      "amount": "$1.45B",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-    },
-    {
-      "date": "2026-10-20",
-      "company": "Otter",
-      "amount": "$320M",
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-    },
-    {
-      "date": "2026-10-19",
-      "company": "Nscale",
-      "amount": "$45B",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
     }
   ]
 }
