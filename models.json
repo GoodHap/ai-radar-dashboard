@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T23:57:57.470177+00:00",
+  "last_updated": "2026-10-22T04:30:07.562652+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -66,8 +66,8 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
