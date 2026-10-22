@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T15:08:56.964673+00:00",
+  "last_updated": "2026-10-22T19:56:36.997536+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B",
-      "company": "LiquidAI",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "LFM2.5-24B-A2B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

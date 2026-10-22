@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:07:09+00:00",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:00:00+00:00",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:00:00+00:00",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T18:43:53+00:00",
+    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T16:47:17+00:00",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "source": "Hugging Face",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T16:11:31+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T16:00:00+00:00",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
     "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
@@ -15,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T13:53:26+00:00",
-    "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
   },
   {
     "id": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
@@ -33,7 +96,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T13:11:13+00:00",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -52,6 +115,15 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T22:51:22+00:00",
     "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-21",
+    "timestamp": "2026-10-21T22:45:34+00:00",
+    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
   },
   {
     "id": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
@@ -169,78 +241,6 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T23:01:23+00:00",
     "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T22:24:02+00:00",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T21:25:22+00:00",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "title": "SpaceX’s AI business is beating expectations",
-    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T20:40:41+00:00",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T20:35:10+00:00",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T18:38:24+00:00",
-    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "title": "ChatGPT now lets you lock your chats",
-    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T18:36:53+00:00",
-    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T17:55:12+00:00",
-    "summary": "Eric Schmidt’s fortune is about to get even bigger."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/fairstress",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T16:09:19+00:00",
-    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/hf-torchtpu",
