@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T22:24:34+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T22:08:24+00:00",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -232,15 +250,6 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T04:00:00+00:00",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T23:01:23+00:00",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
   },
   {
     "id": "https://huggingface.co/blog/hf-torchtpu",

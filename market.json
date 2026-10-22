@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-22",
+      "company": "OpenAI",
+      "amount": "$30B",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+    },
+    {
+      "date": "2026-10-22",
       "company": "Nirva",
       "amount": "$33M",
       "title": "Nirva raises $33M for a pendant that only listens to you",
