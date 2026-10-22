@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:59:47.056479+00:00",
+  "last_updated": "2026-10-22T15:08:56.964673+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -52,29 +52,29 @@
       "trend": "up"
     },
     {
-      "name": "Beam-1.0-501B-A23B",
-      "company": "reflection",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "Beam-1.0-501B-A23B",
+      "company": "reflection",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "LFM2.5-24B-A2B",
-      "company": "LiquidAI",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "LFM2.5-24B-A2B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Raon-1-mini-preview",
-      "company": "KRAFTON",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
