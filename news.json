@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "source": "Hugging Face",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T07:51:31+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -24,7 +33,7 @@
     "source": "TechCrunch AI",
     "date": "2026-10-21",
     "timestamp": "2026-10-21T21:14:19+00:00",
-    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
   },
   {
     "id": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
@@ -223,15 +232,6 @@
     "date": "2026-10-20",
     "timestamp": "2026-10-20T16:00:00+00:00",
     "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T15:19:48+00:00",
-    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
