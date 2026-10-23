@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:54:50.765869+00:00",
+  "last_updated": "2026-10-23T14:52:41.896882+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"

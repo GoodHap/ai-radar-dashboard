@@ -18,6 +18,15 @@
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
   },
   {
+    "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "Hugging Face",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
