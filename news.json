@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T04:00:00+00:00",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-23",
+    "timestamp": "2026-10-23T00:45:37+00:00",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+  },
+  {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -27,15 +45,6 @@
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
   },
   {
-    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:00:00+00:00",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
     "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -43,6 +52,15 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T19:00:00+00:00",
     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:00:00+00:00",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
     "id": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -207,15 +225,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T17:18:27+00:00",
-    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
-  },
-  {
     "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
@@ -232,15 +241,6 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T14:58:18+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T14:00:00+00:00",
-    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
   },
   {
     "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -340,14 +340,5 @@
     "date": "2026-10-13",
     "timestamp": "2026-10-13T16:00:00+00:00",
     "summary": "TBD"
-  },
-  {
-    "id": "https://huggingface.co/blog/building-with-ml-intern",
-    "title": "The model that didn't exist, so you made it yourself",
-    "link": "https://huggingface.co/blog/building-with-ml-intern",
-    "source": "Hugging Face",
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T00:00:00+00:00",
-    "summary": ""
   }
 ]
