@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T09:24:01.200668+00:00",
+  "last_updated": "2026-10-24T13:56:16.833009+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
-      "company": "nvidia",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
