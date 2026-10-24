@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T17:20:42.408337+00:00",
+  "last_updated": "2026-10-24T20:35:51.880771+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "Hy-Memory-30B-A3B",
-      "company": "tencent",
+      "name": "Raon-1-mini-preview",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "Raon-1-mini-preview",
-      "company": "KRAFTON",
+      "name": "Hy-Memory-30B-A3B",
+      "company": "tencent",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"

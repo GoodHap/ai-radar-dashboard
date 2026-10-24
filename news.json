@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24",
+    "timestamp": "2026-10-24T19:00:00+00:00",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "title": "Block’s new voice model sounds eerily human",
     "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -117,15 +126,6 @@
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
   },
   {
-    "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:00:00+00:00",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
     "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "title": "Canva releases its first image generation model",
     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
@@ -133,6 +133,15 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T19:00:00+00:00",
     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:00:00+00:00",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
   },
   {
     "id": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -205,15 +214,6 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T07:51:31+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T22:51:22+00:00",
-    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/kumo-relational",
