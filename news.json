@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "title": "Block’s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24",
+    "timestamp": "2026-10-24T16:00:00+00:00",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24",
+    "timestamp": "2026-10-24T15:00:00+00:00",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24",
+    "timestamp": "2026-10-24T14:00:00+00:00",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -187,33 +214,6 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T22:51:22+00:00",
     "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T22:45:34+00:00",
-    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T21:16:20+00:00",
-    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T21:14:19+00:00",
-    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/kumo-relational",

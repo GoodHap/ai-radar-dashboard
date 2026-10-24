@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T13:56:16.833009+00:00",
+  "last_updated": "2026-10-24T17:20:42.408337+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,29 +66,29 @@
       "trend": "flat"
     },
     {
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "Hy-Memory-30B-A3B",
       "company": "tencent",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "Ornith-1.5-122B",
       "company": "ornith-ai",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Raon-1-mini-preview",
       "company": "KRAFTON",
-      "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
