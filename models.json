@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T23:01:39.155817+00:00",
+  "last_updated": "2026-10-24T04:20:49.371081+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Beam-1.0-501B-A23B",
-      "company": "reflection",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
