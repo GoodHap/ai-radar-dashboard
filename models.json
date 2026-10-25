@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T18:19:36.375200+00:00",
+  "last_updated": "2026-10-25T21:37:55.703495+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,22 +45,22 @@
       "trend": "up"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "humanizer",
+      "company": "jialinyyzz",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
