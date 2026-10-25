@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T14:14:09.701465+00:00",
+  "last_updated": "2026-10-25T18:19:36.375200+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,36 +59,36 @@
       "trend": "flat"
     },
     {
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
+      "type": "Open Source",
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
       "name": "flint-GGUF",
       "company": "unsloth",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "humanizer",
       "company": "jialinyyzz",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
       "company": "orcarouter",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Raon-1-mini-preview",
       "company": "KRAFTON",
-      "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
