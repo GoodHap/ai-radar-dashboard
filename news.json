@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-25",
+    "timestamp": "2026-10-25T14:10:00+00:00",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -196,15 +205,6 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T13:26:52+00:00",
     "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T13:11:13+00:00",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
