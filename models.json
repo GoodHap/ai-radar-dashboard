@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T00:03:53.353416+00:00",
+  "last_updated": "2026-10-26T05:57:30.514629+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "humanizer",
-      "company": "jialinyyzz",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "Ornith-1.5-122B",
+      "company": "ornith-ai",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

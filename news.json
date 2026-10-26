@@ -153,15 +153,6 @@
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
   },
   {
-    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:00:00+00:00",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-  },
-  {
     "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -169,6 +160,15 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T19:00:00+00:00",
     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T19:00:00+00:00",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
     "id": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
