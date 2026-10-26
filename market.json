@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-26",
+      "company": "SpaceX",
+      "amount": "$40B",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
       "date": "2026-10-22",
       "company": "OpenAI",
       "amount": "$30B",

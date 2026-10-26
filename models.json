@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T12:47:26.112848+00:00",
+  "last_updated": "2026-10-26T19:08:40.012695+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
