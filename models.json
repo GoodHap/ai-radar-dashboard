@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T05:57:30.514629+00:00",
+  "last_updated": "2026-10-26T12:47:26.112848+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
