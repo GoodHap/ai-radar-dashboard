@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T10:21:17.578378+00:00",
+  "last_updated": "2026-10-27T16:23:19.811728+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Ornith-1.5-122B",
-      "company": "ornith-ai",
+      "name": "Spark-X2.6-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

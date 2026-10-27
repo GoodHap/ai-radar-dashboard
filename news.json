@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/novelty-bench",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T16:12:42+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T14:59:09+00:00",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T13:32:57+00:00",
+    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T13:00:00+00:00",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T13:00:00+00:00",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T11:00:00+00:00",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -144,42 +198,6 @@
     "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
   },
   {
-    "id": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T19:06:23+00:00",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d"
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/litpivot",
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "source": "Hugging Face",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T16:15:50+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T04:00:00+00:00",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T00:45:37+00:00",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-  },
-  {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -196,24 +214,6 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T22:24:34+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T22:08:24+00:00",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:07:09+00:00",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
