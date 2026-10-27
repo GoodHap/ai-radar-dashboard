@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T02:00:00+00:00",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T01:12:21+00:00",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has "
+  },
+  {
     "id": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -196,24 +214,6 @@
     "date": "2026-10-22",
     "timestamp": "2026-10-22T19:07:09+00:00",
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:00:00+00:00",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T19:00:00+00:00",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
