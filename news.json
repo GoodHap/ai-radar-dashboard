@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T18:55:35+00:00",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "Hugging Face",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T17:16:52+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T17:08:08+00:00",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-27",
+    "timestamp": "2026-10-27T16:30:57+00:00",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/novelty-bench",
     "title": "Can we trust LLMs to judge whether a research idea is novel?",
     "link": "https://huggingface.co/blog/allenai/novelty-bench",
@@ -169,33 +205,6 @@
     "date": "2026-10-24",
     "timestamp": "2026-10-24T15:00:00+00:00",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24",
-    "timestamp": "2026-10-24T14:00:00+00:00",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T23:05:49+00:00",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-23",
-    "timestamp": "2026-10-23T21:59:19+00:00",
-    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
   },
   {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",

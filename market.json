@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-10-27",
+      "company": "Disruptive",
+      "amount": "$10B",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+    },
+    {
+      "date": "2026-10-27",
       "company": "General",
       "amount": "$100 MILLION",
       "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
