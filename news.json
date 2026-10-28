@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T01:15:28+00:00",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
     "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
@@ -196,15 +205,6 @@
     "date": "2026-10-25",
     "timestamp": "2026-10-25T16:57:32+00:00",
     "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-25",
-    "timestamp": "2026-10-25T14:10:00+00:00",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
   },
   {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",

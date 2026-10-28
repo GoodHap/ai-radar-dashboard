@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T01:07:24.363571+00:00",
+  "last_updated": "2026-10-28T08:15:20.515863+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-mini-preview",
-      "company": "KRAFTON",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
