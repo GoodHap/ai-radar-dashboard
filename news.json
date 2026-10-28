@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T15:41:18+00:00",
+    "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T15:00:00+00:00",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "Hugging Face",
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T14:58:17+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-28",
+    "timestamp": "2026-10-28T13:00:00+00:00",
+    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect direc"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
     "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -180,33 +216,6 @@
     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\""
   },
   {
-    "id": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "title": "Anthropic officially files for its public debut",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-26",
-    "timestamp": "2026-10-26T14:35:22+00:00",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-25",
-    "timestamp": "2026-10-25T21:31:16+00:00",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-25",
-    "timestamp": "2026-10-25T16:57:32+00:00",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-  },
-  {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -231,15 +240,6 @@
     "source": "Hugging Face",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T07:51:31+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T18:26:30+00:00",
     "summary": ""
   },
   {

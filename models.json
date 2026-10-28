@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T08:15:20.515863+00:00",
+  "last_updated": "2026-10-28T15:53:50.446057+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,8 +59,8 @@
       "trend": "flat"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "Sage-A1.5",
+      "company": "InternScience",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
