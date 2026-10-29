@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T00:45:57.506392+00:00",
+  "last_updated": "2026-10-29T06:55:45.254004+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
