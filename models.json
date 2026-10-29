@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T20:56:11.866206+00:00",
+  "last_updated": "2026-10-29T00:45:57.506392+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "flint-GGUF",
+      "company": "unsloth",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
