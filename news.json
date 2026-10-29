@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "Hugging Face",
+    "date": "2026-10-29",
+    "timestamp": "2026-10-29T13:37:07+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-29",
+    "timestamp": "2026-10-29T13:00:00+00:00",
+    "summary": "Deepgram said that it is committed to keep Pipecat open source."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-29",
+    "timestamp": "2026-10-29T13:00:00+00:00",
+    "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot."
+  },
+  {
+    "id": "https://huggingface.co/blog/anydecisionmodel",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "source": "Hugging Face",
+    "date": "2026-10-29",
+    "timestamp": "2026-10-29T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
     "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
     "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
@@ -171,15 +207,6 @@
     "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
   },
   {
-    "id": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-27",
-    "timestamp": "2026-10-27T18:55:35+00:00",
-    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
-  },
-  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm3",
     "title": "Build specialized multimodal models with LFM3",
     "link": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -187,15 +214,6 @@
     "date": "2026-10-27",
     "timestamp": "2026-10-27T17:16:52+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-27",
-    "timestamp": "2026-10-27T17:08:08+00:00",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
   },
   {
     "id": "https://huggingface.co/blog/allenai/novelty-bench",
@@ -258,15 +276,6 @@
     "source": "Hugging Face",
     "date": "2026-10-21",
     "timestamp": "2026-10-21T16:04:43+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T14:58:18+00:00",
     "summary": ""
   },
   {

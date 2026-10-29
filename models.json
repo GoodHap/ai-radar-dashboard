@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T06:55:45.254004+00:00",
+  "last_updated": "2026-10-29T14:06:14.006513+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Sage-A1.5",
-      "company": "InternScience",
+      "name": "Spark-X2.6-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
