@@ -2,6 +2,34 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-29",
+      "company": "Rivian",
+      "amount": "$5.8 BILLION",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    },
+    {
+      "date": "2026-10-29",
+      "company": "OpenAI-backed",
+      "amount": "$15.3 BILLION",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "date": "2026-10-29",
+      "company": "Ex-Palantir",
+      "amount": "$17M",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    },
+    {
+      "date": "2026-10-29",
+      "company": "Wabi,",
+      "amount": "$1.25B",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+    },
+    {
       "date": "2026-10-28",
       "company": "Microsoft",
       "amount": "$33.2 BILLION",
@@ -28,13 +56,6 @@
       "amount": "$92.3 BILLION",
       "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
       "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-    },
-    {
-      "date": "2026-10-28",
-      "company": "7",
-      "amount": "$100 ON",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
     },
     {
       "date": "2026-10-21",
