@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-10-30",
+      "company": "Intel’s",
+      "amount": "$12B",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
       "date": "2026-10-29",
       "company": "Rivian",
       "amount": "$5.8 BILLION",
@@ -14,20 +21,6 @@
       "amount": "$15.3 BILLION",
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Ex-Palantir",
-      "amount": "$17M",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-    },
-    {
-      "date": "2026-10-29",
-      "company": "Wabi,",
-      "amount": "$1.25B",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
     },
     {
       "date": "2026-10-21",

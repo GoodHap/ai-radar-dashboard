@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T19:53:44.447872+00:00",
+  "last_updated": "2026-10-30T23:36:40.857485+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "LFM3-1.7B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-GGUF",
-      "company": "LiquidAI",
+      "name": "Carbon-X",
+      "company": "HuggingFaceBio",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
