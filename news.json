@@ -1,12 +1,57 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "title": "nemotron-halloween",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "Hugging Face",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T17:57:24+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T17:47:12+00:00",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T17:00:00+00:00",
+    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T16:03:45+00:00",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T14:00:00+00:00",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
+  },
+  {
     "id": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
     "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
     "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
     "source": "TechCrunch AI",
     "date": "2026-10-30",
     "timestamp": "2026-10-30T13:54:25+00:00",
-    "summary": "DoorDash said that it is open to working with third-party agent makers"
+    "summary": "DoorDash said that it is open to working with third-party agent makers."
   },
   {
     "id": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
@@ -177,51 +222,6 @@
     "source": "Hugging Face",
     "date": "2026-10-29",
     "timestamp": "2026-10-29T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T21:58:32+00:00",
-    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T21:48:37+00:00",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T21:34:30+00:00",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T21:25:30+00:00",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "source": "Hugging Face",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T14:58:17+00:00",
     "summary": ""
   },
   {
