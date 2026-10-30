@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T20:10:35.836702+00:00",
+  "last_updated": "2026-10-30T00:46:07.142468+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "flint-GGUF",
-      "company": "unsloth",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
-      "company": "unsloth",
+      "name": "Spark-X2.6-4B-GGUF",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

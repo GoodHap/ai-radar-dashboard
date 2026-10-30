@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-29",
+    "timestamp": "2026-10-29T23:42:22+00:00",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
     "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
     "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
@@ -207,15 +216,6 @@
     "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
   },
   {
-    "id": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T17:00:00+00:00",
-    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
@@ -357,24 +357,6 @@
     "source": "Hugging Face",
     "date": "2026-10-15",
     "timestamp": "2026-10-15T09:08:45+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/meta-muse-spark-open",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "source": "Hugging Face",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/flux-3",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "link": "https://huggingface.co/blog/flux-3",
-    "source": "Hugging Face",
-    "date": "2026-10-15",
-    "timestamp": "2026-10-15T00:00:00+00:00",
     "summary": ""
   }
 ]
