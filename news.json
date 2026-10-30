@@ -1,7 +1,16 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-30",
+    "timestamp": "2026-10-30T01:20:48+00:00",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
     "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "source": "TechCrunch AI",
     "date": "2026-10-29",
@@ -205,15 +214,6 @@
     "date": "2026-10-28",
     "timestamp": "2026-10-28T18:50:39+00:00",
     "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to "
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-28",
-    "timestamp": "2026-10-28T17:00:00+00:00",
-    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
