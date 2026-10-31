@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T05:16:58.172573+00:00",
+  "last_updated": "2026-10-31T12:07:55.518612+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,22 +45,22 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Carbon-X",
-      "company": "HuggingFaceBio",
+      "name": "LFM3-1.7B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
