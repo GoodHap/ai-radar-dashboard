@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31",
+    "timestamp": "2026-10-31T21:17:03+00:00",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "title": "OpenAI reportedly lowers funding target for new round",
     "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -178,15 +187,6 @@
     "date": "2026-10-29",
     "timestamp": "2026-10-29T19:56:19+00:00",
     "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T19:14:36+00:00",
-    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca"
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",

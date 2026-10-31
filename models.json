@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T17:37:18.182933+00:00",
+  "last_updated": "2026-10-31T21:22:08.984858+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Spark-X2.6-4B",
+      "company": "XHToken",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
+      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
