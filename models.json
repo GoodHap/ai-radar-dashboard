@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T14:56:26.309566+00:00",
+  "last_updated": "2026-11-01T19:30:27.845243+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
