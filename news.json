@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-01",
+    "timestamp": "2026-11-01T21:55:23+00:00",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-01",
+    "timestamp": "2026-11-01T20:57:58+00:00",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+  },
+  {
     "id": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -169,24 +187,6 @@
     "date": "2026-10-30",
     "timestamp": "2026-10-30T01:20:48+00:00",
     "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T23:42:22+00:00",
-    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T20:08:31+00:00",
-    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T19:30:27.845243+00:00",
+  "last_updated": "2026-11-01T23:28:47.628210+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
