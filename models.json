@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T07:20:18.880818+00:00",
+  "last_updated": "2026-11-01T14:56:26.309566+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "LFM3-1.7B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,8 +87,8 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
