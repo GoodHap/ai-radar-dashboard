@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T15:00:00+00:00",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+    "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T14:00:00+00:00",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T13:57:53+00:00",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
     "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -160,33 +187,6 @@
     "date": "2026-10-30",
     "timestamp": "2026-10-30T13:54:25+00:00",
     "summary": "DoorDash said that it is open to working with third-party agent makers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T13:00:00+00:00",
-    "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T13:00:00+00:00",
-    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T01:20:48+00:00",
-    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
