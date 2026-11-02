@@ -3,6 +3,20 @@
   "funding_events": [
     {
       "date": "2026-11-02",
+      "company": "Trajectory",
+      "amount": "$45M",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+    },
+    {
+      "date": "2026-11-02",
+      "company": "42AI",
+      "amount": "$62.5M",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+    },
+    {
+      "date": "2026-11-02",
       "company": "Omen",
       "amount": "$16 MILLION",
       "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",

@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T23:13:53+00:00",
+    "summary": "The one-year-old startup is now valued at $300 million."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T22:14:50+00:00",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T19:25:59+00:00",
+    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T19:19:17+00:00",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "title": "The latest AI news we announced in October 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "source": "Google AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T17:45:00+00:00",
+    "summary": "Animated carousel of images from AI posts in October"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T16:30:00+00:00",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-02",
+    "timestamp": "2026-11-02T16:23:21+00:00",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
     "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
     "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
@@ -19,7 +82,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
     "source": "TechCrunch AI",
     "date": "2026-11-02",
@@ -43,6 +106,15 @@
     "date": "2026-11-01",
     "timestamp": "2026-11-01T20:57:58+00:00",
     "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+  },
+  {
+    "id": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-01",
+    "timestamp": "2026-11-01T02:22:10+00:00",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
   },
   {
     "id": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -117,24 +189,6 @@
     "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
   },
   {
-    "id": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T21:26:59+00:00",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "title": "Cracks are emerging in the AI spending boom",
-    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T21:17:40+00:00",
-    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "title": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -142,51 +196,6 @@
     "date": "2026-10-30",
     "timestamp": "2026-10-30T17:57:24+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T17:47:12+00:00",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T17:00:00+00:00",
-    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T16:03:45+00:00",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T14:00:00+00:00",
-    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T13:54:25+00:00",
-    "summary": "DoorDash said that it is open to working with third-party agent makers."
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
