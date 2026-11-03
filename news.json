@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T14:30:00+00:00",
+    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T14:00:00+00:00",
+    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T07:20:00+00:00",
+    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
     "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
@@ -25,6 +52,15 @@
     "date": "2026-11-03",
     "timestamp": "2026-11-03T00:35:52+00:00",
     "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
+  },
+  {
+    "id": "https://huggingface.co/blog/transformers-mic",
+    "title": "Transformers Model Integration Contracts",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
@@ -160,33 +196,6 @@
     "date": "2026-10-31",
     "timestamp": "2026-10-31T21:36:07+00:00",
     "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31",
-    "timestamp": "2026-10-31T21:17:03+00:00",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31",
-    "timestamp": "2026-10-31T16:12:55+00:00",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31",
-    "timestamp": "2026-10-31T01:20:05+00:00",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
