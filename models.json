@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T14:58:32.041860+00:00",
+  "last_updated": "2026-11-03T20:54:45.875663+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -80,8 +80,8 @@
       "trend": "flat"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Qwen3.5-4B-Qwenputer",
+      "company": "divagr1925",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"

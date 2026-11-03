@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T19:34:43+00:00",
+    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T18:42:16+00:00",
+    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/statebench",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T17:15:21+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T17:07:01+00:00",
+    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T16:35:36+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T16:30:34+00:00",
+    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T15:38:27+00:00",
+    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
     "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
     "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
@@ -52,6 +115,15 @@
     "date": "2026-11-03",
     "timestamp": "2026-11-03T00:35:52+00:00",
     "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
+  },
+  {
+    "id": "https://huggingface.co/blog/cwe-bench",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "source": "Hugging Face",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/transformers-mic",
@@ -153,51 +225,6 @@
     "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
   },
   {
-    "id": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-01",
-    "timestamp": "2026-11-01T21:55:23+00:00",
-    "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-01",
-    "timestamp": "2026-11-01T20:57:58+00:00",
-    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-01",
-    "timestamp": "2026-11-01T02:22:10+00:00",
-    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31",
-    "timestamp": "2026-10-31T21:41:00+00:00",
-    "summary": "Apple's new CEO defended the company's current position in the AI landscape."
-  },
-  {
-    "id": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "source": "TechCrunch AI",
-    "date": "2026-10-31",
-    "timestamp": "2026-10-31T21:36:07+00:00",
-    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "title": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -252,15 +279,6 @@
     "summary": ""
   },
   {
-    "id": "https://huggingface.co/blog/allenai/novelty-bench",
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "source": "Hugging Face",
-    "date": "2026-10-27",
-    "timestamp": "2026-10-27T16:12:42+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "title": "Our newest AI Quest: Mapping the human brain",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -285,15 +303,6 @@
     "source": "Hugging Face",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T22:24:34+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "source": "Hugging Face",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T07:51:31+00:00",
     "summary": ""
   },
   {
