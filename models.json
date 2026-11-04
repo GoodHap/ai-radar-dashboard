@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:12:00.030354+00:00",
+  "last_updated": "2026-11-04T08:56:06.975792+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,15 +52,15 @@
       "trend": "up"
     },
     {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-Qwenputer",
-      "company": "divagr1925",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-GGUF",
-      "company": "LiquidAI",
+      "name": "Qwen3.5-4B-Qwenputer",
+      "company": "divagr1925",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Spark-X2.6-4B",
-      "company": "XHToken",
+      "name": "LFM3-1.7B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
