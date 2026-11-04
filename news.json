@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T22:45:09+00:00",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T22:13:16+00:00",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T21:56:01+00:00",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T21:25:44+00:00",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T21:10:56+00:00",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+  },
+  {
+    "id": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T19:30:04+00:00",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T19:29:52+00:00",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T18:44:57+00:00",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "source": "Hugging Face",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T17:50:10+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
     "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
     "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
@@ -126,60 +207,6 @@
     "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
   },
   {
-    "id": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T14:30:00+00:00",
-    "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T14:00:00+00:00",
-    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T07:20:00+00:00",
-    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T03:30:00+00:00",
-    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T01:49:52+00:00",
-    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T00:35:52+00:00",
-    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter "
-  },
-  {
     "id": "https://huggingface.co/blog/cwe-bench",
     "title": "CWE-bench v2: More coverage, quality, and transparency",
     "link": "https://huggingface.co/blog/cwe-bench",
@@ -196,24 +223,6 @@
     "date": "2026-11-03",
     "timestamp": "2026-11-03T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T23:13:53+00:00",
-    "summary": "The one-year-old startup is now valued at $300 million."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T22:14:50+00:00",
-    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",

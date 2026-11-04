@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T17:03:06.020329+00:00",
+  "last_updated": "2026-11-04T23:31:44.384669+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-Qwenputer",
-      "company": "divagr1925",
+      "name": "LFM3-1.7B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "Qwen3.5-4B-Qwenputer",
+      "company": "divagr1925",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
