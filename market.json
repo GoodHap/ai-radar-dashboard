@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-11-03",
+      "company": "Ted",
+      "amount": "$490M",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+    },
+    {
+      "date": "2026-11-03",
       "company": "AI",
       "amount": "$16B",
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
@@ -28,20 +35,6 @@
       "amount": "$62.5M",
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
       "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "Omen",
-      "amount": "$16 MILLION",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-    },
-    {
-      "date": "2026-11-02",
-      "company": "2",
-      "amount": "$100 O",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
     },
     {
       "date": "2026-10-21",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T22:41:03+00:00",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T22:19:53+00:00",
+    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T21:43:08+00:00",
+    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-03",
+    "timestamp": "2026-11-03T21:05:55+00:00",
+    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
     "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
@@ -64,12 +100,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
     "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
     "source": "TechCrunch AI",
     "date": "2026-11-03",
     "timestamp": "2026-11-03T14:30:00+00:00",
-    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+    "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
   },
   {
     "id": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
@@ -189,42 +225,6 @@
     "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
   },
   {
-    "id": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T16:23:21+00:00",
-    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T15:00:00+00:00",
-    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T14:00:00+00:00",
-    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T13:57:53+00:00",
-    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "title": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -331,32 +331,5 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T04:00:00+00:00",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature "
-  },
-  {
-    "id": "https://huggingface.co/blog/hf-torchtpu",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "title": "MPS in PyTorch 2.15",
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "source": "Hugging Face",
-    "date": "2026-10-20",
-    "timestamp": "2026-10-20T00:00:00+00:00",
-    "summary": ""
   }
 ]

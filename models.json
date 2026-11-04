@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T20:54:45.875663+00:00",
+  "last_updated": "2026-11-04T01:12:00.030354+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-GGUF",
-      "company": "LiquidAI",
+      "name": "Qwen3.5-4B-Qwenputer",
+      "company": "divagr1925",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-Qwenputer",
-      "company": "divagr1925",
+      "name": "LFM3-1.7B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
