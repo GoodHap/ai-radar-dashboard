@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T16:51:35+00:00",
+    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T16:17:22+00:00",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04",
+    "timestamp": "2026-11-04T13:00:00+00:00",
+    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -189,24 +216,6 @@
     "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
   },
   {
-    "id": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T19:25:59+00:00",
-    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T19:19:17+00:00",
-    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "title": "The latest AI news we announced in October 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -214,15 +223,6 @@
     "date": "2026-11-02",
     "timestamp": "2026-11-02T17:45:00+00:00",
     "summary": "Animated carousel of images from AI posts in October"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-02",
-    "timestamp": "2026-11-02T16:30:00+00:00",
-    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
