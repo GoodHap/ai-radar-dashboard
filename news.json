@@ -1,8 +1,80 @@
 [
   {
-    "id": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infra",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/",
+    "id": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T19:48:28+00:00",
+    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "source": "Hugging Face",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T19:35:16+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T19:12:39+00:00",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T19:06:12+00:00",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T18:02:27+00:00",
+    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T18:00:00+00:00",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "source": "Google AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T17:00:00+00:00",
+    "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T16:16:45+00:00",
+    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
     "source": "TechCrunch AI",
     "date": "2026-11-05",
     "timestamp": "2026-11-05T15:19:05+00:00",
@@ -10,7 +82,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
     "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
     "source": "TechCrunch AI",
     "date": "2026-11-05",
@@ -28,12 +100,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
     "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
     "source": "TechCrunch AI",
     "date": "2026-11-05",
     "timestamp": "2026-11-05T13:00:00+00:00",
-    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi"
   },
   {
     "id": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
@@ -42,7 +114,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-05",
     "timestamp": "2026-11-05T12:00:00+00:00",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
   },
   {
     "id": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -51,7 +123,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-05",
     "timestamp": "2026-11-05T01:26:22+00:00",
-    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
   },
   {
     "id": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
@@ -135,15 +207,6 @@
     "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
   },
   {
-    "id": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T18:44:57+00:00",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
-  },
-  {
     "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -151,51 +214,6 @@
     "date": "2026-11-04",
     "timestamp": "2026-11-04T17:50:10+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T16:51:35+00:00",
-    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T16:17:22+00:00",
-    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T13:00:00+00:00",
-    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T22:41:03+00:00",
-    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T22:19:53+00:00",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
   },
   {
     "id": "https://huggingface.co/blog/allenai/statebench",
@@ -241,15 +259,6 @@
     "date": "2026-11-02",
     "timestamp": "2026-11-02T17:45:00+00:00",
     "summary": "Animated carousel of images from AI posts in October"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "title": "nemotron-halloween",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "source": "Hugging Face",
-    "date": "2026-10-30",
-    "timestamp": "2026-10-30T17:57:24+00:00",
-    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -321,24 +330,6 @@
     "source": "Hugging Face",
     "date": "2026-10-22",
     "timestamp": "2026-10-22T22:24:34+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T17:35:36+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "source": "Hugging Face",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T16:04:43+00:00",
     "summary": ""
   }
 ]

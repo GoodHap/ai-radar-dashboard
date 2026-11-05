@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T15:20:34.570470+00:00",
+  "last_updated": "2026-11-05T21:53:57.717227+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "ERNIE-5.5-Flash-Base",
+      "company": "baidu",
       "type": "Open Source",
       "score": 83.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
-      "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
-      "type": "Open Source",
-      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "TwIL-8B",
       "company": "webAI-Official",
       "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "LFM3-1.7B-Uncensored-GGUF",
+      "company": "AtomicChat",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
+      "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-Qwenputer",
-      "company": "divagr1925",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
