@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/",
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infra",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T15:19:05+00:00",
+    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T14:42:00+00:00",
+    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T14:00:00+00:00",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T13:00:00+00:00",
+    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T12:00:00+00:00",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
     "title": "Apple is reportedly cutting budgets for its internal AI usage",
     "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -16,6 +61,15 @@
     "date": "2026-11-05",
     "timestamp": "2026-11-05T01:02:14+00:00",
     "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
+  },
+  {
+    "id": "https://huggingface.co/blog/phonon-tts",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "source": "Hugging Face",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -144,42 +198,6 @@
     "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
   },
   {
-    "id": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T21:43:08+00:00",
-    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T21:05:55+00:00",
-    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T19:34:43+00:00",
-    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T18:42:16+00:00",
-    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
-  },
-  {
     "id": "https://huggingface.co/blog/allenai/statebench",
     "title": "StateBench: Testing how language models track state changes over long documents",
     "link": "https://huggingface.co/blog/allenai/statebench",
@@ -187,15 +205,6 @@
     "date": "2026-11-03",
     "timestamp": "2026-11-03T17:15:21+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "title": "Anthropic is still grappling with the economics of compute",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T17:07:01+00:00",
-    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",

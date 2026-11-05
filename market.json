@@ -2,18 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
-      "date": "2026-11-03",
-      "company": "Ted",
-      "amount": "$490M",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+      "date": "2026-11-05",
+      "company": "Dropbox",
+      "amount": "$350M",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infra",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infra/"
     },
     {
-      "date": "2026-11-03",
-      "company": "AI",
-      "amount": "$16B",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      "date": "2026-11-05",
+      "company": "A",
+      "amount": "$1M",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     }
   ]
 }
