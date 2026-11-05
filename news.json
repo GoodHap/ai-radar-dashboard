@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T01:26:22+00:00",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T01:02:14+00:00",
+    "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
     "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -189,24 +207,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T16:30:34+00:00",
-    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T15:38:27+00:00",
-    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-  },
-  {
     "id": "https://huggingface.co/blog/cwe-bench",
     "title": "CWE-bench v2: More coverage, quality, and transparency",
     "link": "https://huggingface.co/blog/cwe-bench",
@@ -331,14 +331,5 @@
     "date": "2026-10-21",
     "timestamp": "2026-10-21T16:04:43+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "source": "Google AI",
-    "date": "2026-10-21",
-    "timestamp": "2026-10-21T04:00:00+00:00",
-    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature "
   }
 ]

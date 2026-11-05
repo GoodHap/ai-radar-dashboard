@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T23:31:44.384669+00:00",
+  "last_updated": "2026-11-05T06:23:09.833917+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,29 +59,29 @@
       "trend": "flat"
     },
     {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "Clover-35B-A3B-Preview",
+      "company": "Diffuspace",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "LFM3-1.7B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
