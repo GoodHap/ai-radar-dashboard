@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05",
+    "timestamp": "2026-11-05T22:40:55+00:00",
+    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "title": "Meta says US users can now video chat with their Muse AI avatar",
     "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
@@ -42,7 +51,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-05",
     "timestamp": "2026-11-05T18:02:27+00:00",
-    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma"
   },
   {
     "id": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
@@ -196,15 +205,6 @@
     "date": "2026-11-04",
     "timestamp": "2026-11-04T19:30:04+00:00",
     "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T19:29:52+00:00",
-    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
