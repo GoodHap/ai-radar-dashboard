@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-11-06",
+      "company": "OpenAI",
+      "amount": "$11 BILLION",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "date": "2026-11-06",
       "company": "Physicl",
       "amount": "$10M",
       "title": "Physicl raises $10M to make the digital world real enough for robots",
@@ -21,13 +28,6 @@
       "amount": "$350M",
       "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
       "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    },
-    {
-      "date": "2026-11-05",
-      "company": "A",
-      "amount": "$1M",
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     }
   ]
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T22:53:46+00:00",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T18:44:38+00:00",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T18:44:20+00:00",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T18:00:00+00:00",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the "
+  },
+  {
     "id": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
     "title": "After the midterms, is the AI industry in for a rough two years?",
     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
@@ -180,42 +216,6 @@
     "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
   },
   {
-    "id": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T13:00:00+00:00",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T12:00:00+00:00",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T01:26:22+00:00",
-    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T01:02:14+00:00",
-    "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
-  },
-  {
     "id": "https://huggingface.co/blog/phonon-tts",
     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
     "link": "https://huggingface.co/blog/phonon-tts",
@@ -330,15 +330,6 @@
     "source": "Hugging Face",
     "date": "2026-10-23",
     "timestamp": "2026-10-23T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "source": "Hugging Face",
-    "date": "2026-10-22",
-    "timestamp": "2026-10-22T22:24:34+00:00",
     "summary": ""
   }
 ]
