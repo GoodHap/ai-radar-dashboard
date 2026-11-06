@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T06:28:32+00:00",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+  },
+  {
+    "id": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "source": "Hugging Face",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
@@ -196,15 +214,6 @@
     "date": "2026-11-04",
     "timestamp": "2026-11-04T21:10:56+00:00",
     "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
-  },
-  {
-    "id": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T19:30:04+00:00",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
   },
   {
     "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T02:12:10.131744+00:00",
+  "last_updated": "2026-11-06T10:41:26.956666+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "ERNIE-5.5-Flash-Base",
-      "company": "baidu",
+      "name": "TwIL-8B",
+      "company": "webAI-Official",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "TwIL-8B",
-      "company": "webAI-Official",
+      "name": "ERNIE-5.5-Flash-Base",
+      "company": "baidu",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Clover-35B-A3B-Preview",
-      "company": "Diffuspace",
+      "name": "LFM3-1.7B-GGUF",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
