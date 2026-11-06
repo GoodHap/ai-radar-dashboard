@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T17:23:52+00:00",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the "
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T15:54:47+00:00",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T14:10:00+00:00",
+    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/toyblocks",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "source": "Hugging Face",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T14:00:48+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T13:02:16+00:00",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06",
+    "timestamp": "2026-11-06T13:00:00+00:00",
+    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -171,66 +225,12 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T22:45:09+00:00",
-    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T22:13:16+00:00",
-    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T21:56:01+00:00",
-    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T21:25:44+00:00",
-    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "title": "Meta acquires AI coding startup Conductor",
-    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04",
-    "timestamp": "2026-11-04T21:10:56+00:00",
-    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
-  },
-  {
     "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "source": "Hugging Face",
     "date": "2026-11-04",
     "timestamp": "2026-11-04T17:50:10+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/statebench",
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "source": "Hugging Face",
-    "date": "2026-11-03",
-    "timestamp": "2026-11-03T17:15:21+00:00",
     "summary": ""
   },
   {
