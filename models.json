@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T22:58:29.200700+00:00",
+  "last_updated": "2026-11-07T02:42:15.726152+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "flint",
-      "company": "RecursiveSI",
+      "name": "Arete-27B",
+      "company": "NousResearch",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-GGUF",
-      "company": "LiquidAI",
+      "name": "flint",
+      "company": "RecursiveSI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
