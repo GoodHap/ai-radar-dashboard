@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T19:31:35.164654+00:00",
+  "last_updated": "2026-11-08T23:36:33.581093+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Nanbeige4.3-33B",
-      "company": "Nanbeige",
+      "name": "Qwen3.8-27B-DSpine-b16",
+      "company": "tencent",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

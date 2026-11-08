@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-08",
+    "timestamp": "2026-11-08T21:00:11+00:00",
+    "summary": "In a memo to the company, Huang admitted that he had an affair."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
     "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -205,15 +214,6 @@
     "date": "2026-11-05",
     "timestamp": "2026-11-05T17:00:00+00:00",
     "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T16:16:45+00:00",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
   },
   {
     "id": "https://huggingface.co/blog/phonon-tts",
