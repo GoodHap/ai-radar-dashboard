@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T20:46:26.733539+00:00",
+  "last_updated": "2026-11-08T00:22:42.366712+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,29 +45,29 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "TwIL-8B",
+      "company": "webAI-Official",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "TwIL-8B",
-      "company": "webAI-Official",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"

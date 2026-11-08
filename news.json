@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07",
+    "timestamp": "2026-11-07T22:07:22+00:00",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07",
+    "timestamp": "2026-11-07T21:17:08+00:00",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -196,24 +214,6 @@
     "date": "2026-11-05",
     "timestamp": "2026-11-05T16:16:45+00:00",
     "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T15:19:05+00:00",
-    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T14:42:00+00:00",
-    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
   },
   {
     "id": "https://huggingface.co/blog/phonon-tts",
