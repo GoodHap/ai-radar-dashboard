@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T00:22:42.366712+00:00",
+  "last_updated": "2026-11-08T07:08:37.934100+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,22 +38,22 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
+      "name": "Arete-27B",
+      "company": "NousResearch",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "Arete-27B",
-      "company": "NousResearch",
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "Nanbeige4.3-33B",
+      "company": "Nanbeige",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
