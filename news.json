@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "Hugging Face",
+    "date": "2026-11-09",
+    "timestamp": "2026-11-09T15:05:57+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09",
+    "timestamp": "2026-11-09T14:00:00+00:00",
+    "summary": "Automattic aims to compete with likes of Lovable with Spacefast"
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "source": "Hugging Face",
+    "date": "2026-11-09",
+    "timestamp": "2026-11-09T12:34:29+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
     "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
     "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
@@ -171,15 +198,6 @@
     "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "source": "Hugging Face",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T19:35:16+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "title": "Meta warns that election backlash against data centers could make AI expansion harder",
     "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
@@ -196,15 +214,6 @@
     "date": "2026-11-05",
     "timestamp": "2026-11-05T19:06:12+00:00",
     "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T18:02:27+00:00",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma"
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
