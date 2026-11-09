@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T23:36:33.581093+00:00",
+  "last_updated": "2026-11-09T05:57:04.567741+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "TwIL-8B",
+      "company": "webAI-Official",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "TwIL-8B",
-      "company": "webAI-Official",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "LFM3-1.7B",
       "company": "LiquidAI",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "ERNIE-5.5-Flash-Base",
       "company": "baidu",
       "type": "Open Source",
-      "score": 82.0,
-      "trend": "flat"
-    },
-    {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
-      "type": "Open Source",
       "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
-      "company": "OBLITERATUS",
-      "type": "Open Source",
-      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-DSpine-b16",
       "company": "tencent",
+      "type": "Open Source",
+      "score": 81.0,
+      "trend": "flat"
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash-1017-obliterated",
+      "company": "OBLITERATUS",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
