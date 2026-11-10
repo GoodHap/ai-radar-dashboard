@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T07:00:00+00:00",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T01:27:12+00:00",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
     "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
     "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
@@ -178,24 +196,6 @@
     "date": "2026-11-06",
     "timestamp": "2026-11-06T18:44:38+00:00",
     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-06",
-    "timestamp": "2026-11-06T18:44:20+00:00",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-06",
-    "timestamp": "2026-11-06T18:00:00+00:00",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the "
   },
   {
     "id": "https://huggingface.co/blog/allenai/toyblocks",
