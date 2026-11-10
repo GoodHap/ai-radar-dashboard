@@ -2,25 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-09",
+      "company": "Anthropic",
+      "amount": "$3.4B",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    },
+    {
       "date": "2026-11-06",
       "company": "OpenAI",
       "amount": "$11 BILLION",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-    },
-    {
-      "date": "2026-11-06",
-      "company": "Physicl",
-      "amount": "$10M",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-    },
-    {
-      "date": "2026-11-06",
-      "company": "Palo",
-      "amount": "$500M",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     }
   ]
 }
