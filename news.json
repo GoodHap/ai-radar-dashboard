@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T21:08:52+00:00",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T20:52:13+00:00",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T19:57:52+00:00",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T19:23:34+00:00",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T19:03:52+00:00",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "source": "Google AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T19:00:00+00:00",
+    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T18:49:52+00:00",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T17:30:00+00:00",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such "
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T17:04:19+00:00",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
     "title": "Google broadens its AI hardware portfolio with two new specialized chips",
     "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
@@ -45,6 +126,15 @@
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp\" />Google and Adobe are integrating creative and productivity tools. Edit PDFs"
   },
   {
+    "id": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T14:00:00+00:00",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
     "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
     "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
@@ -54,13 +144,13 @@
     "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
   },
   {
-    "id": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "id": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
     "source": "TechCrunch AI",
     "date": "2026-11-10",
-    "timestamp": "2026-11-10T14:00:00+00:00",
-    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+    "timestamp": "2026-11-10T13:30:00+00:00",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
   },
   {
     "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
@@ -73,12 +163,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
     "source": "TechCrunch AI",
     "date": "2026-11-10",
     "timestamp": "2026-11-10T13:00:00+00:00",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities v"
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities v"
   },
   {
     "id": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
@@ -97,6 +187,15 @@
     "date": "2026-11-10",
     "timestamp": "2026-11-10T01:27:12+00:00",
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+  },
+  {
+    "id": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "source": "Hugging Face",
+    "date": "2026-11-10",
+    "timestamp": "2026-11-10T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/decision",
@@ -126,69 +225,6 @@
     "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
   },
   {
-    "id": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "title": "The race is on to sue Nvidia",
-    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T22:23:42+00:00",
-    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insiste"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T20:09:06+00:00",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T19:24:51+00:00",
-    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T18:09:52+00:00",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T18:00:00+00:00",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T16:56:54+00:00",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T16:12:28+00:00",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
-  },
-  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -198,15 +234,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T14:00:00+00:00",
-    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
-  },
-  {
     "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
@@ -214,15 +241,6 @@
     "date": "2026-11-09",
     "timestamp": "2026-11-09T12:34:29+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T05:26:29+00:00",
-    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
   },
   {
     "id": "https://huggingface.co/blog/allenai/toyblocks",

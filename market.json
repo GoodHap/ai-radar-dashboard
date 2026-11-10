@@ -2,11 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
-      "date": "2026-11-09",
-      "company": "Anthropic",
-      "amount": "$3.4B",
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+      "date": "2026-11-10",
+      "company": "All",
+      "amount": "$250M",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+      "date": "2026-11-10",
+      "company": "Oura",
+      "amount": "$625M",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
     }
   ]
 }
