@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T08:13:56.999150+00:00",
+  "last_updated": "2026-11-10T16:57:15.837368+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,29 +59,29 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
-      "type": "Open Source",
-      "score": 83.0,
-      "trend": "flat"
-    },
-    {
       "name": "ERNIE-5.5-Flash-Base",
       "company": "baidu",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.5-4B-GLB-3D-Coder",
       "company": "ccore",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-DSpine-b16",
       "company": "tencent",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Hydrogen-1.0",
-      "company": "deep-principle",
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
