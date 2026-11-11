@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T22:16:47.100889+00:00",
+  "last_updated": "2026-11-11T02:40:42.279541+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,22 +59,22 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "Qwen3.8-27B-DSpine-b16",
+      "company": "tencent",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DSpine-b16",
-      "company": "tencent",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
