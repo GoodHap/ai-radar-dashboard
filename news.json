@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "source": "Google AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T09:00:00+00:00",
+    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T07:30:51+00:00",
+    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+  },
+  {
+    "id": "https://huggingface.co/blog/qvac/botpsy",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "source": "Hugging Face",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T05:01:16+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -214,15 +241,6 @@
     "date": "2026-11-09",
     "timestamp": "2026-11-09T23:28:37+00:00",
     "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T22:46:09+00:00",
-    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",

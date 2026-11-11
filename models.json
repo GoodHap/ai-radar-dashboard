@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T02:40:42.279541+00:00",
+  "last_updated": "2026-11-11T10:39:54.142762+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
