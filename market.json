@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-11",
+      "company": "OpenAI’s",
+      "amount": "$10B",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
       "date": "2026-11-10",
       "company": "All",
       "amount": "$250M",

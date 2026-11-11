@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Google AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T18:00:00+00:00",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T16:16:07+00:00",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T16:14:44+00:00",
+    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "Google AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T16:00:00+00:00",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp\" />Tabletop is a new Google Labs experiment for group collaborati"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T15:00:00+00:00",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks'"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T14:00:00+00:00",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+  },
+  {
     "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
@@ -24,6 +78,15 @@
     "source": "Hugging Face",
     "date": "2026-11-11",
     "timestamp": "2026-11-11T05:01:16+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/token-pooling",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face",
+    "date": "2026-11-11",
+    "timestamp": "2026-11-11T00:00:00+00:00",
     "summary": ""
   },
   {
@@ -189,33 +252,6 @@
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\" />Google Cloud launches Gemini for healthcare to unify clinical data and au"
   },
   {
-    "id": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T13:00:00+00:00",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities v"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T07:00:00+00:00",
-    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T01:27:12+00:00",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
-  },
-  {
     "id": "https://huggingface.co/blog/hub-gcp-marketplace",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -232,15 +268,6 @@
     "date": "2026-11-10",
     "timestamp": "2026-11-10T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T23:28:37+00:00",
-    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -375,15 +402,6 @@
     "source": "Hugging Face",
     "date": "2026-10-29",
     "timestamp": "2026-10-29T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "title": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "source": "Hugging Face",
-    "date": "2026-10-27",
-    "timestamp": "2026-10-27T17:16:52+00:00",
     "summary": ""
   }
 ]
