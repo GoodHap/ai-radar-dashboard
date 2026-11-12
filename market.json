@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-11-11",
+      "company": "With",
+      "amount": "$720M",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    },
+    {
+      "date": "2026-11-11",
       "company": "OpenAI’s",
       "amount": "$10B",
       "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
