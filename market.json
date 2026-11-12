@@ -2,32 +2,32 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-12",
+      "company": "Hugging",
+      "amount": "$12.9B",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "SoftBank’s",
+      "amount": "$3 BILLION",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+    },
+    {
+      "date": "2026-11-12",
+      "company": "Norwest",
+      "amount": "$4B",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+    },
+    {
       "date": "2026-11-11",
       "company": "With",
       "amount": "$720M",
       "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
       "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "OpenAI’s",
-      "amount": "$10B",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "All",
-      "amount": "$250M",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-    },
-    {
-      "date": "2026-11-10",
-      "company": "Oura",
-      "amount": "$625M",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
     }
   ]
 }
