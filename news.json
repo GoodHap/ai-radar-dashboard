@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T16:00:12+00:00",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T15:58:00+00:00",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T14:44:48+00:00",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+  },
+  {
+    "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T14:05:22+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T12:52:19+00:00",
+    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T12:28:23+00:00",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
     "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -16,15 +70,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T22:22:28+00:00",
     "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T21:35:00+00:00",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
   },
   {
     "id": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
@@ -160,42 +205,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T15:37:29+00:00",
     "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T15:18:14+00:00",
-    "summary": "This is the investment firm's largest fund to date."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T15:02:28+00:00",
-    "summary": "This is Fireworks' second data breach in as many months."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T13:26:25+00:00",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T03:13:10+00:00",
-    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
   },
   {
     "id": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -394,14 +403,5 @@
     "date": "2026-11-02",
     "timestamp": "2026-11-02T17:45:00+00:00",
     "summary": "Animated carousel of images from AI posts in October"
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "source": "Hugging Face",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T13:37:07+00:00",
-    "summary": ""
   }
 ]
