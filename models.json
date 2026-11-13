@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T00:04:25.652575+00:00",
+  "last_updated": "2026-11-13T07:46:19.002130+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-GLB-3D-Coder",
-      "company": "ccore",
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "MNN-Pocket-0.3B",
-      "company": "taobao-mnn",
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
