@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T19:37:57+00:00",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T18:40:30+00:00",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "Hugging Face",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T18:00:39+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/xybench",
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "source": "Hugging Face",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T17:02:35+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -189,24 +225,6 @@
     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
   },
   {
-    "id": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T16:12:44+00:00",
-    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T15:37:29+00:00",
-    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
-  },
-  {
     "id": "https://huggingface.co/blog/3d-lora-finetuning",
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -306,30 +324,12 @@
     "summary": ""
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "source": "Hugging Face",
-    "date": "2026-11-09",
-    "timestamp": "2026-11-09T15:05:57+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "source": "Hugging Face",
     "date": "2026-11-09",
     "timestamp": "2026-11-09T12:34:29+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/toyblocks",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "source": "Hugging Face",
-    "date": "2026-11-06",
-    "timestamp": "2026-11-06T14:00:48+00:00",
     "summary": ""
   },
   {

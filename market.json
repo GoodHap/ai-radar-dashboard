@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-13",
+      "company": "AI",
+      "amount": "$3B",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
       "date": "2026-11-12",
       "company": "Nebius",
       "amount": "$40 BILLION",
