@@ -3,9 +3,16 @@
   "funding_events": [
     {
       "date": "2026-11-12",
+      "company": "Nebius",
+      "amount": "$40 BILLION",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    },
+    {
+      "date": "2026-11-12",
       "company": "Hugging",
-      "amount": "$12.9B",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+      "amount": "$12.9 BILLION",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
       "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
     },
     {
@@ -21,13 +28,6 @@
       "amount": "$4B",
       "title": "Norwest pushes deeper into AI with new $4B fund",
       "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
-    },
-    {
-      "date": "2026-11-11",
-      "company": "With",
-      "amount": "$720M",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
     }
   ]
 }

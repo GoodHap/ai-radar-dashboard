@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T22:42:51+00:00",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T22:22:28+00:00",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T21:35:00+00:00",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T21:27:10+00:00",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T20:26:47+00:00",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T19:27:45+00:00",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T19:11:00+00:00",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "Hugging Face",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T19:07:35+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T18:39:23+00:00",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n"
+  },
+  {
     "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -10,12 +91,21 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
     "source": "TechCrunch AI",
     "date": "2026-11-12",
     "timestamp": "2026-11-12T17:36:40+00:00",
-    "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition."
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12",
+    "timestamp": "2026-11-12T17:17:58+00:00",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
   },
   {
     "id": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
@@ -24,7 +114,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-12",
     "timestamp": "2026-11-12T17:00:52+00:00",
-    "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
   },
   {
     "id": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
@@ -90,15 +180,6 @@
     "summary": "This is Fireworks' second data breach in as many months."
   },
   {
-    "id": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T14:30:01+00:00",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
     "id": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
     "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
     "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
@@ -124,78 +205,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T23:28:45+00:00",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T23:17:05+00:00",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
-  },
-  {
-    "id": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T20:15:15+00:00",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into pla"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "title": "Meta is losing its longtime head of  infrastructure",
-    "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T20:12:01+00:00",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
-  },
-  {
-    "id": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T20:02:14+00:00",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into pla"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T19:54:00+00:00",
-    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T19:34:55+00:00",
-    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T19:22:22+00:00",
-    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -393,33 +402,6 @@
     "source": "Hugging Face",
     "date": "2026-10-29",
     "timestamp": "2026-10-29T13:37:07+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/announcing-project-protostar",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "source": "Hugging Face",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/mistral-large4",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "link": "https://huggingface.co/blog/mistral-large4",
-    "source": "Hugging Face",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/anydecisionmodel",
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "link": "https://huggingface.co/blog/anydecisionmodel",
-    "source": "Hugging Face",
-    "date": "2026-10-29",
-    "timestamp": "2026-10-29T00:00:00+00:00",
     "summary": ""
   }
 ]
