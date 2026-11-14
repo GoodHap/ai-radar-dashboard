@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T03:01:18.379420+00:00",
-  "total_tracked": 124,
+  "last_updated": "2026-11-14T11:21:02.605258+00:00",
+  "total_tracked": 134,
   "leaderboard": [
     {
       "name": "GPT-5.6 Sol",
@@ -29,6 +29,76 @@
       "type": "Proprietary",
       "score": 89.5,
       "trend": "up"
+    },
+    {
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "company": "xtools-at",
+      "type": "Open Source",
+      "score": 85.0,
+      "trend": "up"
+    },
+    {
+      "name": "Arete-27B",
+      "company": "NousResearch",
+      "type": "Open Source",
+      "score": 84.5,
+      "trend": "up"
+    },
+    {
+      "name": "Qwen3.8-27B-DSpine-b16",
+      "company": "tencent",
+      "type": "Open Source",
+      "score": 84.0,
+      "trend": "up"
+    },
+    {
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
+      "type": "Open Source",
+      "score": 83.0,
+      "trend": "flat"
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
+      "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "TwIL-8B",
+      "company": "webAI-Official",
+      "type": "Open Source",
+      "score": 81.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Qwen3.5-4B-GLB-3D-Coder",
+      "company": "ccore",
+      "type": "Open Source",
+      "score": 80.5,
+      "trend": "flat"
     }
   ]
 }
