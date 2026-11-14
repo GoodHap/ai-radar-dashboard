@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13",
+    "timestamp": "2026-11-13T22:43:00+00:00",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "title": "AI agent startup LangChain hits $3B valuation",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -214,15 +223,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T16:36:37+00:00",
     "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T16:32:33+00:00",
-    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
   },
   {
     "id": "https://huggingface.co/blog/3d-lora-finetuning",
