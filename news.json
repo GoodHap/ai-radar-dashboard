@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14",
+    "timestamp": "2026-11-14T21:41:22+00:00",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -214,15 +223,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T17:17:58+00:00",
     "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T17:00:52+00:00",
-    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
   },
   {
     "id": "https://huggingface.co/blog/3d-lora-finetuning",

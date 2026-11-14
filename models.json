@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T17:54:06.861698+00:00",
+  "last_updated": "2026-11-14T22:14:41.796628+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -73,15 +73,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "MNN-Pocket-0.3B",
-      "company": "taobao-mnn",
+      "name": "GLM-5.3-SLIM-GGUF",
+      "company": "Scantist",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
