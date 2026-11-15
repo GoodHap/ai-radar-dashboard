@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T21:56:35+00:00",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15",
+    "timestamp": "2026-11-15T20:20:57+00:00",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "title": "Where was Nvidia’s security team?",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -198,15 +216,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T18:39:23+00:00",
-    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n"
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
@@ -214,15 +223,6 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T18:00:00+00:00",
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T17:36:40+00:00",
-    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
   },
   {
     "id": "https://huggingface.co/blog/3d-lora-finetuning",

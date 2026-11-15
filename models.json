@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T17:38:41.776749+00:00",
+  "last_updated": "2026-11-15T22:42:57.645714+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DSpine-b16",
-      "company": "tencent",
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "MNN-Pocket-0.3B",
-      "company": "taobao-mnn",
+      "name": "Qwen3.8-27B-DSpine-b16",
+      "company": "tencent",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3-SLIM-GGUF",
-      "company": "Scantist",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
