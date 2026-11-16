@@ -2,25 +2,18 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-16",
+      "company": "Freshworks",
+      "amount": "$53M",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+    },
+    {
       "date": "2026-11-15",
       "company": "Indian",
       "amount": "$24M",
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-    },
-    {
-      "date": "2026-11-13",
-      "company": "AI",
-      "amount": "$3B",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-    },
-    {
-      "date": "2026-11-12",
-      "company": "Nebius",
-      "amount": "$40 BILLION",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
     }
   ]
 }
