@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T02:40:10.867072+00:00",
+  "last_updated": "2026-11-16T10:56:08.197609+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,15 +38,15 @@
       "trend": "up"
     },
     {
-      "name": "Arete-27B",
-      "company": "NousResearch",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "Arete-27B",
+      "company": "NousResearch",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
-      "type": "Open Source",
-      "score": 83.0,
-      "trend": "flat"
-    },
-    {
       "name": "MNN-Pocket-0.3B",
       "company": "taobao-mnn",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Qwen3.8-27B-DSpine-b16",
       "company": "tencent",
       "type": "Open Source",
-      "score": 82.0,
-      "trend": "flat"
-    },
-    {
-      "name": "TwIL-8B",
-      "company": "webAI-Official",
-      "type": "Open Source",
-      "score": 81.5,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Qwen3.5-4B-GLB-3D-Coder",
       "company": "ccore",
       "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "company": "AtomicChat",
+      "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "TwIL-8B",
+      "company": "webAI-Official",
+      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
