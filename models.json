@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T13:02:08.636399+00:00",
+  "last_updated": "2026-11-17T22:09:38.480682+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "Maxwell-V1-Flash",
+      "company": "maxwell-model",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Maxwell-V1-Flash",
-      "company": "maxwell-model",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -73,29 +73,29 @@
       "trend": "flat"
     },
     {
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
       "name": "Llama-3.1-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "GLM-5.3",
       "company": "zai-org",
       "type": "Open Source",
-      "score": 81.5,
-      "trend": "flat"
-    },
-    {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
-      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

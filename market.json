@@ -2,25 +2,46 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-17",
+      "company": "Model",
+      "amount": "$250M",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Pedestal",
+      "amount": "$4.7 MILLION",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Voyage",
+      "amount": "$12 MILLION",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Isomorphic",
+      "amount": "$5B",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "date": "2026-11-17",
+      "company": "Science",
+      "amount": "$3.5 BILLION",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
       "date": "2026-11-16",
       "company": "Cybersecurity",
       "amount": "$1B",
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "Freshworks",
-      "amount": "$53M",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
-    },
-    {
-      "date": "2026-11-15",
-      "company": "Indian",
-      "amount": "$24M",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
     }
   ]
 }
