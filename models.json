@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T20:54:40.036546+00:00",
+  "last_updated": "2026-11-17T03:39:27.650901+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "ERNIE-5.5-Flash-Base",
+      "company": "baidu",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "MNN-Pocket-0.3B",
+      "company": "taobao-mnn",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "KLM-1.6",
-      "company": "MinimaLabs",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
+      "company": "xtools-at",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Edge0-145B-q3k",
-      "company": "Edge0",
+      "name": "DeepSeek-V4.1-Flash-1017-uncensored",
+      "company": "MoonMath-ai",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "MNN-Pocket-0.3B",
-      "company": "taobao-mnn",
+      "name": "Qwen3.8-27B-DSpine-b16",
+      "company": "tencent",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

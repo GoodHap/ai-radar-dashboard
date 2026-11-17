@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-11-16",
+      "company": "Cybersecurity",
+      "amount": "$1B",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    },
+    {
+      "date": "2026-11-16",
       "company": "Freshworks",
       "amount": "$53M",
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",

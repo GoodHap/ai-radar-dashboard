@@ -1,12 +1,30 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16",
+    "timestamp": "2026-11-16T23:32:32+00:00",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16",
+    "timestamp": "2026-11-16T22:03:02+00:00",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, "
+  },
+  {
     "id": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "title": "California state AG sues OpenAI over rogue agent incidents",
     "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "source": "TechCrunch AI",
     "date": "2026-11-16",
     "timestamp": "2026-11-16T20:07:13+00:00",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident"
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
   },
   {
     "id": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
@@ -19,7 +37,7 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
     "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
     "source": "TechCrunch AI",
     "date": "2026-11-16",
@@ -28,12 +46,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
     "source": "TechCrunch AI",
     "date": "2026-11-16",
     "timestamp": "2026-11-16T17:36:43+00:00",
-    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
   },
   {
     "id": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
@@ -60,7 +78,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-16",
     "timestamp": "2026-11-16T17:00:00+00:00",
-    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning"
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
   },
   {
     "id": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
@@ -114,7 +132,7 @@
     "source": "TechCrunch AI",
     "date": "2026-11-16",
     "timestamp": "2026-11-16T01:30:00+00:00",
-    "summary": "Apple's new app for a study will answer everyday medical questions"
+    "summary": "Apple's new app for a study will answer everyday medical questions."
   },
   {
     "id": "https://huggingface.co/blog/openrouter",
@@ -178,24 +196,6 @@
     "date": "2026-11-14",
     "timestamp": "2026-11-14T17:30:00+00:00",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14",
-    "timestamp": "2026-11-14T16:34:15+00:00",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13",
-    "timestamp": "2026-11-13T22:43:00+00:00",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
