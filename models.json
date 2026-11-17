@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T03:39:27.650901+00:00",
+  "last_updated": "2026-11-17T13:02:08.636399+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,71 +31,71 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 85.0,
+      "trend": "up"
+    },
+    {
+      "name": "Maxwell-V1-Flash",
+      "company": "maxwell-model",
+      "type": "Open Source",
+      "score": 84.5,
       "trend": "up"
     },
     {
       "name": "Arete-27B",
       "company": "NousResearch",
       "type": "Open Source",
-      "score": 84.5,
-      "trend": "up"
-    },
-    {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
-      "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "company": "AtomicChat",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "company": "xtools-at",
       "type": "Open Source",
       "score": 83.5,
-      "trend": "flat"
-    },
-    {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
-      "type": "Open Source",
-      "score": 83.0,
-      "trend": "flat"
-    },
-    {
-      "name": "ERNIE-5.5-Flash-Base",
-      "company": "baidu",
-      "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "MNN-Pocket-0.3B",
-      "company": "taobao-mnn",
-      "type": "Open Source",
-      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
       "company": "xtools-at",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "DeepSeek-V4.1-Flash-1017-uncensored",
       "company": "MoonMath-ai",
       "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
+      "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "GLM-5.3",
+      "company": "zai-org",
+      "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
+      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-DSpine-b16",
-      "company": "tencent",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
