@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T13:46:35.103701+00:00",
+  "last_updated": "2026-11-18T21:47:05.984882+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,15 +66,15 @@
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "Llama-3.1-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "WVY-Blender-5m",
+      "company": "StarpowerTechnology",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "WVY-Blender-5m",
-      "company": "StarpowerTechnology",
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
