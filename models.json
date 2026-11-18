@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T04:07:41.155262+00:00",
+  "last_updated": "2026-11-18T13:46:35.103701+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,15 +45,15 @@
       "trend": "up"
     },
     {
-      "name": "Arete-27B",
-      "company": "NousResearch",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Arete-27B",
+      "company": "NousResearch",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
-      "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "DeepSeek-V4.1-Flash-1017-uncensored",
-      "company": "MoonMath-ai",
-      "type": "Open Source",
-      "score": 82.0,
-      "trend": "flat"
-    },
-    {
       "name": "Llama-3.1-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Raon-1-nano",
       "company": "KRAFTON",
       "type": "Open Source",
-      "score": 81.0,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "Meta-Llama-3-8B-Instruct",
       "company": "meta-llama",
+      "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "Ternary-Bonsai-2-27B-gguf",
+      "company": "prism-ml",
+      "type": "Open Source",
+      "score": 81.0,
+      "trend": "flat"
+    },
+    {
+      "name": "WVY-Blender-5m",
+      "company": "StarpowerTechnology",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
