@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-18",
+      "company": "Nvidia’s",
+      "amount": "$65B",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    },
+    {
       "date": "2026-11-17",
       "company": "Model",
       "amount": "$250M",
@@ -35,13 +42,6 @@
       "amount": "$3.5 BILLION",
       "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
       "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
-    },
-    {
-      "date": "2026-11-16",
-      "company": "Cybersecurity",
-      "amount": "$1B",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
     }
   ]
 }

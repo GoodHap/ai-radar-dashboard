@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:09:38.480682+00:00",
+  "last_updated": "2026-11-18T04:07:41.155262+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,29 +52,29 @@
       "trend": "up"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
       "company": "xtools-at",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "company": "xtools-at",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4.1-Flash-1017-uncensored",
-      "company": "MoonMath-ai",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "DeepSeek-V4.1-Flash-1017-uncensored",
+      "company": "MoonMath-ai",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "GLM-5.3",
-      "company": "zai-org",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
