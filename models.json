@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T03:07:46.933259+00:00",
+  "last_updated": "2026-11-19T12:47:09.329091+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
-      "company": "nvidia",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Llama-3.1-8B-Instruct",
-      "company": "meta-llama",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Edge0-145B-q3k",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "WVY-Blender-5m",
-      "company": "StarpowerTechnology",
+      "name": "Aion-1.0-Instruct-2.3B",
+      "company": "microsoft",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
