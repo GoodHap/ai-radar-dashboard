@@ -2,25 +2,25 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
-      "date": "2026-11-18",
-      "company": "Felicis",
-      "amount": "$7.5M",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+      "date": "2026-11-19",
+      "company": "Anthropic’s",
+      "amount": "$156 BILLION",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
     },
     {
-      "date": "2026-11-18",
-      "company": "India’s",
-      "amount": "$47M",
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+      "date": "2026-11-19",
+      "company": "Former",
+      "amount": "$48.5M",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
     },
     {
-      "date": "2026-11-18",
-      "company": "Nvidia’s",
-      "amount": "$65B",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+      "date": "2026-11-19",
+      "company": "Anthropic",
+      "amount": "$80 BILLION",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
     }
   ]
 }
