@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T21:20:06.683020+00:00",
+  "last_updated": "2026-11-20T02:57:28.758695+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "company": "xtools-at",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,15 +80,15 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Edge0-145B-q3k",
-      "company": "Edge0",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
