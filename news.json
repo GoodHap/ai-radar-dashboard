@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T19:53:41+00:00",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T19:32:08+00:00",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "title": "Chips can survive the space environment — can their financing?",
+    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T17:40:01+00:00",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+  },
+  {
+    "id": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T14:55:44+00:00",
+    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T14:00:00+00:00",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -16,6 +61,15 @@
     "date": "2026-11-20",
     "timestamp": "2026-11-20T00:43:50+00:00",
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "Hugging Face",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
@@ -151,51 +205,6 @@
     "date": "2026-11-18",
     "timestamp": "2026-11-18T23:45:00+00:00",
     "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18",
-    "timestamp": "2026-11-18T23:25:17+00:00",
-    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18",
-    "timestamp": "2026-11-18T23:17:28+00:00",
-    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18",
-    "timestamp": "2026-11-18T22:58:11+00:00",
-    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18",
-    "timestamp": "2026-11-18T22:11:15+00:00",
-    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18",
-    "timestamp": "2026-11-18T21:57:40+00:00",
-    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
   },
   {
     "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -439,14 +448,5 @@
     "date": "2026-11-06",
     "timestamp": "2026-11-06T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "source": "Google AI",
-    "date": "2026-11-05",
-    "timestamp": "2026-11-05T17:00:00+00:00",
-    "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
   }
 ]
