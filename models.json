@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T09:33:18.541242+00:00",
+  "last_updated": "2026-11-21T17:18:05.173251+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "Maxwell-V1-Flash",
+      "company": "maxwell-model",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Maxwell-V1-Flash",
-      "company": "maxwell-model",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -59,43 +59,43 @@
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Olala-v1.0-mini-7A1B-GGUF",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B-GGUF",
-      "company": "OVHaiLLM",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2-27B-gguf",
-      "company": "prism-ml",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Qwen3.8-27B-NVFP4-QAD",
-      "company": "nvidia",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "company": "xtools-at",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
