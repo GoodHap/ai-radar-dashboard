@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T19:56:37.924274+00:00",
+  "last_updated": "2026-11-21T01:21:07.268380+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
+      "type": "Open Source",
+      "score": 82.5,
+      "trend": "flat"
+    },
+    {
       "name": "Arete-27B",
       "company": "NousResearch",
       "type": "Open Source",
-      "score": 82.5,
+      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "Aion-1.0-Instruct-2.3B",
       "company": "microsoft",
       "type": "Open Source",
-      "score": 82.0,
+      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
       "company": "nvidia",
       "type": "Open Source",
-      "score": 81.5,
+      "score": 81.0,
       "trend": "flat"
     },
     {
       "name": "LFM3-1.7B",
       "company": "LiquidAI",
-      "type": "Open Source",
-      "score": 81.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

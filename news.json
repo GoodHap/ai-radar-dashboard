@@ -10,12 +10,12 @@
   },
   {
     "id": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "source": "TechCrunch AI",
     "date": "2026-11-20",
     "timestamp": "2026-11-20T19:32:08+00:00",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
   },
   {
     "id": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
@@ -61,6 +61,15 @@
     "date": "2026-11-20",
     "timestamp": "2026-11-20T00:43:50+00:00",
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "id": "https://huggingface.co/blog/inkling2mini",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "source": "Hugging Face",
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -438,15 +447,6 @@
     "source": "Hugging Face",
     "date": "2026-11-09",
     "timestamp": "2026-11-09T12:34:29+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "source": "Hugging Face",
-    "date": "2026-11-06",
-    "timestamp": "2026-11-06T00:00:00+00:00",
     "summary": ""
   }
 ]
