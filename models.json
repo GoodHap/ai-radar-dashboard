@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T03:01:36.411047+00:00",
+  "last_updated": "2026-11-22T12:27:03.253555+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,8 +45,8 @@
       "trend": "up"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -59,15 +59,15 @@
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -94,8 +94,8 @@
       "trend": "flat"
     },
     {
-      "name": "Arete-27B",
-      "company": "NousResearch",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
