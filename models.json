@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T12:27:03.253555+00:00",
+  "last_updated": "2026-11-22T20:16:35.527512+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "company": "xtools-at",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

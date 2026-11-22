@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-22",
+    "timestamp": "2026-11-22T18:08:43+00:00",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -205,15 +214,6 @@
     "date": "2026-11-19",
     "timestamp": "2026-11-19T16:59:23+00:00",
     "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T16:19:41+00:00",
-    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
   },
   {
     "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
