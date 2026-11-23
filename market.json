@@ -2,25 +2,25 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
-      "date": "2026-11-20",
-      "company": "Anthropic’s",
-      "amount": "$2B",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      "date": "2026-11-23",
+      "company": "Supertake",
+      "amount": "$20M",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
     },
     {
-      "date": "2026-11-19",
-      "company": "Meta’s",
-      "amount": "$300 M",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+      "date": "2026-11-23",
+      "company": "Amazon",
+      "amount": "$7.5B",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
     },
     {
-      "date": "2026-11-19",
-      "company": "Anthropic’s",
-      "amount": "$156B",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+      "date": "2026-11-23",
+      "company": "Sierra",
+      "amount": "$30B",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
     }
   ]
 }

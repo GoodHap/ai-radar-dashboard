@@ -1,5 +1,140 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T22:05:50+00:00",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T22:02:05+00:00",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T21:47:41+00:00",
+    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T21:25:42+00:00",
+    "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T20:38:53+00:00",
+    "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T19:14:46+00:00",
+    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T18:12:22+00:00",
+    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/robotrack",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "source": "Hugging Face",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T17:20:37+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T17:14:23+00:00",
+    "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "source": "Google AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T17:00:00+00:00",
+    "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "title": "Jensen Huang isn’t out of the woods yet",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T16:57:40+00:00",
+    "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T16:39:10+00:00",
+    "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T15:04:01+00:00",
+    "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T14:43:03+00:00",
+    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T14:21:59+00:00",
+    "summary": "The stunning reversal was supported by senior officials in the U.S. government."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -7,6 +142,15 @@
     "date": "2026-11-23",
     "timestamp": "2026-11-23T01:25:53+00:00",
     "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+    "id": "https://huggingface.co/blog/agentic-evals",
+    "title": "How to build and maintain an agentic evaluation",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -63,69 +207,6 @@
     "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
   },
   {
-    "id": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T19:53:41+00:00",
-    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T19:32:08+00:00",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "title": "Chips can survive the space environment — can their financing?",
-    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T17:40:01+00:00",
-    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
-  },
-  {
-    "id": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T14:55:44+00:00",
-    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T14:00:00+00:00",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T00:56:01+00:00",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20",
-    "timestamp": "2026-11-20T00:43:50+00:00",
-    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
-  },
-  {
     "id": "https://huggingface.co/blog/inkling2mini",
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "link": "https://huggingface.co/blog/inkling2mini",
@@ -144,51 +225,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T21:58:06+00:00",
-    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T21:42:31+00:00",
-    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T20:18:49+00:00",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T19:10:45+00:00",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T18:09:11+00:00",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-  },
-  {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
@@ -196,15 +232,6 @@
     "date": "2026-11-19",
     "timestamp": "2026-11-19T18:00:00+00:00",
     "summary": "Gemini spark on a space background"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T17:38:40+00:00",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan"
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
@@ -303,15 +330,6 @@
     "source": "Hugging Face",
     "date": "2026-11-13",
     "timestamp": "2026-11-13T18:00:39+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/xybench",
-    "title": "XYBench: Helping with the problem behind the question",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "source": "Hugging Face",
-    "date": "2026-11-13",
-    "timestamp": "2026-11-13T17:02:35+00:00",
     "summary": ""
   },
   {

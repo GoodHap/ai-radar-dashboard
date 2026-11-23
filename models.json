@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T10:37:05.016488+00:00",
+  "last_updated": "2026-11-23T22:31:40.672917+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -38,29 +38,29 @@
       "trend": "up"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
     },
     {
-      "name": "LingSante-3.1-flash",
-      "company": "inclusionAI",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Aion-1.0-Instruct-2.3B",
-      "company": "microsoft",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
+      "name": "Aion-1.0-Instruct-2.3B",
+      "company": "microsoft",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
@@ -73,8 +73,8 @@
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "MemT-1.0-Pro",
+      "company": "MemTensor",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "CCORE-Web-Coder-4B",
-      "company": "ccore",
+      "name": "Kolibri-1.1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "LFM3-1.7B",
+      "company": "LiquidAI",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
