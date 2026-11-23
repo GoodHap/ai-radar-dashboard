@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T20:16:35.527512+00:00",
+  "last_updated": "2026-11-23T01:30:31.124900+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -66,8 +66,8 @@
       "trend": "flat"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "company": "xtools-at",
+      "name": "Raon-1-nano",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

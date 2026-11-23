@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23",
+    "timestamp": "2026-11-23T01:25:53+00:00",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-22",
+    "timestamp": "2026-11-22T21:14:07+00:00",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
     "title": "Why data centers are at the center of the Big Tech backlash",
     "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
@@ -196,24 +214,6 @@
     "date": "2026-11-19",
     "timestamp": "2026-11-19T17:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\" />Walter Isaacson joins Google to discuss how history’s greatest innovators inspire cr"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T17:00:00+00:00",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19",
-    "timestamp": "2026-11-19T16:59:23+00:00",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
   },
   {
     "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
