@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T01:30:31.124900+00:00",
+  "last_updated": "2026-11-23T10:37:05.016488+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,8 +45,8 @@
       "trend": "up"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
@@ -66,36 +66,36 @@
       "trend": "flat"
     },
     {
-      "name": "LingSante-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Meta-Llama-3-8B-Instruct",
+      "company": "meta-llama",
       "type": "Open Source",
       "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
-      "company": "nvidia",
-      "type": "Open Source",
-      "score": 82.0,
       "trend": "flat"
     },
     {
       "name": "LFM3-1.7B",
       "company": "LiquidAI",
       "type": "Open Source",
+      "score": 82.0,
+      "trend": "flat"
+    },
+    {
+      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "company": "nvidia",
+      "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Edge0-145B-NVFP4",
-      "company": "Edge0",
+      "name": "CCORE-Web-Coder-4B",
+      "company": "ccore",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-nano",
-      "company": "KRAFTON",
+      "name": "Edge0-145B-NVFP4",
+      "company": "Edge0",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
