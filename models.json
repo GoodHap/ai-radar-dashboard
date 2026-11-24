@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T22:31:40.672917+00:00",
+  "last_updated": "2026-11-24T06:53:38.307364+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "Maxwell-V1-Flash",
-      "company": "maxwell-model",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "LingSante-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Maxwell-V1-Flash",
+      "company": "maxwell-model",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -52,50 +52,50 @@
       "trend": "up"
     },
     {
+      "name": "MemT-1.0-Pro",
+      "company": "MemTensor",
+      "type": "Open Source",
+      "score": 83.5,
+      "trend": "flat"
+    },
+    {
       "name": "Olala-v1.0-mini-7A1B",
       "company": "OVHaiLLM",
       "type": "Open Source",
-      "score": 83.5,
+      "score": 83.0,
       "trend": "flat"
     },
     {
       "name": "Aion-1.0-Instruct-2.3B",
       "company": "microsoft",
       "type": "Open Source",
-      "score": 83.0,
+      "score": 82.5,
       "trend": "flat"
     },
     {
       "name": "Meta-Llama-3-8B-Instruct",
       "company": "meta-llama",
       "type": "Open Source",
-      "score": 82.5,
-      "trend": "flat"
-    },
-    {
-      "name": "MemT-1.0-Pro",
-      "company": "MemTensor",
-      "type": "Open Source",
       "score": 82.0,
-      "trend": "flat"
-    },
-    {
-      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
-      "company": "nvidia",
-      "type": "Open Source",
-      "score": 81.5,
       "trend": "flat"
     },
     {
       "name": "Kolibri-1.1",
       "company": "Aleph-Alpha",
       "type": "Open Source",
+      "score": 81.5,
+      "trend": "flat"
+    },
+    {
+      "name": "Inkling-2-Mini-abliterated-GGUF",
+      "company": "orcarouter",
+      "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "LFM3-1.7B",
-      "company": "LiquidAI",
+      "name": "Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
