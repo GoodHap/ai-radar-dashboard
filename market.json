@@ -2,6 +2,13 @@
   "global_market_size": "$412B",
   "funding_events": [
     {
+      "date": "2026-11-24",
+      "company": "Amazon’s",
+      "amount": "$7.5 BILLION",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    },
+    {
       "date": "2026-11-23",
       "company": "Supertake",
       "amount": "$20M",
