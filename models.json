@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T02:59:22.474376+00:00",
+  "last_updated": "2026-11-25T12:39:34.467148+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "LingSante-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Ternary-Bonsai-2.5-27B-GGUF",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "Ternary-Bonsai-2.5-27B-GGUF",
-      "company": "prism-ml",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -73,22 +73,22 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "Raon-1-mini",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Maxwell-V1-Flash",
-      "company": "maxwell-model",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
