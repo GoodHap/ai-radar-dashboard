@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T00:12:02+00:00",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24",
+    "timestamp": "2026-11-24T22:27:52+00:00",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24",
+    "timestamp": "2026-11-24T21:48:27+00:00",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24",
+    "timestamp": "2026-11-24T21:33:29+00:00",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24",
+    "timestamp": "2026-11-24T21:32:38+00:00",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24",
+    "timestamp": "2026-11-24T21:19:52+00:00",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
@@ -153,15 +207,6 @@
     "summary": ""
   },
   {
-    "id": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T17:14:23+00:00",
-    "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
     "title": "A more tailored Google Search that’s uniquely yours",
     "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -169,51 +214,6 @@
     "date": "2026-11-23",
     "timestamp": "2026-11-23T17:00:00+00:00",
     "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-    "title": "Jensen Huang isn’t out of the woods yet",
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T16:57:40+00:00",
-    "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T16:39:10+00:00",
-    "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T15:04:01+00:00",
-    "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T14:43:03+00:00",
-    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T14:21:59+00:00",
-    "summary": "The stunning reversal was supported by senior officials in the U.S. government."
   },
   {
     "id": "https://huggingface.co/blog/agentic-evals",
@@ -448,23 +448,5 @@
     "date": "2026-11-10",
     "timestamp": "2026-11-10T13:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\" />Google Cloud launches Gemini for healthcare to unify clinical data and au"
-  },
-  {
-    "id": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "source": "Hugging Face",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T00:00:00+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/decision",
-    "title": "Decision Models in Hugging Face",
-    "link": "https://huggingface.co/blog/decision",
-    "source": "Hugging Face",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T00:00:00+00:00",
-    "summary": ""
   }
 ]

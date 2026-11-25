@@ -3,6 +3,13 @@
   "funding_events": [
     {
       "date": "2026-11-24",
+      "company": "Maple",
+      "amount": "$5.3M",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    },
+    {
+      "date": "2026-11-24",
       "company": "Amazon’s",
       "amount": "$7.5 BILLION",
       "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
@@ -14,20 +21,6 @@
       "amount": "$20M",
       "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-    },
-    {
-      "date": "2026-11-23",
-      "company": "Amazon",
-      "amount": "$7.5B",
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-    },
-    {
-      "date": "2026-11-23",
-      "company": "Sierra",
-      "amount": "$30B",
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
     }
   ]
 }

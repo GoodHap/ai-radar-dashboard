@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T18:48:05.221431+00:00",
+  "last_updated": "2026-11-25T02:59:22.474376+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -31,15 +31,15 @@
       "trend": "up"
     },
     {
-      "name": "ERNIE-5.5-Flash-Preview",
-      "company": "baidu",
+      "name": "LingSante-3.1-flash",
+      "company": "inclusionAI",
       "type": "Open Source",
       "score": 85.0,
       "trend": "up"
     },
     {
-      "name": "LingSante-3.1-flash",
-      "company": "inclusionAI",
+      "name": "Ternary-Bonsai-2.5-27B-GGUF",
+      "company": "prism-ml",
       "type": "Open Source",
       "score": 84.5,
       "trend": "up"
@@ -52,29 +52,29 @@
       "trend": "up"
     },
     {
-      "name": "MemT-1.0-Pro",
-      "company": "MemTensor",
+      "name": "Inkling-2-Mini-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "Inkling-2-Mini-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "ERNIE-5.5-Flash-Preview",
+      "company": "baidu",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "MemT-1.0-Pro",
+      "company": "MemTensor",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
     },
     {
-      "name": "Maxwell-V1-Flash",
-      "company": "maxwell-model",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 82.0,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Aion-1.0-Instruct-2.3B",
-      "company": "microsoft",
+      "name": "Maxwell-V1-Flash",
+      "company": "maxwell-model",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Meta-Llama-3-8B-Instruct",
-      "company": "meta-llama",
+      "name": "Aion-1.0-Instruct-2.3B",
+      "company": "microsoft",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
