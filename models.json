@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T12:39:34.467148+00:00",
+  "last_updated": "2026-11-25T22:21:18.299505+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "Olala-v1.0-mini-7A1B",
+      "company": "OVHaiLLM",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Olala-v1.0-mini-7A1B",
-      "company": "OVHaiLLM",
+      "name": "Aion-1.0-Instruct-2.3B",
+      "company": "microsoft",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "Aion-1.0-Instruct-2.3B",
-      "company": "microsoft",
+      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "company": "nvidia",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"

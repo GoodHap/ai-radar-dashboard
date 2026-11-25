@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T20:03:27+00:00",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T19:54:57+00:00",
+    "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T19:44:24+00:00",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "title": "Where scientists draw the line on AI agents",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "source": "Hugging Face",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T18:52:55+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T18:11:46+00:00",
+    "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T17:35:58+00:00",
+    "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+    "id": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T15:41:43+00:00",
+    "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. T"
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T14:10:18+00:00",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T13:00:00+00:00",
+    "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurance"
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "title": "An Indic Voice Agent with CUGA",
     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -16,6 +97,15 @@
     "date": "2026-11-25",
     "timestamp": "2026-11-25T00:12:02+00:00",
     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \""
+  },
+  {
+    "id": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "source": "Hugging Face",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T00:00:00+00:00",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
@@ -133,87 +223,6 @@
     "date": "2026-11-24",
     "timestamp": "2026-11-24T16:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp\" />Google Gemini partners with Golden State to power fan experiences and business"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24",
-    "timestamp": "2026-11-24T15:51:07+00:00",
-    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T22:05:50+00:00",
-    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T22:02:05+00:00",
-    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T21:47:41+00:00",
-    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T21:25:42+00:00",
-    "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-    "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T20:38:53+00:00",
-    "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T19:14:46+00:00",
-    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T18:12:22+00:00",
-    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/robotrack",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "source": "Hugging Face",
-    "date": "2026-11-23",
-    "timestamp": "2026-11-23T17:20:37+00:00",
-    "summary": ""
   },
   {
     "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
@@ -421,32 +430,5 @@
     "date": "2026-11-11",
     "timestamp": "2026-11-11T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "title": "Gemini Intelligence: New features, on more devices",
-    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "source": "Google AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T19:00:00+00:00",
-    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
-  },
-  {
-    "id": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "source": "Google AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T14:00:00+00:00",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp\" />Google and Adobe are integrating creative and productivity tools. Edit PDFs"
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "source": "Google AI",
-    "date": "2026-11-10",
-    "timestamp": "2026-11-10T13:00:00+00:00",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\" />Google Cloud launches Gemini for healthcare to unify clinical data and au"
   }
 ]
