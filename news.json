@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26",
+    "timestamp": "2026-11-26T20:03:54+00:00",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+  },
+  {
+    "id": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26",
+    "timestamp": "2026-11-26T16:00:00+00:00",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+  },
+  {
     "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -216,24 +234,6 @@
     "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
   },
   {
-    "id": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24",
-    "timestamp": "2026-11-24T16:46:00+00:00",
-    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
-  },
-  {
-    "id": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24",
-    "timestamp": "2026-11-24T16:10:00+00:00",
-    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "title": "How Gemini is changing the game for Golden State's organization and fans.",
     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
@@ -394,23 +394,5 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T00:00:00+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "source": "Google AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T18:00:00+00:00",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
-  },
-  {
-    "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "source": "Google AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T16:00:00+00:00",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp\" />Tabletop is a new Google Labs experiment for group collaborati"
   }
 ]
