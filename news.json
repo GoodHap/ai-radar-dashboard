@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25",
+    "timestamp": "2026-11-25T22:44:32+00:00",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+  },
+  {
     "id": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
@@ -207,15 +216,6 @@
     "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
   },
   {
-    "id": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "source": "TechCrunch AI",
-    "date": "2026-11-24",
-    "timestamp": "2026-11-24T16:02:37+00:00",
-    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
-  },
-  {
     "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "title": "How Gemini is changing the game for Golden State's organization and fans.",
     "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
@@ -420,15 +420,6 @@
     "source": "Hugging Face",
     "date": "2026-11-11",
     "timestamp": "2026-11-11T05:01:16+00:00",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/token-pooling",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "source": "Hugging Face",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T00:00:00+00:00",
     "summary": ""
   }
 ]
