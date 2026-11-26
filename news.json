@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "Hugging Face",
+    "date": "2026-11-26",
+    "timestamp": "2026-11-26T11:37:17+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "Hugging Face",
+    "date": "2026-11-26",
+    "timestamp": "2026-11-26T05:05:36+00:00",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/training-swarms",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "source": "Hugging Face",
+    "date": "2026-11-26",
+    "timestamp": "2026-11-26T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -198,15 +225,6 @@
     "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
   },
   {
-    "id": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "source": "Hugging Face",
-    "date": "2026-11-24",
-    "timestamp": "2026-11-24T16:34:13+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
     "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
     "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
@@ -351,15 +369,6 @@
     "summary": ""
   },
   {
-    "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face",
-    "date": "2026-11-13",
-    "timestamp": "2026-11-13T14:05:22+00:00",
-    "summary": ""
-  },
-  {
     "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -403,23 +412,5 @@
     "date": "2026-11-11",
     "timestamp": "2026-11-11T16:00:00+00:00",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp\" />Tabletop is a new Google Labs experiment for group collaborati"
-  },
-  {
-    "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "source": "Google AI",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T09:00:00+00:00",
-    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand"
-  },
-  {
-    "id": "https://huggingface.co/blog/qvac/botpsy",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "source": "Hugging Face",
-    "date": "2026-11-11",
-    "timestamp": "2026-11-11T05:01:16+00:00",
-    "summary": ""
   }
 ]

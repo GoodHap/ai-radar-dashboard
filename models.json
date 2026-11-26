@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T04:52:45.820186+00:00",
+  "last_updated": "2026-11-26T14:56:26.542711+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -45,29 +45,29 @@
       "trend": "up"
     },
     {
-      "name": "Kolibri-1.1",
-      "company": "Aleph-Alpha",
+      "name": "Inkling-2-Mini-abliterated-GGUF",
+      "company": "orcarouter",
       "type": "Open Source",
       "score": 84.0,
       "trend": "up"
     },
     {
-      "name": "Inkling-2-Mini-abliterated-GGUF",
-      "company": "orcarouter",
+      "name": "Kolibri-1.1",
+      "company": "Aleph-Alpha",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "ERNIE-5.5-Flash-Preview",
-      "company": "baidu",
+      "name": "Raon-1-mini",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Raon-1-mini",
-      "company": "KRAFTON",
+      "name": "ERNIE-5.5-Flash-Preview",
+      "company": "baidu",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -87,15 +87,15 @@
       "trend": "flat"
     },
     {
-      "name": "Aion-1.0-Instruct-2.3B",
-      "company": "microsoft",
+      "name": "Ternary-Bonsai-2.5-27B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "company": "nvidia",
+      "name": "Aion-1.0-Instruct-2.3B",
+      "company": "microsoft",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
