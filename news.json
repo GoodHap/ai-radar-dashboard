@@ -385,14 +385,5 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T18:00:00+00:00",
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI"
-  },
-  {
-    "id": "https://huggingface.co/blog/3d-lora-finetuning",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "source": "Hugging Face",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T00:00:00+00:00",
-    "summary": ""
   }
 ]

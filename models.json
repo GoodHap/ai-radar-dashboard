@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T23:42:26.287381+00:00",
+  "last_updated": "2026-11-27T08:00:33.947157+00:00",
   "total_tracked": 134,
   "leaderboard": [
     {
@@ -52,22 +52,22 @@
       "trend": "up"
     },
     {
-      "name": "Raon-1-mini",
-      "company": "KRAFTON",
+      "name": "Inkling-2-Mini-GSQ-RCO-GGUF",
+      "company": "ISTA-DASLab",
       "type": "Open Source",
       "score": 83.5,
       "trend": "flat"
     },
     {
-      "name": "ERNIE-5.5-Flash-Preview",
-      "company": "baidu",
+      "name": "Raon-1-mini",
+      "company": "KRAFTON",
       "type": "Open Source",
       "score": 83.0,
       "trend": "flat"
     },
     {
-      "name": "Inkling-2-Mini-GSQ-RCO-GGUF",
-      "company": "ISTA-DASLab",
+      "name": "ERNIE-5.5-Flash-Preview",
+      "company": "baidu",
       "type": "Open Source",
       "score": 82.5,
       "trend": "flat"
@@ -80,22 +80,22 @@
       "trend": "flat"
     },
     {
-      "name": "Ternary-Bonsai-2.5-27B-Uncensored-GGUF",
-      "company": "AtomicChat",
+      "name": "CCORE-Web-Coder-4B",
+      "company": "ccore",
       "type": "Open Source",
       "score": 81.5,
       "trend": "flat"
     },
     {
-      "name": "Aion-1.0-Instruct-2.3B",
-      "company": "microsoft",
+      "name": "Ternary-Bonsai-2.5-27B-Uncensored-GGUF",
+      "company": "AtomicChat",
       "type": "Open Source",
       "score": 81.0,
       "trend": "flat"
     },
     {
-      "name": "MemT-1.0-Pro",
-      "company": "MemTensor",
+      "name": "GigaChat4-708B-A41B",
+      "company": "ai-sage",
       "type": "Open Source",
       "score": 80.5,
       "trend": "flat"
