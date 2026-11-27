@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/video-trainium3",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "source": "Hugging Face",
+    "date": "2026-11-27",
+    "timestamp": "2026-11-27T00:00:00+00:00",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -376,14 +385,5 @@
     "date": "2026-11-12",
     "timestamp": "2026-11-12T19:07:35+00:00",
     "summary": ""
-  },
-  {
-    "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "source": "Google AI",
-    "date": "2026-11-12",
-    "timestamp": "2026-11-12T18:00:00+00:00",
-    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI"
   }
 ]
